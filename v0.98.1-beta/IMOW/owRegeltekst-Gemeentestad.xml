@@ -58,13 +58,13 @@
 					<r:idealisatie>exact</r:idealisatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000001"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</r:locatieaanduiding>
 					<r:gebiedsaanwijzing>
 						<g-ref:GebiedsaanwijzingRef xlink:href="nl.imow-gm0037.gebiedsaanwijzing.2019000001"/>
 					</r:gebiedsaanwijzing>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000001"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000001"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -88,13 +88,13 @@
 					</r:nadereRegelkwalificatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000001"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.Activiteit.2019000241"/>
+						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000241"/>
 					</r:activiteitaanduiding>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000002"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000002"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -110,13 +110,13 @@
 					</r:nadereRegelkwalificatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000001"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.Activiteit.2019000242"/>
+						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000242"/>
 					</r:activiteitaanduiding>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000002"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000002"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -132,14 +132,14 @@
 					</r:nadereRegelkwalificatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000001"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.Activiteit.2019000243"/>
+						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000243"/>
 						<!-- deze activiteit heeft ook een regel vanuit art 2.11 lid 1 -->
 					</r:activiteitaanduiding>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000002"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000002"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -155,13 +155,13 @@
 					</r:nadereRegelkwalificatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000001"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.Activiteit.2019000244"/>
+						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000244"/>
 					</r:activiteitaanduiding>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000002"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000002"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -177,13 +177,13 @@
 					</r:nadereRegelkwalificatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000001"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.Activiteit.2019000245"/>
+						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000245"/>
 					</r:activiteitaanduiding>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000002"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000002"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -199,13 +199,13 @@
 					</r:nadereRegelkwalificatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000001"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.Activiteit.2019000246"/>
+						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000246"/>
 					</r:activiteitaanduiding>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000002"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000002"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -229,13 +229,13 @@
 					</r:nadereRegelkwalificatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000001"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.Activiteit.2019000730"/>
+						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000730"/>
 					</r:activiteitaanduiding>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000003"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000003"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -251,13 +251,13 @@
 					</r:nadereRegelkwalificatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000001"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.Activiteit.2019000740"/>
+						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000740"/>
 					</r:activiteitaanduiding>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000003"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000003"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -273,13 +273,13 @@
 					</r:nadereRegelkwalificatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000001"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.Activiteit.2019000750"/>
+						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000750"/>
 					</r:activiteitaanduiding>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000003"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000003"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -305,13 +305,13 @@
 					</r:nadereRegelkwalificatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000001"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.Activiteit.2019000590"/>
+						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000590"/>
 					</r:activiteitaanduiding>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000004"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000004"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -336,13 +336,13 @@
 					</r:nadereRegelkwalificatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000001"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.Activiteit.2019000540"/>
+						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000540"/>
 					</r:activiteitaanduiding>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.20190000007"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.20190000007"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -361,13 +361,13 @@
 					<r:idealisatie>exact</r:idealisatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000004"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000004"/>
 					</r:locatieaanduiding>
 					<r:gebiedsaanwijzing>
 						<g-ref:GebiedsaanwijzingRef xlink:href="nl.imow-gm0037.Gebiedsaanwijzing.2019000002"/>
 					</r:gebiedsaanwijzing>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000012"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000012"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -392,13 +392,13 @@
 					</r:nadereRegelkwalificatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000004"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000004"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.Activiteit.2019000660"/>
+						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000660"/>
 					</r:activiteitaanduiding>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000008"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000008"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
@@ -423,14 +423,14 @@
 					</r:nadereRegelkwalificatie>
 					<r:regelkwalificatie>regel voor iedereen</r:regelkwalificatie>
 					<r:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.Gebied.2019000004"/>
+						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000004"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
-						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.Activiteit.2019000530"/>
+						<rol-ref:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000530"/>
 						<!-- Zelfde activiteit, waar ook een andere regel over is, in art 2.4 -->
 					</r:activiteitaanduiding>
 					<r:artikelOfLid>
-						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.Regeltekst.2019000009"/>
+						<r-ref:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000009"/>
 					</r:artikelOfLid>
 				</r:JuridischeRegel>
 			</ow-dc:owObject>
