@@ -25,12 +25,12 @@
               schemaLocation="../../../IMOW/locatie-ref/v20190709/IMOW_LocatieRef_v0_9_8.xsd"/>
    <xs:import namespace="http://www.geostandaarden.nl/imow/owobject/v20190709"
               schemaLocation="../../../IMOW/owobject/v20190709/IMOW_OWobject_v0_9_8.xsd"/>
-   <xs:element name="Pons" type="p:Pons" abstract="true">
+   <xs:element name="Pons" type="p:Pons" abstract="false">
       <xs:annotation>
          <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Duiding van een geografische positie.</xs:documentation>
       </xs:annotation>
    </xs:element>
-   <xs:complexType name="Pons" abstract="true">
+   <xs:complexType name="Pons" abstract="false">
       <xs:complexContent>
          <xs:extension base="ow:OWobject">
             <xs:sequence>
