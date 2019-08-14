@@ -15,6 +15,14 @@
       <objecttype>Gebiedsaanwijzing</objecttype>
     </Bestand>
     <Bestand>
+      <naam>owPons-Gemeentestad.xml</naam>
+      <objecttype>Pons</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>owOmgevingsNormOmgevingswaarde.xml</naam>
+      <objecttype>OmgevingsNormOmgevingswaarde</objecttype>
+    </Bestand>
+    <Bestand>
       <naam>owLocaties-Gemeentestad.xml</naam>
       <objecttype>Gebiedengroep</objecttype>
       <objecttype>Gebied</objecttype>
