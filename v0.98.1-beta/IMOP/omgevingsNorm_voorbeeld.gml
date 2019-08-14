@@ -17,7 +17,7 @@
         <gml:MultiSurface xmlns:gml="http://www.opengis.net/gml/3.2" srsName="urn:ogc:def:crs:EPSG::28992" 
           gml:id="nl.imow-gm0037.Zuilichem.geom.0">
           <gml:surfaceMember>
-            <gml:Polygon gml:id="nl.imow-gm0037.Zuilichem.geom.0.0">
+            <gml:Polygon gml:id="nl.imow-gm0037.Zuilichem.0.0">
                 <gml:exterior>
                   <gml:LinearRing>
                     <gml:posList>138488.367 424110.676 138539.221 
@@ -52,7 +52,7 @@
           <gml:surfaceMember>
             
           
-        <gml:Polygon srsName="urn:ogc:def:crs:EPSG::28992" gml:id="Zuilichem.geom.1.0">
+        <gml:Polygon srsName="urn:ogc:def:crs:EPSG::28992" gml:id="nl.imow-gm0037.Zuilichem.1.0">
           <gml:exterior>
             <gml:LinearRing>
               <gml:posList>138328.581 423893.994 138382.39 424048.862 138340.763 
@@ -89,7 +89,7 @@
           <geo:geometrie>
             <gml:MultiSurface>
               <gml:surfaceMember>
-               <gml:Polygon srsName="urn:ogc:def:crs:EPSG::28992" gml:id="Zuilichem.geom.2.0">
+               <gml:Polygon srsName="urn:ogc:def:crs:EPSG::28992" gml:id="nl.imow-gm0037.Zuilichem.2.0">
                  <gml:exterior>
                   <gml:LinearRing>
                     <gml:posList>138000.0 423946.242 137892.152 423983.482 137826.108 
@@ -136,7 +136,7 @@
       <geo:geometrie>
         <gml:MultiSurface>
         <gml:surfaceMember>  
-        <gml:Polygon srsName="urn:ogc:def:crs:EPSG::28992" gml:id="Zuilichem.geom.3.0">
+        <gml:Polygon srsName="urn:ogc:def:crs:EPSG::28992" gml:id="nl.imow-gm0037.Zuilichem.3.0">
           <gml:exterior>
             <gml:LinearRing>
             <gml:posList>138626.407 424401.347 138639.706 424527.004 138620.613 
