@@ -42,12 +42,12 @@
 		
 	<sl:stand>
 		<ow-dc:owObject>
-			<rol:Omgevingswaarde rkow:regeltekstId="">
-				<rol:identificatie>nl.imow-gm0037.omgevingswaarde.201900002</rol:identificatie>
+			<rol:Omgevingsnorm rkow:regeltekstId="">
+				<rol:identificatie>nl.imow-gm0037.omgevingsnorm.201900002</rol:identificatie>
 				<rol:normwaarde>
 					<rol:Normwaarde>
 						<rol:kwantitatieveWaarde>
-							<d-a:waarde>12</d-a:waarde>
+							<d-a:waarde>13</d-a:waarde>
 							<d-a:eenheid>meter</d-a:eenheid>
 						</rol:kwantitatieveWaarde>
 						<rol:locatieaanduiding>
@@ -66,9 +66,9 @@
 						</rol:locatieaanduiding>
 					</rol:Normwaarde>
 				</rol:normwaarde>
-				<rol:naam>maximale bouwhoogte</rol:naam>
+				<rol:naam>maximum bouwhoogte</rol:naam>
 				<rol:groep>maatvoeringbouwen</rol:groep>
-			</rol:Omgevingswaarde>
+			</rol:Omgevingsnorm>
 		</ow-dc:owObject>
 	</sl:stand>	
 </sl:standBestand>
