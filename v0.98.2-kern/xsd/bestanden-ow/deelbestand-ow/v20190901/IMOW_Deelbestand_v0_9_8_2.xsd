@@ -36,6 +36,7 @@
 					<xs:element ref="l:Lijn"/>
 					<xs:element ref="l:Lijnengroep"/>
 					<xs:element ref="vt:FormeleInhoud"/>
+					<xs:element ref="k:Symbolisatiecollectie"/>
 					<xs:element ref="k:Kaart"/>
 					<xs:element ref="p:Pons"/>
 					<xs:element ref="vt:Tekstdeel"/>
