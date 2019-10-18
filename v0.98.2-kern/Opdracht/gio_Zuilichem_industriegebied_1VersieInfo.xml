@@ -1,24 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<geo:FeatureCollectionGeometrie xmlns:gml="http://www.opengis.net/gml/3.2"
-    xmlns:geo="http://www.geostandaarden.nl/basisgeometrie/v20190901"
+<AanleveringGIO schemaversie="0.98.2" 
+    xmlns="https://standaarden.overheid.nl/lvbb/stop/"
+    xmlns:data="https://standaarden.overheid.nl/stop/imop/data/"
+    xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+    xmlns:lvbb="http://standaarden.overheid.nl/lvbb/stop/"
+    xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    gml:id="main">
-    <geo:featureMember>
-        <geo:Geometrie gml:id="id-772B4B37-69F8-4671-B92E-3BCED242409D">
-            <geo:id>772B4B37-69F8-4671-B92E-3BCED242409D</geo:id>
-            <geo:geometrie>
-                <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="id-772B4B37-69F8-4671-B92E-3BCED242409D-0">
-                    <gml:surfaceMember>
-                        <gml:Polygon gml:id="id-772B4B37-69F8-4671-B92E-3BCED242409D-1">
-                            <gml:exterior>
-                                <gml:LinearRing>
-                                    <gml:posList>138488.367 424110.676 138539.221 424103.815 138558.243 424101.248 138677.166 424085.204 138715.527 424371.411 138450.462 424407.085 138413.752 424120.742 138488.367 424110.676</gml:posList>
-                                </gml:LinearRing>
-                            </gml:exterior>
-                        </gml:Polygon>
-                    </gml:surfaceMember>
-                </gml:MultiSurface>
-            </geo:geometrie>
-        </geo:Geometrie>
-    </geo:featureMember>   
-</geo:FeatureCollectionGeometrie>
+    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../xsd/LVBB-stop.xsd">
+    <InformatieObjectVersie>
+        <data:ExpressionIdentificatie>
+            <data:FRBRWork>/join/id/regdata//2019/</data:FRBRWork>
+            <data:FRBRExpression>/join/id/regdata//2019//nld@2019;1</data:FRBRExpression>
+            <data:soortWork>/join/id/stop/work_007</data:soortWork>
+        </data:ExpressionIdentificatie>
+        <data:InformatieObjectMetadata>
+            <data:eindverantwoordelijke>/tooi/id//</data:eindverantwoordelijke>
+            <data:maker>/tooi/id//</data:maker>
+            <data:noemer></data:noemer>
+            <data:officieleTitel></data:officieleTitel>
+            <data:publicatieinstructie>TeConsolideren</data:publicatieinstructie>
+            <data:soortInformatieobject>/join/id/stop/informatieobject/gio_001</data:soortInformatieobject>
+            <data:heeftBestanden>
+                <data:heeftBestand>
+                    <data:Bestand>
+                        <data:bestandsnaam>gio_Zuilichem_industriegebied_1.gml</data:bestandsnaam>
+                        <data:hash></data:hash>
+                    </data:Bestand>
+                </data:heeftBestand>
+                <data:heeftBestand>
+                    <data:Bestand>
+                        <data:bestandsnaam>gio_Zuilichem_industriegebied_1Geometrie.gml</data:bestandsnaam>
+                        <data:hash></data:hash>
+                    </data:Bestand>
+                </data:heeftBestand>
+                <data:heeftBestand>
+                    <data:Bestand>
+                        <data:bestandsnaam>gio_Zuilichem_industriegebied_1Achtergrond.xml</data:bestandsnaam>
+                        <data:hash></data:hash>
+                    </data:Bestand>
+                </data:heeftBestand>
+            </data:heeftBestanden>
+        </data:InformatieObjectMetadata>
+    </InformatieObjectVersie>
+</AanleveringGIO>
