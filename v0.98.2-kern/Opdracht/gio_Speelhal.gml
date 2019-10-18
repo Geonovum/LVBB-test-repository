@@ -8,7 +8,7 @@
    <geo:Locatie gml:id="">
       <geo:wId></geo:wId>
       <geo:naam></geo:naam>
-      <geo:geometrie xlink:href=""/>
+      <geo:geometrie xlink:href="gio_SpeelhalGeometrie.gml#id-33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A"/>
    </geo:Locatie>
 </geo:GeoInformatie>
 

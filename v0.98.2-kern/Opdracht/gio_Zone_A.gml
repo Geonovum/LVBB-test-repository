@@ -8,7 +8,7 @@
    <geo:Locatie gml:id="">
       <geo:wId></geo:wId>
       <geo:naam></geo:naam>
-      <geo:geometrie xlink:href=""/>
+      <geo:geometrie xlink:href="gio_Zone_AGeometrie.gml#id-B3AF6AF7-5EFA-4A87-9C66-BFB046DD89AC"/>
    </geo:Locatie>
 </geo:GeoInformatie>
 

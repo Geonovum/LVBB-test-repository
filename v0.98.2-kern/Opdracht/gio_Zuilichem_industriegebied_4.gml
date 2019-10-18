@@ -8,7 +8,7 @@
     <geo:Locatie gml:id="">
         <geo:wId></geo:wId>
         <geo:naam></geo:naam>
-        <geo:geometrie xlink:href=""/>
+        <geo:geometrie xlink:href="gio_Zuilichem_industriegebied_4Geometrie.gml#id-EFAAD5E9-B181-4C22-9C3B-B290F4586D82"/>
     </geo:Locatie>
 </geo:GeoInformatie>
 

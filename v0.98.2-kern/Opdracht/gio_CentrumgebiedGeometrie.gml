@@ -4,7 +4,7 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    gml:id="main">
    <geo:featureMember>
-      <geo:Geometrie gml:id="D28AF779-7EDD-4A88-8B11-809798F53636">
+      <geo:Geometrie gml:id="id-D28AF779-7EDD-4A88-8B11-809798F53636">
          <geo:id>D28AF779-7EDD-4A88-8B11-809798F53636</geo:id>
          <geo:geometrie>
             <gml:MultiSurface xmlns:gml="http://www.opengis.net/gml/3.2" srsName="urn:ogc:def:crs:EPSG::28992" gml:id="id-D28AF779-7EDD-4A88-8B11-809798F53636-0">
