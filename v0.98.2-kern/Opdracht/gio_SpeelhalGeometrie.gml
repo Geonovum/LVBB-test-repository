@@ -2,6 +2,7 @@
 <geo:FeatureCollectionGeometrie xmlns:gml="http://www.opengis.net/gml/3.2"
    xmlns:geo="http://www.geostandaarden.nl/basisgeometrie/v20190901"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.geostandaarden.nl/basisgeometrie/v20190901 ../xsd/stop/Basisgeometrie.xsd"
    gml:id="main">
    <geo:featureMember>
       <geo:Geometrie gml:id="id-33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A">
