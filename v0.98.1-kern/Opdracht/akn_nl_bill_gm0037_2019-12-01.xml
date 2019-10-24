@@ -25,7 +25,6 @@
          <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
       </rechtsgebieden>
       <informatieobjectRefs>
-         <!-- PR34  /join/id/regdata/gm0037/2019/loc_ABC@2019-01-16;3520 moet zijn (zie **) /join/id/regdata/gm0037/2019/loc_ABC*/*@2019-01-16;3520-->
          <informatieobjectRef>/join/id/regdata/gm0037/2019/loc_ABC/nld@2019-01-16;3520</informatieobjectRef>
          <informatieobjectRef>/join/id/regdata/gm0037/2019/loc_DEF/nld@2019-01-16;3520</informatieobjectRef>
          <informatieobjectRef>/join/id/regdata/gm0037/2019/loc_ZA/nld@2019-01-16;3520</informatieobjectRef>
@@ -37,7 +36,6 @@
       <Procedureverloop>
          <bekendOp>2019-09-11</bekendOp>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
-         <!-- PR34: gewenste datum publicatie moet meegegeven worden in opdracht. Daadwerkelijke datum publicatie wordt door publicatieproces ingevuld. -->
          <procedurestappen>
             <Procedurestap>
                <soortStap>/join/id/stop/procedure/stap_002</soortStap>
@@ -65,7 +63,6 @@
                   <Nummer>II</Nummer>
                </Kop>
                <Inhoud>
-                  <!-- PR34: datum inwerkingtreding moet altijd na datum bekendmaking liggen. -->
                   <Al>Dit besluit treedt in werking per 1 januari 2020.</Al>
                </Inhoud>
             </Artikel>
@@ -80,14 +77,12 @@
                <Al>producteigenaar</Al>
             </Ondertekening>
          </Sluiting>
-         <!-- PR34: wId moet <overheid>_<versienummer> bevatten -->
          <WijzigBijlage eId="cmp_A" wId="gm0037_1__cmp_A">
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>A</Nummer>
                <Opschrift>Bijlage bij artikel I</Opschrift>
             </Kop>
-            <!-- PR34: FRBRwork hoort geen !main te bevatten. 'wordt' hoort een expressie identificatie te bevatten. -->
             <MaakInitieleRegeling FRBRwork="/akn/nl/act/gm0037/2018/reg456/nld@2019-02-22" wordt="/akn/nl/act/gm0037/2019/reg456/nld@2019-02-22" componentnaam="component_01">
                <RegelingOpschrift eId="longTitle_1" wId="longTitle_1">
                   <Al>Voorbeeldregels met uitbreiding tbv Toepasbare Regels</Al>
@@ -106,13 +101,11 @@
                            <Opschrift>Doel functietoedeling</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <!-- PR34: in het doel in de intIoRef staat 'gm0037_X' terwijl dit in de betreffende bijlage 'gm0037_1' heet.-->
                            <Al>Het werkingsgebied van de functie '<IntIoRef eId="subchp_2.2__art_2.3__ref_1"
                                         wId="gm0037_1__subchp_2.2__art_2.3__ref_1"
                                         doel="gm0037_1__cmp_I__list_1__item_1__ref_1">Bedrijf categorie 2</IntIoRef>' is bedoeld voor het verrichten van gebruiksactiviteiten die passen bij een bedrijf met een lichte milieucategorie met een beperkte uitstraling op het omringende gebied. </Al>
                         </Inhoud>
                      </Artikel>
-                     <!-- PR34: specificaties voor eId en wId met een trailing . zijn/worden aangepast. -->
                      <Artikel eId="subchp_2.2__art_2.4" wId="gm0037_1__subchp_2.2__art_2.4">
                         <Kop>
                            <Label>Artikel</Label>
@@ -580,7 +573,6 @@
                      </Artikel>
                   </Afdeling>
                </Lichaam>
-               <!-- PR34: laatste inzichten zijn dat in de Bijlage de workidentifiers van de GIO's worden opgenomen. De expression identifiers in een bijlage in het Nawerk -->
                <Bijlage eId="cmp_I" wId="gm0037_1__cmp_I">
                   <Kop>
                      <Label>Bijlage</Label>
@@ -646,9 +638,6 @@
          </WijzigBijlage>
       </Regeling>
    </Besluit>
-   <!-- PR34: instrumentversie moet gelijk zijn aan 'wordt' bij MaakInitieleRegeling.
-      eId moet art_I zijn.
-   Tijdstempel erbij ivm datum inwerkingtreding-->
    <BesluitDoel xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <BeoogdeRegelgeving>
          <BeoogdeRegeling>
