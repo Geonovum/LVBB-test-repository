@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringGIO xmlns="https://standaarden.overheid.nl/lvbb/stop/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml/3.2"
+   xmlns:xlink="http://www.w3.org/1999/xlink" schemaversie="0.98.3-kern"
+   xsi:schemaLocation="http://www.overheid.nl/imop/def# ../lvbb/LVBB-stop.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/gm0037/2019/Zone_B</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0037/2019/Zone_B;3520</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/join/id/stop/gemeente/gm0037</eindverantwoordelijke>
+         <maker>/join/id/stop/gemeente/gm0037</maker>
+         <noemer>Zone_B</noemer>
+         <officieleTitel>Zone_B</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         <!-- Koppeling naar het gml-bestand -->
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Zone_B.gml</bestandsnaam>
+                  <hash>337c3fca5d89bcd0b8f936ec4f40cbf1f4a94782e8a98ef97accb8aefbc937fbe5394c8c82379493d87af7ad74464dea8cfc0b44112f77e088485e60fe7da84f</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+      <GeoInformatie xmlns="https://standaarden.overheid.nl/stop/imop/geo/">
+         <featureMember>
+            <Locatie gml:id="Zone_B">
+               <wId>Zone_B</wId>
+               <naam>Zone_B</naam>
+               <geometrie xlink:href="Zone_B.gml#id-0868A0B1-DA79-4C33-8305-1BDE0126FA9A"/>
+            </Locatie>
+         </featureMember>
+      </GeoInformatie>
+      <Achtergrond xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bronactualiteit>2019-01-01</bronactualiteit>
+         <bronbeschrijving>top10nl</bronbeschrijving>
+         <brontype>achtergrond</brontype>
+         <bronverwijzing>#0868A0B1-DA79-4C33-8305-1BDE0126FA9A</bronverwijzing>
+         <nauwkeurigheid>10</nauwkeurigheid>
+      </Achtergrond>
+   </InformatieObjectVersie>
+</AanleveringGIO>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringGIO xmlns="https://standaarden.overheid.nl/lvbb/stop/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" schemaversie="0.98.3-kern" xsi:schemaLocation="http://www.overheid.nl/imop/def# ../lvbb/LVBB-stop.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/gm0037/2019/Speelhal</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0037/2019/Speelhal;3520</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/join/id/stop/gemeente/gm0037</eindverantwoordelijke>
+         <maker>/join/id/stop/gemeente/gm0037</maker>
+         <noemer>Speelhal</noemer>
+         <officieleTitel>Speelhal</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         <!-- Koppeling naar het gml-bestand -->
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Speelhal.gml</bestandsnaam>
+                  <hash>236bfbda3a97ac627a881cb17ecc73aa931c323b833ad26414596afbaf9325cc4c0d6e091ea525b6e41a952b42dade34cceb03b8f6be2c3f75694cbc72ceeed7</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+      <GeoInformatie xmlns="https://standaarden.overheid.nl/stop/imop/geo/">
+         <featureMember>
+            <Locatie gml:id="Speelhal">
+               <wId>Speelhal</wId>
+               <naam>Speelhal</naam>
+               <geometrie xlink:href="Speelhal.gml#id-33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A"></geometrie>
+            </Locatie>
+         </featureMember>
+      </GeoInformatie>
+   <Achtergrond xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <bronactualiteit>2019-01-01</bronactualiteit>
+      <bronbeschrijving>top10nl</bronbeschrijving>
+      <brontype>achtergrond</brontype>
+      <bronverwijzing>#33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A</bronverwijzing>
+      <nauwkeurigheid>10</nauwkeurigheid>
+   </Achtergrond>
+   </InformatieObjectVersie>
+</AanleveringGIO>
+   
