@@ -3,8 +3,8 @@
    xmlns:geo="http://www.geostandaarden.nl/basisgeometrie/v20190901"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ ../xsd/basisgeometrie/v20190901/geometrie.xsd" gml:id="main">
    <geo:featureMember>
-      <geo:Geometrie gml:id="id-0868A0B1-DA79-4C33-8305-1BDE0126FA9A">
-         <geo:id>0868A0B1-DA79-4C33-8305-1BDE0126FA9A</geo:id>
+      <geo:Geometrie>
+         <geo:id>id-0868A0B1-DA79-4C33-8305-1BDE0126FA9A</geo:id>
          <geo:geometrie>
             <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="id-0868A0B1-DA79-4C33-8305-1BDE0126FA9A-0">
                <gml:surfaceMember>
