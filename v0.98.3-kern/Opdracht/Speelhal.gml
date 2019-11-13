@@ -4,7 +4,7 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ ../xsd/basisgeometrie/v20190901/geometrie.xsd" gml:id="main">
    <geo:featureMember>
       <geo:Geometrie>
-         <geo:id>id-33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A</geo:id>
+         <geo:id>33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A</geo:id>
          <geo:geometrie>
             <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="id-33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A-0">
                <gml:surfaceMember>

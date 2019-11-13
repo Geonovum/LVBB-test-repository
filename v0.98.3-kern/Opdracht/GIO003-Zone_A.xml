@@ -18,7 +18,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Zone_A.gml</bestandsnaam>
-                  <hash>2580d82a2b8a8e9c07a3796b0d8ff4db411fd139992e9fb32dcf21ebd8a42c5e02490e95cc9a047928f84db96270296e23c95e1b319dbb4c29292e235e7b9b76</hash>
+                  <hash>2b654f1b954af28a4a4dabc94df761acd362444cf532524e6bc6d0e77e47fc97bad7805e58ec76257e8f36b3fd2f9e72a150c12b32d0c6e3d79ef28972690652</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -28,7 +28,7 @@
             <Locatie gml:id="Zone_A">
                <wId>Zone_A</wId>
                <naam>Zone_A</naam>
-               <geometrie xlink:href="Zone_A.gml#id-B3AF6AF7-5EFA-4A87-9C66-BFB046DD89AC"></geometrie>
+               <geometrie xlink:href="Zone_A.gml#B3AF6AF7-5EFA-4A87-9C66-BFB046DD89AC"></geometrie>
             </Locatie>
          </featureMember>
       </GeoInformatie>

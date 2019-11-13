@@ -28,7 +28,7 @@
             <Locatie gml:id="Bedrijf_categorie_2">
                <wId>Bedrijf_categorie_2</wId>
                <naam>Bedrijf_categorie_2</naam>
-               <geometrie xlink:href="Bedrijf_categorie_2.gml#id-50EA019E-3C96-4631-A76C-35BCF4D7AB6D"></geometrie>
+               <geometrie xlink:href="Bedrijf_categorie_2.gml#50EA019E-3C96-4631-A76C-35BCF4D7AB6D"></geometrie>
             </Locatie>
          </featureMember>
       </GeoInformatie>

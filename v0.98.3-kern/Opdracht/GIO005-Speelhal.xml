@@ -18,7 +18,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Speelhal.gml</bestandsnaam>
-                  <hash>47e571e9f84396bb0ca8610abd8bae1211238a9a5c071f4fb15bc2134ab6633d24aac97387a21365e19e30e6333248a2180de63e0eacdf2a24ac572a3acfae10</hash>
+                  <hash>622e74aa4372ccc82062275dd7ed102877da9f251f7c64e5613ed069bdc86a9ef6ed14cb2d83b6574b1d9ad6d7744549b136076b1e1bab7fcc17002fdab9e941</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -28,7 +28,7 @@
             <Locatie gml:id="Speelhal">
                <wId>Speelhal</wId>
                <naam>Speelhal</naam>
-               <geometrie xlink:href="Speelhal.gml#id-33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A"></geometrie>
+               <geometrie xlink:href="Speelhal.gml#33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A"></geometrie>
             </Locatie>
          </featureMember>
       </GeoInformatie>
