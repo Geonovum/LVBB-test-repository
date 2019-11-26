@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created by Marco Duiker - LandGoed -->
-<lvbb:publicatieOpdracht xmlns:lvbb="http://www.overheid.nl/2017/lvbb" xmlns:stop="http://www.overheid.nl/2017/stop" xmlns:tns="http://www.logius.nl/digikoppeling/gb/2010/10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.overheid.nl/2017/lvbb ../xsd/lvbb.xsd">
-  <lvbb:idLevering>bill_gm0037</lvbb:idLevering>
-  <lvbb:publicatie>akn_nl_bill_gm0037_2019-12-01.xml</lvbb:publicatie>
-  <lvbb:datumBekendmaking>2019-10-10</lvbb:datumBekendmaking>
-</lvbb:publicatieOpdracht>
