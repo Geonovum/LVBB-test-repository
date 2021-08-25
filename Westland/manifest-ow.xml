@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Aanleveringen xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v1.0.4/bestanden-ow/generiek/manifest-ow.xsd">
+   <domein>omgevingswet</domein>
+   <Aanlevering>
+      <WorkIDRegeling>/akn/nl/act/gm9920/2020/SanityCheckWestland</WorkIDRegeling>
+      <DoelID>/join/id/proces/gm9920/2020/SanityCheckWestland</DoelID>
+      <Bestand>
+         <naam>test_locaties.xml</naam>
+         <objecttype>Gebied</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>test_regeltekst.xml</naam>
+         <objecttype>RegelVoorIedereen</objecttype>
+         <objecttype>Regeltekst</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>test_regelingsgebied.xml</naam>
+         <objecttype>Regelingsgebied</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>test_activiteiten.xml</naam>
+         <objecttype>Activiteit</objecttype>
+      </Bestand>
+   </Aanlevering>
+</Aanleveringen>

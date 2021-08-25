@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?><AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.0.4" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+  <BesluitVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/akn/nl/bill/gm9920/2020/OOWVKWBsl</FRBRWork>
+      <FRBRExpression>/akn/nl/bill/gm9920/2020/OOWVKWBsl/nld@2020-01-20</FRBRExpression>
+      <soortWork>/join/id/stop/work_003</soortWork>
+    </ExpressionIdentificatie>
+    <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/gemeente/gm9920</eindverantwoordelijke>
+      <maker>/tooi/id/gemeente/gm9920</maker>
+      <!--soortBestuursorgaan is 'gemeenteraad'.-->
+      <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+      <officieleTitel>Besluit tot het instellen van LVBB-Sanitycheck Westland</officieleTitel>
+      <onderwerpen>
+        <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
+      </onderwerpen>
+      <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+      <informatieobjectRefs>
+        <informatieobjectRef>/join/id/regdata/gm9920/2021/Westland/nld@2021-08-24;1</informatieobjectRef>
+      </informatieobjectRefs>
+    </BesluitMetadata>
+    <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <bekendOp>2020-02-05</bekendOp>
+      <procedurestappen>
+        <Procedurestap>
+          <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+          <voltooidOp>2020-02-05</voltooidOp>
+        </Procedurestap>
+      </procedurestappen>
+    </Procedureverloop>
+    <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <BeoogdeRegelgeving>
+        <BeoogdeRegeling>
+          <doelen>
+            <doel>/join/id/proces/gm9920/2020/SanityCheckWestland</doel>
+          </doelen>
+          <instrumentVersie>/akn/nl/act/gm9920/2020/SanityCheckWestland/nld@2020-02-05;8</instrumentVersie>
+          <eId>art_I</eId>
+        </BeoogdeRegeling>
+        <!-- Hier GIO's toevoegen -->
+        <BeoogdInformatieobject>
+          <doelen>
+            <doel>/join/id/proces/gm9920/2020/SanityCheckWestland</doel>
+          </doelen>
+          <instrumentVersie>/join/id/regdata/gm9920/2020/ambtsgebied/nld@2020-02-05;8</instrumentVersie>
+          <eId>!regeling#cmp_I__list_o_1__item_o_1__ref_o_1</eId>
+        </BeoogdInformatieobject>
+      </BeoogdeRegelgeving>
+      <Tijdstempels>
+        <Tijdstempel>
+          <doel>/join/id/proces/gm9920/2020/SanityCheckWestland</doel>
+          <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+          <datum>2020-04-01</datum>
+          <eId>art_II</eId>
+        </Tijdstempel>
+      </Tijdstempels>
+    </ConsolidatieInformatie>
+    <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+      <RegelingOpschrift eId="longTitle" wId="longTitle">
+        <Al>Besluit tot het instellen van LVBB-Sanitycheck Westland</Al>
+      </RegelingOpschrift>
+      <Aanhef eId="formula_1" wId="formula_1">
+        <Al>De raad van de gemeente Westland</Al>
+        <Al>gelezen het voorstel van 2 januari 2020, nr. 2020-01;</Al>
+        <Al>Gelet op van toepassing zijnde wetten,</Al>
+        <Al>besluit:</Al>
+      </Aanhef>
+      <Lichaam eId="body" wId="body">
+        <WijzigArtikel eId="art_I" wId="gm9920_2020-01-20__art_I">
+          <Kop>
+            <Nummer>I</Nummer>
+          </Kop>
+          <Wat>
+                    Het omgevingsdocument wordt vastgesteld zoals gegeven in 
+            <IntRef ref="cmp_A">Bijlage A</IntRef>
+             van dit Besluit.
+          </Wat>
+        </WijzigArtikel>
+        <Artikel eId="art_II" wId="gm9920_2020-01-20__art_II">
+          <Kop>
+            <Nummer>II</Nummer>
+          </Kop>
+          <Inhoud>
+            <Al>Deze verordening treedt in werking op 2020-08-01.</Al>
+          </Inhoud>
+        </Artikel>
+      </Lichaam>
+      <Sluiting eId="formula_2" wId="formula_2">
+        <Al>Aldus vastgesteld in de vergadering van 2020-01-18.</Al>
+        <Ondertekening>
+          <Al>De secretaris,</Al>
+          <Al>Lidia Spindler</Al>
+          <Al>De burgemeester,</Al>
+          <Al>Bouke Arends</Al>
+        </Ondertekening>
+      </Sluiting>
+      <WijzigBijlage eId="cmp_A" wId="gm9920_2020-01-20__cmp_A">
+        <Kop>
+          <Label>Bijlage</Label>
+          <Nummer>A</Nummer>
+          <Opschrift>Vaststelling LVBB-Sanitycheck Westland</Opschrift>
+        </Kop>
+        <RegelingCompact wordt="/akn/nl/act/gm9920/2020/SanityCheckWestland/nld@2020-02-05;8" componentnaam="regeling">
+          <RegelingOpschrift eId="longTitle_1" wId="longTitle_1">
+            <Al>LVBB-Sanitycheck Westland</Al>
+          </RegelingOpschrift>
+          <Lichaam eId="body" wId="body">
+            <Hoofdstuk eId="chp_1" wId="gm9920_8__chp_1">
+              <Kop>
+                <Label>Hoofdstuk</Label>
+                <Nummer>1</Nummer>
+                <Opschrift>Algemene bepalingen</Opschrift>
+              </Kop>
+              <Artikel eId="chp_1__art_1.1" wId="gm9920_8__chp_1__art_1.1">
+                <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>1.1</Nummer>
+                  <Opschrift>Begripsbepalingen</Opschrift>
+                </Kop>
+                <Inhoud>
+                  <Al>In deze regels wordt verstaan onder:</Al>
+                  <Begrippenlijst eId="chp_1__art_1.1__list_o_1" wId="gm9920_8__chp_1__art_1.1__list_o_1">
+                    <Begrip eId="chp_1__art_1.1__list_o_1__item_o_1" wId="gm9920_8__chp_1__art_1.1__list_o_1__item_o_1">
+                      <Term>boom</Term>
+                      <Definitie>
+                        <Al>een houtachtig, opgaand gewas met doorgaande stam, zowel levend als afgestorven, met een dwarsdoorsnede van de stam van minimaal 5 centimeter op 1,3 meter hoogte boven het maaiveld. In geval van meerstammigheid geldt de dwarsdoorsnede van de dikste stam.</Al>
+                      </Definitie>
+                    </Begrip>
+                    <Begrip eId="chp_1__art_1.1__list_o_1__item_o_2" wId="gm9920_8__chp_1__art_1.1__list_o_1__item_o_2">
+                      <Term>houtopstand</Term>
+                      <Definitie>
+                        <Al>één of meer bomen of boomvormers, of andere houtachtige gewassen.</Al>
+                      </Definitie>
+                    </Begrip>
+                    <Begrip eId="chp_1__art_1.1__list_o_1__item_o_3" wId="gm9920_8__chp_1__art_1.1__list_o_1__item_o_3">
+                      <Term>vellen</Term>
+                      <Definitie>
+                        <Al>afzagen, afhakken, kappen, verplanten, rooien, snoeien van meer dan 20 procent van de kroon en/of het wortelgestel, met inbegrip van kandelaberen, of het verrichten van handelingen, zowel boven- als ondergronds, die de dood, ernstige beschadiging of ernstige ontsiering van de houtopstand ten gevolge kunnen hebben.</Al>
+                      </Definitie>
+                    </Begrip>
+                    <Begrip eId="chp_1__art_1.1__list_o_1__item_o_4" wId="gm9920_8__chp_1__art_1.1__list_o_1__item_o_4">
+                      <Term>hakhout</Term>
+                      <Definitie>
+                        <Al>één of meer bomen of boomvormers, die na te zijn geveld, opnieuw op de stronk uitlopen.</Al>
+                      </Definitie>
+                    </Begrip>
+                    <Begrip eId="chp_1__art_1.1__list_o_1__item_o_5" wId="gm9920_8__chp_1__art_1.1__list_o_1__item_o_5">
+                      <Term>monetaire boomwaarde</Term>
+                      <Definitie>
+                        <Al>de financiële waarde van een boom of houtopstand, zoals getaxeerd volgens de actuele richtlijnen van Nederlandse Vereniging van Taxateurs van Bomen.</Al>
+                      </Definitie>
+                    </Begrip>
+                    <Begrip eId="chp_1__art_1.1__list_o_1__item_o_6" wId="gm9920_8__chp_1__art_1.1__list_o_1__item_o_6">
+                      <Term>rechthebbende</Term>
+                      <Definitie>
+                        <Al>degene die over een zaak zeggenschap heeft krachtens een zakelijk of persoonlijk recht.</Al>
+                      </Definitie>
+                    </Begrip>
+                    <Begrip eId="chp_1__art_1.1__list_o_1__item_o_7" wId="gm9920_8__chp_1__art_1.1__list_o_1__item_o_7">
+                      <Term>kandelaberen</Term>
+                      <Definitie>
+                        <Al>een snoeitechniek waarbij de takken van een boom afgezaagd worden waardoor de boom het uiterlijk van een kandelaar krijgt.</Al>
+                      </Definitie>
+                    </Begrip>
+                    <Begrip eId="chp_1__art_1.1__list_o_1__item_o_8" wId="gm9920_8__chp_1__art_1.1__list_o_1__item_o_8">
+                      <Term>knotten</Term>
+                      <Definitie>
+                        <Al>het verwijderen van alle reeds gevormde scheuten. De plaats waar deze scheuten ontsprongen zijn wordt steeds dikker en wordt de ‘knot’ genoemd.</Al>
+                      </Definitie>
+                    </Begrip>
+                    <Begrip eId="chp_1__art_1.1__list_o_1__item_o_9" wId="gm9920_8__chp_1__art_1.1__list_o_1__item_o_9">
+                      <Term>bosplantsoen</Term>
+                      <Definitie>
+                        <Al>al dan niet aangeplante bosachtige elementen, inclusief kruidengroei, grotendeels bestaande uit inheemse houtachtige soorten bomen en struiken.</Al>
+                      </Definitie>
+                    </Begrip>
+                    <Begrip eId="chp_1__art_1.1__list_o_1__item_o_10" wId="gm9920_8__chp_1__art_1.1__list_o_1__item_o_10">
+                      <Term>overige houtopstand</Term>
+                      <Definitie>
+                        <Al>hakhout, houtwal, struweel en lintbeplanting in de vorm van bosheesters en beplanting van bosplantsoen, al dan niet met boomvormers, niet zijnde een boom, zoals bedoeld in onderdeel a van dit artikel.</Al>
+                      </Definitie>
+                    </Begrip>
+                    <Begrip eId="chp_1__art_1.1__list_o_1__item_o_11" wId="gm9920_8__chp_1__art_1.1__list_o_1__item_o_11">
+                      <Term>iepenspintkever</Term>
+                      <Definitie>
+                        <Al>insect, in elk ontwikkelingsstadium, behorende tot de soorten Scolytus scolytus (F.), Scolytus multistriatus (Marsh) of Scolytus pygmaeus.</Al>
+                      </Definitie>
+                    </Begrip>
+                    <Begrip eId="chp_1__art_1.1__list_o_1__item_o_12" wId="gm9920_8__chp_1__art_1.1__list_o_1__item_o_12">
+                      <Term>iepziekte</Term>
+                      <Definitie>
+                        <Al>aantasting van iepen door de schimmel Ophiostoma ulmi (Buism.) Nannf. (syn. Ceratocystis ulmi (Buism.) C. Moreau).</Al>
+                      </Definitie>
+                    </Begrip>
+                  </Begrippenlijst>
+                </Inhoud>
+              </Artikel>
+            </Hoofdstuk>
+            <Hoofdstuk eId="chp_2" wId="gm9920_8__chp_2">
+              <Kop>
+                <Label>Hoofdstuk</Label>
+                <Nummer>2</Nummer>
+                <Opschrift>Doelen</Opschrift>
+              </Kop>
+              <Artikel eId="chp_2__art_2.1" wId="gm9920_8__chp_2__art_2.1">
+                <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>2.1</Nummer>
+                  <Opschrift>Doel omgevingsplan</Opschrift>
+                </Kop>
+                <Inhoud>
+                  <Lijst eId="chp_2__art_2.1__list_o_1" type="expliciet" wId="gm9920_8__chp_2__art_2.1__list_o_1">
+                    <Lijstaanhef>Dit omgevingsplan is, met het oog op de doelen van artikel 1.3 van de Omgevingswet, gericht op:</Lijstaanhef>
+                    <Li eId="chp_2__art_2.1__list_o_1__item_a" wId="gm9920_8__chp_2__art_2.1__list_o_1__item_a">
+                      <LiNummer>a.</LiNummer>
+                      <Al>de ecologische waarde van bomen;</Al>
+                    </Li>
+                    <Li eId="chp_2__art_2.1__list_o_1__item_b" wId="gm9920_8__chp_2__art_2.1__list_o_1__item_b">
+                      <LiNummer>b.</LiNummer>
+                      <Al>de cultuurhistorische waarde van bomen;</Al>
+                    </Li>
+                    <Li eId="chp_2__art_2.1__list_o_1__item_c" wId="gm9920_8__chp_2__art_2.1__list_o_1__item_c">
+                      <LiNummer>c.</LiNummer>
+                      <Al>de ruimtelijke waarde van bomen; en</Al>
+                    </Li>
+                    <Li eId="chp_2__art_2.1__list_o_1__item_d" wId="gm9920_8__chp_2__art_2.1__list_o_1__item_d">
+                      <LiNummer>d.</LiNummer>
+                      <Al> de bescherming van het milieu.</Al>
+                    </Li>
+                  </Lijst>
+                </Inhoud>
+              </Artikel>
+            </Hoofdstuk>
+            <Hoofdstuk eId="chp_3" wId="gm9920_8__chp_3">
+              <Kop>
+                <Label>Hoofdstuk</Label>
+                <Nummer>3</Nummer>
+                <Opschrift>Regels vellen houtopstanden</Opschrift>
+              </Kop>
+              <Artikel eId="chp_3__art_3.1" wId="gm9920_8__chp_3__art_3.1">
+                <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>3.1</Nummer>
+                  <Opschrift>Omgevingsvergunning voor het vellen van houtopstand</Opschrift>
+                </Kop>
+                <Lid eId="chp_3__art_3.1__para_1" wId="gm9920_8__chp_3__art_3.1__para_1">
+                  <LidNummer>1.</LidNummer>
+                  <Inhoud>
+                    <Lijst eId="chp_3__art_3.1__para_1__list_o_1" type="expliciet" wId="gm9920_8__chp_3__art_3.1__para_1__list_o_1">
+                      <Lijstaanhef>
+                                      Het is ter plaatse van              
+                        <IntIoRef eId="chp_3__art_3.1__para_1__list_o_1__ref_o_1" ref="gm9920_8__cmp_I__list_o_1__item_o_1__ref_o_1" wId="gm9920_8__chp_3__art_3.1__para_1__list_o_1__ref_o_1">"het ambtsgebied"</IntIoRef>
+                                       verboden zonder vergunning van het bevoegd gezag              
+                        <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstanden</IntRef>
+                                       te vellen of te doen vellen die:            
+                      </Lijstaanhef>
+                      <Li eId="chp_3__art_3.1__para_1__list_o_1__item_a" wId="gm9920_8__chp_3__art_3.1__para_1__list_o_1__item_a">
+                        <LiNummer>a.</LiNummer>
+                        <Al>
+                                          staan vermeld op de door het college vastgestelde lijst van beschermde                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_1">bomen</IntRef>
+                                          ;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_1__list_o_1__item_b" wId="gm9920_8__chp_3__art_3.1__para_1__list_o_1__item_b">
+                        <LiNummer>b.</LiNummer>
+                        <Al>in eigendom zijn van de gemeente of een ander publiekrechtelijk lichaam.</Al>
+                      </Li>
+                    </Lijst>
+                  </Inhoud>
+                </Lid>
+                <Lid eId="chp_3__art_3.1__para_2" wId="gm9920_8__chp_3__art_3.1__para_2">
+                  <LidNummer>2.</LidNummer>
+                  <Inhoud>
+                    <Lijst eId="chp_3__art_3.1__para_2__list_o_1" type="expliciet" wId="gm9920_8__chp_3__art_3.1__para_2__list_o_1">
+                      <Lijstaanhef>
+                                      Het in              
+                        <IntRef ref="chp_3__art_3.1__para_1">artikel 3.1 eerste lid</IntRef>
+                                       gestelde verbod geldt niet voor:            
+                      </Lijstaanhef>
+                      <Li eId="chp_3__art_3.1__para_2__list_o_1__item_a" wId="gm9920_8__chp_3__art_3.1__para_2__list_o_1__item_a">
+                        <LiNummer>a.</LiNummer>
+                        <Al>
+                                          het periodiek                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_3">vellen</IntRef>
+                                           van                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_4">hakhout</IntRef>
+                                           ter uitvoering van het reguliere onderhoud;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_2__list_o_1__item_b" wId="gm9920_8__chp_3__art_3.1__para_2__list_o_1__item_b">
+                        <LiNummer>b.</LiNummer>
+                        <Al>
+                                          het periodiek                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_8">knotten</IntRef>
+                                          ,                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_7">kandelaberen</IntRef>
+                                           of snoeien als noodzakelijke beheermaatregel bij knotbomen, reeds eerder gekandelaberde bomen of leibomen ter uitvoering van het reguliere onderhoud.              
+                        </Al>
+                      </Li>
+                    </Lijst>
+                  </Inhoud>
+                </Lid>
+                <Lid eId="chp_3__art_3.1__para_3" wId="gm9920_8__chp_3__art_3.1__para_3">
+                  <LidNummer>3.</LidNummer>
+                  <Inhoud>
+                    <Lijst eId="chp_3__art_3.1__para_3__list_o_1" type="expliciet" wId="gm9920_8__chp_3__art_3.1__para_3__list_o_1">
+                      <Lijstaanhef>
+                                      Een omgevingsvergunning voor het              
+                        <IntRef ref="chp_1__art_1.1__list_o_1__item_o_3">vellen</IntRef>
+                                       van              
+                        <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                       zoals bedoeld in              
+                        <IntRef ref="chp_3__art_3.1__para_1__list_o_1__item_a">artikel 3.1 eerste lid, onder a</IntRef>
+                                      , kan slechts bij uitzondering worden verleend indien:            
+                      </Lijstaanhef>
+                      <Li eId="chp_3__art_3.1__para_3__list_o_1__item_a" wId="gm9920_8__chp_3__art_3.1__para_3__list_o_1__item_a">
+                        <LiNummer>a.</LiNummer>
+                        <Al>
+                                          een zwaarwegend maatschappelijk belang opweegt tegen duurzaam behoud van de beschermde                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_1">boom</IntRef>
+                                           of;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_3__list_o_1__item_b" wId="gm9920_8__chp_3__art_3.1__para_3__list_o_1__item_b">
+                        <LiNummer>b.</LiNummer>
+                        <Al>instandhouding naar boomdeskundige maatstaven niet langer verantwoord is ter voorkoming van letsel of schade of besmettingsgevaar bij ziekte;</Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_3__list_o_1__item_c" wId="gm9920_8__chp_3__art_3.1__para_3__list_o_1__item_c">
+                        <LiNummer>c.</LiNummer>
+                        <Al>
+                                          er alternatieven voor behoud van de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                           uitgebreid zijn onderzocht.              
+                        </Al>
+                      </Li>
+                    </Lijst>
+                  </Inhoud>
+                </Lid>
+                <Lid eId="chp_3__art_3.1__para_4" wId="gm9920_8__chp_3__art_3.1__para_4">
+                  <LidNummer>4.</LidNummer>
+                  <Inhoud>
+                    <Al>
+                                  In afwijking van artikel 1:8 kan de omgevingsvergunning voor het vellen van            
+                      <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                   als bedoeld in            
+                      <IntRef ref="chp_3__art_3.1__para_1__list_o_1__item_b">artikel 3.1 eerste lid, onder b</IntRef>
+                                  , worden geweigerd op grond van de:           
+                    </Al>
+                    <Lijst eId="chp_3__art_3.1__para_4__list_o_1" type="expliciet" wId="gm9920_8__chp_3__art_3.1__para_4__list_o_1">
+                      <Li eId="chp_3__art_3.1__para_4__list_o_1__item_a" wId="gm9920_8__chp_3__art_3.1__para_4__list_o_1__item_a">
+                        <LiNummer>a.</LiNummer>
+                        <Al>
+                                          natuurwaarde van de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                          ;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_4__list_o_1__item_b" wId="gm9920_8__chp_3__art_3.1__para_4__list_o_1__item_b">
+                        <LiNummer>b.</LiNummer>
+                        <Al>
+                                          landschappelijke waarde van de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                          ;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_4__list_o_1__item_c" wId="gm9920_8__chp_3__art_3.1__para_4__list_o_1__item_c">
+                        <LiNummer>c.</LiNummer>
+                        <Al>waarde van de houtopstand voor stads- en dorpsschoon;</Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_4__list_o_1__item_d" wId="gm9920_8__chp_3__art_3.1__para_4__list_o_1__item_d">
+                        <LiNummer>d.</LiNummer>
+                        <Al>
+                                          beeldbepalende waarde van de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                          ;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_4__list_o_1__item_e" wId="gm9920_8__chp_3__art_3.1__para_4__list_o_1__item_e">
+                        <LiNummer>e.</LiNummer>
+                        <Al>
+                                          cultuurhistorische waarde van de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                          ;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_4__list_o_1__item_f" wId="gm9920_8__chp_3__art_3.1__para_4__list_o_1__item_f">
+                        <LiNummer>f.</LiNummer>
+                        <Al>
+                                          waarde voor de leefbaarheid van de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                          .              
+                        </Al>
+                      </Li>
+                    </Lijst>
+                  </Inhoud>
+                </Lid>
+                <Lid eId="chp_3__art_3.1__para_5" wId="gm9920_8__chp_3__art_3.1__para_5">
+                  <LidNummer>5.</LidNummer>
+                  <Inhoud>
+                    <Al>
+                                  De burgemeester kan toestemming verlenen voor het            
+                      <IntRef ref="chp_1__art_1.1__list_o_1__item_o_3">vellen</IntRef>
+                                   van een            
+                      <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                   in verband met een spoedeisend belang voor de openbare orde of een direct gevaar voor personen of goederen en als houtopstanden moeten worden geveld krachtens de plantenziektewet.          
+                    </Al>
+                  </Inhoud>
+                </Lid>
+                <Lid eId="chp_3__art_3.1__para_6" wId="gm9920_8__chp_3__art_3.1__para_6">
+                  <LidNummer>6.</LidNummer>
+                  <Inhoud>
+                    <Lijst eId="chp_3__art_3.1__para_6__list_o_1" type="expliciet" wId="gm9920_8__chp_3__art_3.1__para_6__list_o_1">
+                      <Lijstaanhef>
+                                      Het bevoegd gezag kan voor              
+                        <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstanden</IntRef>
+                                       die              
+                        <IntRef ref="chp_1__art_1.1__list_o_1__item_o_3">geveld</IntRef>
+                                       worden een verplichting tot herplant opleggen, waarvoor geldt dat:            
+                      </Lijstaanhef>
+                      <Li eId="chp_3__art_3.1__para_6__list_o_1__item_a" wId="gm9920_8__chp_3__art_3.1__para_6__list_o_1__item_a">
+                        <LiNummer>a.</LiNummer>
+                        <Al>deze wordt opgelegd in de vorm van een te storten financiële bijdrage;</Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_6__list_o_1__item_b" wId="gm9920_8__chp_3__art_3.1__para_6__list_o_1__item_b">
+                        <LiNummer>b.</LiNummer>
+                        <Al>
+                                          de waarde wordt vastgesteld op grond van de berekening van de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_5">monetaire boomwaarde</IntRef>
+                                          ;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_6__list_o_1__item_c" wId="gm9920_8__chp_3__art_3.1__para_6__list_o_1__item_c">
+                        <LiNummer>c.</LiNummer>
+                        <Al>
+                                          de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_5">monetaire boomwaarde</IntRef>
+                                           van de gevelde                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                           wordt gestort in het herplantfonds van de gemeente of een vergelijkbare gemeentelijke herplantregeling;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_6__list_o_1__item_d" wId="gm9920_8__chp_3__art_3.1__para_6__list_o_1__item_d">
+                        <LiNummer>d.</LiNummer>
+                        <Al>bij voorgeschreven herplant wordt aangegeven binnen welke termijn en op welke wijze niet aangeslagen beplanting moet worden vervangen;</Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_6__list_o_1__item_e" wId="gm9920_8__chp_3__art_3.1__para_6__list_o_1__item_e">
+                        <LiNummer>e.</LiNummer>
+                        <Al>
+                                          de herbeplanting in de onmiddellijke omgeving van de te vellen of gevelde                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                           dient te worden gerealiseerd;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.1__para_6__list_o_1__item_f" wId="gm9920_8__chp_3__art_3.1__para_6__list_o_1__item_f">
+                        <LiNummer>f.</LiNummer>
+                        <Al>de feitelijke herplant zal plaatsvinden door of in opdracht van de gemeente.</Al>
+                      </Li>
+                    </Lijst>
+                  </Inhoud>
+                </Lid>
+                <Lid eId="chp_3__art_3.1__para_7" wId="gm9920_8__chp_3__art_3.1__para_7">
+                  <LidNummer>7.</LidNummer>
+                  <Inhoud>
+                    <Al>
+                                  De aanvraag om omgevingsvergunning moet conform de Wabo worden gedaan door, namens of met toestemming van, de            
+                      <IntRef ref="chp_1__art_1.1__list_o_1__item_o_6">rechthebbende</IntRef>
+                                   van een            
+                      <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                  .          
+                    </Al>
+                  </Inhoud>
+                </Lid>
+              </Artikel>
+              <Artikel eId="chp_3__art_3.2" wId="gm9920_8__chp_3__art_3.2">
+                <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>3.2</Nummer>
+                  <Opschrift>Lijst van beschermwaardige houtopstanden</Opschrift>
+                </Kop>
+                <Lid eId="chp_3__art_3.2__para_1" wId="gm9920_8__chp_3__art_3.2__para_1">
+                  <LidNummer>1.</LidNummer>
+                  <Inhoud>
+                    <Al>
+                                  Voor            
+                      <IntIoRef eId="chp_3__art_3.2__para_1__ref_o_1" ref="gm9920_8__cmp_I__list_o_1__item_o_1__ref_o_1" wId="gm9920_8__chp_3__art_3.2__para_1__ref_o_1">"het ambtsgebied"</IntIoRef>
+                                   stelt het college een lijst van beschermde bomen op.          
+                    </Al>
+                  </Inhoud>
+                </Lid>
+                <Lid eId="chp_3__art_3.2__para_2" wId="gm9920_8__chp_3__art_3.2__para_2">
+                  <LidNummer>2.</LidNummer>
+                  <Inhoud>
+                    <Lijst eId="chp_3__art_3.2__para_2__list_o_1" type="expliciet" wId="gm9920_8__chp_3__art_3.2__para_2__list_o_1">
+                      <Lijstaanhef>
+                                      De lijst bevat ten minste de volgende gegevens over de te beschermen              
+                        <IntRef ref="chp_1__art_1.1__list_o_1__item_o_1">boom</IntRef>
+                                      :            
+                      </Lijstaanhef>
+                      <Li eId="chp_3__art_3.2__para_2__list_o_1__item_a" wId="gm9920_8__chp_3__art_3.2__para_2__list_o_1__item_a">
+                        <LiNummer>a.</LiNummer>
+                        <Al>redengevende beschrijving;</Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.2__para_2__list_o_1__item_b" wId="gm9920_8__chp_3__art_3.2__para_2__list_o_1__item_b">
+                        <LiNummer>b.</LiNummer>
+                        <Al>boomsoort;</Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.2__para_2__list_o_1__item_c" wId="gm9920_8__chp_3__art_3.2__para_2__list_o_1__item_c">
+                        <LiNummer>c.</LiNummer>
+                        <Al>de standplaats;</Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.2__para_2__list_o_1__item_d" wId="gm9920_8__chp_3__art_3.2__para_2__list_o_1__item_d">
+                        <LiNummer>d.</LiNummer>
+                        <Al>kadastrale gegevens/coördinaten;</Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.2__para_2__list_o_1__item_e" wId="gm9920_8__chp_3__art_3.2__para_2__list_o_1__item_e">
+                        <LiNummer>e.</LiNummer>
+                        <Al>
+                                          de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_6">rechthebbende</IntRef>
+                                          .              
+                        </Al>
+                      </Li>
+                    </Lijst>
+                  </Inhoud>
+                </Lid>
+                <Lid eId="chp_3__art_3.2__para_3" wId="gm9920_8__chp_3__art_3.2__para_3">
+                  <LidNummer>3.</LidNummer>
+                  <Inhoud>
+                    <Lijst eId="chp_3__art_3.2__para_3__list_o_1" type="expliciet" wId="gm9920_8__chp_3__art_3.2__para_3__list_o_1">
+                      <Lijstaanhef>
+                                      Bij de beslissing over plaatsing op de lijst wordt rekening gehouden met de bijzondere betekenis van de              
+                        <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                       voor één of meer van de volgende criteria:            
+                      </Lijstaanhef>
+                      <Li eId="chp_3__art_3.2__para_3__list_o_1__item_a" wId="gm9920_8__chp_3__art_3.2__para_3__list_o_1__item_a">
+                        <LiNummer>a.</LiNummer>
+                        <Al>
+                                          de beeldbepalende waarde van de de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                          ;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.2__para_3__list_o_1__item_b" wId="gm9920_8__chp_3__art_3.2__para_3__list_o_1__item_b">
+                        <LiNummer>b.</LiNummer>
+                        <Al>
+                                          de cultuurhistorische betekenis van de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                          ;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.2__para_3__list_o_1__item_c" wId="gm9920_8__chp_3__art_3.2__para_3__list_o_1__item_c">
+                        <LiNummer>c.</LiNummer>
+                        <Al>
+                                          de natuurwaarde van de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                          ;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.2__para_3__list_o_1__item_d" wId="gm9920_8__chp_3__art_3.2__para_3__list_o_1__item_d">
+                        <LiNummer>d.</LiNummer>
+                        <Al>
+                                          de zeldzaamheidswaarde/uniciteit van de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                          ;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.2__para_3__list_o_1__item_e" wId="gm9920_8__chp_3__art_3.2__para_3__list_o_1__item_e">
+                        <LiNummer>e.</LiNummer>
+                        <Al>
+                                          de ouderdom van de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                          ;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.2__para_3__list_o_1__item_f" wId="gm9920_8__chp_3__art_3.2__para_3__list_o_1__item_f">
+                        <LiNummer>f.</LiNummer>
+                        <Al>
+                                          de levensverwachting van de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                          .              
+                        </Al>
+                      </Li>
+                    </Lijst>
+                  </Inhoud>
+                </Lid>
+                <Lid eId="chp_3__art_3.2__para_4" wId="gm9920_8__chp_3__art_3.2__para_4">
+                  <LidNummer>4.</LidNummer>
+                  <Inhoud>
+                    <Al>
+                                  De lijst met beschermwaardige            
+                      <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstanden</IntRef>
+                                   wordt opgenomen in het register Wet kenbaarheid publiekrechtelijke beperkingen.          
+                    </Al>
+                  </Inhoud>
+                </Lid>
+                <Lid eId="chp_3__art_3.2__para_5" wId="gm9920_8__chp_3__art_3.2__para_5">
+                  <LidNummer>5.</LidNummer>
+                  <Inhoud>
+                    <Lijst eId="chp_3__art_3.2__para_5__list_o_1" type="expliciet" wId="gm9920_8__chp_3__art_3.2__para_5__list_o_1">
+                      <Lijstaanhef>
+                                      Eigenaren van beschermde              
+                        <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstanden</IntRef>
+                                       zijn verplicht onverwijld schriftelijk aan het college mededeling te doen van:            
+                      </Lijstaanhef>
+                      <Li eId="chp_3__art_3.2__para_5__list_o_1__item_a" wId="gm9920_8__chp_3__art_3.2__para_5__list_o_1__item_a">
+                        <LiNummer>a.</LiNummer>
+                        <Al>
+                                          de overdracht van rechten op de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                          ;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.2__para_5__list_o_1__item_b" wId="gm9920_8__chp_3__art_3.2__para_5__list_o_1__item_b">
+                        <LiNummer>b.</LiNummer>
+                        <Al>het snoeien van minder dan 20 procent van de kroon en/of het wortelgestel; </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.2__para_5__list_o_1__item_c" wId="gm9920_8__chp_3__art_3.2__para_5__list_o_1__item_c">
+                        <LiNummer>c.</LiNummer>
+                        <Al>
+                                          het geheel of gedeeltelijk tenietgaan van                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand(en)</IntRef>
+                                           anders dan door velling op grond van een vergunning;              
+                        </Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.2__para_5__list_o_1__item_d" wId="gm9920_8__chp_3__art_3.2__para_5__list_o_1__item_d">
+                        <LiNummer>d.</LiNummer>
+                        <Al>
+                                          omstandigheden die het geheel of gedeeltelijk tenietgaan van de                
+                          <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstand</IntRef>
+                                           tot gevolgkunnen hebben, zoals de uitvoering van werkzaamheden.              
+                        </Al>
+                      </Li>
+                    </Lijst>
+                  </Inhoud>
+                </Lid>
+                <Lid eId="chp_3__art_3.2__para_6" wId="gm9920_8__chp_3__art_3.2__para_6">
+                  <LidNummer>6.</LidNummer>
+                  <Inhoud>
+                    <Al>
+                                  De lijst van beschermwaardige            
+                      <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstanden</IntRef>
+                                   wordt ten minste iedere vijf jaar geactualiseerd.          
+                    </Al>
+                  </Inhoud>
+                </Lid>
+              </Artikel>
+              <Artikel eId="chp_3__art_3.3" wId="gm9920_8__chp_3__art_3.3">
+                <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>3.3</Nummer>
+                  <Opschrift>Bescherming gemeentelijke houtopstand</Opschrift>
+                </Kop>
+                <Lid eId="chp_3__art_3.3__para_1" wId="gm9920_8__chp_3__art_3.3__para_1">
+                  <LidNummer>1.</LidNummer>
+                  <Inhoud>
+                    <Lijst eId="chp_3__art_3.3__para_1__list_o_1" type="expliciet" wId="gm9920_8__chp_3__art_3.3__para_1__list_o_1">
+                      <Lijstaanhef>
+                                      Ter plaatse              
+                        <IntIoRef eId="chp_3__art_3.3__para_1__list_o_1__ref_o_1" ref="gm9920_8__cmp_I__list_o_1__item_o_1__ref_o_1" wId="gm9920_8__chp_3__art_3.3__para_1__list_o_1__ref_o_1">"het ambtsgebied"</IntIoRef>
+                                       is het verboden om gemeentelijke              
+                        <IntRef ref="chp_1__art_1.1__list_o_1__item_o_2">houtopstanden</IntRef>
+                                      :            
+                      </Lijstaanhef>
+                      <Li eId="chp_3__art_3.3__para_1__list_o_1__item_a" wId="gm9920_8__chp_3__art_3.3__para_1__list_o_1__item_a">
+                        <LiNummer>a.</LiNummer>
+                        <Al>te beschadigen, te bekladden of te beplakken of;</Al>
+                      </Li>
+                      <Li eId="chp_3__art_3.3__para_1__list_o_1__item_b" wId="gm9920_8__chp_3__art_3.3__para_1__list_o_1__item_b">
+                        <LiNummer>b.</LiNummer>
+                        <Al>daaraan snoeiwerk te verrichten, behoudens door de gemeente opgedragen boomverzorgende taken.</Al>
+                      </Li>
+                    </Lijst>
+                  </Inhoud>
+                </Lid>
+              </Artikel>
+              <Artikel eId="chp_3__art_3.4" wId="gm9920_8__chp_3__art_3.4">
+                <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>3.4</Nummer>
+                  <Opschrift>Afstand van de erfgrenslijn</Opschrift>
+                </Kop>
+                <Inhoud>
+                  <Al>
+                              Voor          
+                    <IntIoRef eId="chp_3__art_3.4__ref_o_1" ref="gm9920_8__cmp_I__list_o_1__item_o_1__ref_o_1" wId="gm9920_8__chp_3__art_3.4__ref_o_1">"het ambtsgebied"</IntIoRef>
+                               is de afstand als bedoeld in artikel 5:42 Burgerlijk Wetboek vastgesteld op 0,5 meter voor          
+                    <IntRef ref="chp_1__art_1.1__list_o_1__item_o_1">bomen</IntRef>
+                               en op nihil voor heesters en heggen.        
+                  </Al>
+                </Inhoud>
+              </Artikel>
+            </Hoofdstuk>
+          </Lichaam>
+          <Bijlage eId="cmp_I" wId="gm9920_8__cmp_I">
+            <Kop>
+              <Label>Bijlage</Label>
+              <Nummer>I</Nummer>
+              <Opschrift>Overzicht informatieobjecten</Opschrift>
+            </Kop>
+            <Divisietekst eId="cmp_I__content_o_1" wId="gm9920_8__cmp_I__content_o_1">
+              <Inhoud>
+                <Begrippenlijst eId="cmp_I__content_o_1__list_o_1" wId="gm9920_8__cmp_I__content_o_1__list_o_1">
+                  <Begrip eId="cmp_I__list_o_1__item_o_1" wId="gm9920_8__cmp_I__list_o_1__item_o_1">
+                    <Term>Testeiland Westland</Term>
+                    <Definitie>
+                      <Al>
+                        <ExtIoRef ref="/join/id/regdata/gm9920/2021/Westland/nld@2021-08-24;1" eId="cmp_I__list_o_1__item_o_1__ref_o_1" wId="gm9920_8__cmp_I__list_o_1__item_o_1__ref_o_1">/join/id/regdata/gm9920/2021/Westland/nld@2021-08-24;1</ExtIoRef>
+                      </Al>
+                    </Definitie>
+                  </Begrip>
+                </Begrippenlijst>
+              </Inhoud>
+            </Divisietekst>
+          </Bijlage>
+        </RegelingCompact>
+      </WijzigBijlage>
+    </BesluitCompact>
+  </BesluitVersie>
+  <RegelingVersieInformatie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/akn/nl/act/gm9920/2020/SanityCheckWestland</FRBRWork>
+      <FRBRExpression>/akn/nl/act/gm9920/2020/SanityCheckWestland/nld@2020-02-05;8</FRBRExpression>
+      <soortWork>/join/id/stop/work_019</soortWork>
+    </ExpressionIdentificatie>
+    <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <versienummer>8</versienummer>
+    </RegelingVersieMetadata>
+    <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/gemeente/gm9920</eindverantwoordelijke>
+      <maker>/tooi/id/gemeente/gm9920</maker>
+      <!--soortBestuursorgaan is 'gemeenteraad'.-->
+      <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+      <officieleTitel>LVBB-Sanitycheck Westland</officieleTitel>
+      <alternatieveTitels>
+        <alternatieveTitel>LVBB-Sanitycheck Westland 2020</alternatieveTitel>
+      </alternatieveTitels>
+      <heeftCiteertitelInformatie>
+        <CiteertitelInformatie>
+          <citeertitel>LVBB-Sanitycheck Westland</citeertitel>
+          <isOfficieel>true</isOfficieel>
+        </CiteertitelInformatie>
+      </heeftCiteertitelInformatie>
+      <afkortingen>
+        <afkorting>VKW</afkorting>
+      </afkortingen>
+      <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
+      <onderwerpen>
+        <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
+      </onderwerpen>
+      <overheidsdomeinen>
+        <overheidsdomein>/tooi/def/concept/c_3708ac5e</overheidsdomein>
+      </overheidsdomeinen>
+      <rechtsgebieden>
+        <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+      </rechtsgebieden>
+    </RegelingMetadata>
+  </RegelingVersieInformatie>
+</AanleveringBesluit>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publicatieOpdracht xmlns="http://www.overheid.nl/2017/lvbb"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.overheid.nl/2017/lvbb ../lvbb/lvbb-transport.xsd">
+   <idLevering>publicatieOpdracht_Sanity_check_001</idLevering>
+   <idBevoegdGezag>00000099130854102077</idBevoegdGezag>
+   <idAanleveraar>00000001003214345000</idAanleveraar>
+   <publicatie>test_besluit.xml</publicatie>
+   <datumBekendmaking>2021-08-25</datumBekendmaking>
+</publicatieOpdracht>
