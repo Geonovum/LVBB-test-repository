@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.0.4" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ ../lvbb/lvbb-stop-aanlevering.xsd">
+<?xml version="1.0" encoding="UTF-8"?><AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ ../lvbb/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <FRBRWork>/join/id/regdata/gm9920/2021/Westland</FRBRWork>
@@ -10,7 +10,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>Westland_Testeiland20.gml</bestandsnaam>
-            <hash>8a3ae5cbb9bb9caa664482e3c56ac6dda3efa9ef72cae393fdfaba14e5f751f1565e4d14ed45c2730927323f8c804e8d1aa80c7227523383fb13000ce4f206b2</hash>
+            <hash>17c6cdadb2a0b06db38620cffa3ffb970921297c76663fa89dc6ba02f401897cdeefb2de4729c65ac524bc9b4d7b25320fa062bb45d9db7151cd9eae841dcbed</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
