@@ -24,4 +24,12 @@
     <bestandsnaam>owLocaties.xml</bestandsnaam>
     <contentType>application/xml</contentType>
   </bestand>
+  <bestand>
+    <bestandsnaam>Amsterdam.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+  </bestand>
+  <bestand>
+    <bestandsnaam>Amsterdam.gml</bestandsnaam>
+    <contentType>application/gml+xml</contentType>
+  </bestand>
 </manifest>
