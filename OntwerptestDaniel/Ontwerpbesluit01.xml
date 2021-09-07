@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringBesluit schemaversie="1.1.0"
+  xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/
+  https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+  <BesluitVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/akn/nl/bill/pv30/2020/ontwerpbesluit01</FRBRWork>
+      <FRBRExpression>/akn/nl/bill/pv30/2020/ontwerpbesluit01/nld@2020-02-15</FRBRExpression>
+      <soortWork>/join/id/stop/work_003</soortWork>
+    </ExpressionIdentificatie>
+    <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/provincie/pv30</eindverantwoordelijke>
+      <maker>/tooi/id/provincie/pv30</maker>
+      <officieleTitel>Ontwerpbesluit Omgevingsverordening Noord-Brabant</officieleTitel>
+      <onderwerpen>
+        <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
+      </onderwerpen>
+      <rechtsgebieden>
+        <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+      </rechtsgebieden>
+      <soortProcedure>/join/id/stop/proceduretype_ontwerp</soortProcedure>
+      <informatieobjectRefs>
+        <informatieobjectRef>/join/id/regdata/gm9920/2021/Amsterdam/nld@2021-09-07;1</informatieobjectRef>
+      </informatieobjectRefs>
+      <soortBestuursorgaan>/tooi/def/thes/kern/c_411b4e4a</soortBestuursorgaan>
+    </BesluitMetadata>
+    <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <bekendOp>2022-02-17</bekendOp>
+      <procedurestappen>
+          <Procedurestap>
+            <!-- stap_002 = Vaststelling -->
+            <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+            <voltooidOp>2022-02-14</voltooidOp>
+          </Procedurestap>
+          <!-- stap_003 = datum ondertekening -->
+        <Procedurestap>
+          <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+          <voltooidOp>2022-02-15</voltooidOp>
+        </Procedurestap>
+        <Procedurestap>
+          <!-- nieuw! begin inzagetermijn -->
+          <soortStap>/join/id/stop/procedure/stap_014</soortStap>
+          <voltooidOp>2022-02-16</voltooidOp>
+        </Procedurestap>
+        <Procedurestap>
+          <!-- nieuw! einde inzagetermijn -->
+          <soortStap>/join/id/stop/procedure/stap_005</soortStap>
+          <voltooidOp>2022-03-16</voltooidOp>
+        </Procedurestap>
+      </procedurestappen>
+    </Procedureverloop>
+    <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <BeoogdeRegelgeving>
+        <BeoogdeRegeling>
+          <doelen>
+            <doel>/join/id/proces/pv30/2020/terinzage_ontwerpbesluit01</doel>
+          </doelen>
+          <instrumentVersie>/akn/nl/act/pv30/2020/omgevingsverordening/nld@2020-02-01;1</instrumentVersie>
+          <eId>art_I</eId>
+        </BeoogdeRegeling>
+      </BeoogdeRegelgeving>
+      <!-- een ontwerpregeling heeft geen datum IWT en geen tijdstempels -->
+    </ConsolidatieInformatie>
+    <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+      <RegelingOpschrift eId="longTitle_o_1" wId="longTitle_o_1">
+        <Al>Ontwerpbesluit Omgevingsverordening Noord-Brabant</Al>
+      </RegelingOpschrift>
+      <Aanhef eId="formula_1" wId="formula_1">
+        <Al>De proviniale staten van de Noord-Brabant</Al>
+        <Al>overwegende dat Omgevingsverordening Noord-Brabant moet worden ingesteld</Al>
+        <Al>besluit:</Al>
+      </Aanhef>
+      <Lichaam eId="body" wId="body">
+        <WijzigArtikel eId="art_I" wId="pv30_1__art_I">
+          <Kop>
+            <Label>Artikel</Label>
+            <Nummer>I</Nummer>
+          </Kop>
+          <Wat>Noord-Brabant stelt de Omgevingsverordening vast zoals die in <IntRef ref="cmp_A" scope="WijzigBijlage"
+              >Bijlage A</IntRef> wordt gegeven</Wat>
+        </WijzigArtikel>
+      </Lichaam>
+      <Sluiting eId="formula_2" wId="formula_2">
+        <Al>Gegeven te Den Bosch, 15 februari 2020</Al>
+        <Ondertekening>
+          <Al>Huan Hung</Al>
+          <Al>Gerline ten Veen</Al>
+        </Ondertekening>
+      </Sluiting>
+      <WijzigBijlage eId="cmp_A" wId="cmp_A">
+        <Kop>
+          <Label>Bijlage</Label>
+          <Nummer>B</Nummer>
+          <Opschrift>Bijlage bij artikel I</Opschrift>
+        </Kop>
+        <RegelingCompact componentnaam="regeling"
+          wordt="/akn/nl/act/pv30/2020/omgevingsverordening/nld@2020-02-01;1">
+          <!--
+      ===============================================================
+      = DE TEKST-XML VAN DEZE REGELINGVERSIE KOMT TERUG IN          =
+      = DE TEKST VAN HET BESLUIT "02-BG-Besluit-v1-Tekst.xml"       =
+      = EN DEELS IN "11-BG-Regeling-v2-Tekst.xml"                   =
+      ===============================================================
+      -->
+          <RegelingOpschrift eId="longTitle_o_1" wId="longTitle_o_1">
+            <Al>Omgevingsverordening Noord-Brabant</Al>
+          </RegelingOpschrift>
+          <Lichaam eId="body" wId="body">
+            <Hoofdstuk eId="chp_1" wId="pv30_1__chp_1">
+              <Kop>
+                <Label>Hoofdstuk</Label>
+                <Nummer>1</Nummer>
+                <Opschrift>Inleidende regels</Opschrift>
+              </Kop>
+              <Artikel eId="chp_1__art_1.1" wId="pv30_1__chp_1__art_1.1">
+                <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>1.1</Nummer>
+                  <Opschrift>Begripsbepaling</Opschrift>
+                </Kop>
+                <Inhoud>
+                  <Begrippenlijst eId="chp_1__art_1.1__list_1" wId="pv30_1__chp_1__art_1.1__list_1">
+                    <Begrip eId="chp_1__art_1.1__list_1__item_1"
+                      wId="pv30_1__chp_1__art_1.1__list_1__item_1">
+                      <Term>GVE</Term>
+                      <Definitie>
+                        <Al>groot vee-eenheid, waarmee de fosfaatproductie van landbouwhuisdieren
+                          wordt uitgedrukt en waarbij 1 GVE overeenkomt met de fosfaatproductie van
+                          n melkkoe; daarnaast bestaat <IntIoRef eId="chp_1__art_1.1__list_1__item_1__ref_o_1" wId="pv30_1__chp_1__art_1.1__list_1__item_1__ref_o_1" ref="pv30_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1">Amsterdam</IntIoRef>, ook niet onbelangrijk</Al>
+                      </Definitie>
+                    </Begrip>
+                    <Begrip eId="chp_1__art_1.1__list_1__item_2"
+                      wId="pv30_1__chp_1__art_1.1__list_1__item_2">
+                      <Term>LAeq, 24 uur</Term>
+                      <Definitie>
+                        <Al>geluidmaat waarbij alle geluidniveaus over de periode van een etmaal
+                          zijn gemiddeld tot n waarde;</Al>
+                      </Definitie>
+                    </Begrip>
+                    <Begrip eId="chp_1__art_1.1__list_1__item_3"
+                      wId="pv30_1__chp_1__art_1.1__list_1__item_3">
+                      <Term>N-depositie</Term>
+                      <Definitie>
+                        <Al>neerslag van stikstofverbindingen uit de atmosfeer op een habitat,
+                          waarbij de belasting op een punt binnen het habitat uitgedrukt wordt in
+                          mol, per ha, per jaar en de belasting op het habitat als geheel in mol,
+                          per jaar;</Al>
+                      </Definitie>
+                    </Begrip>
+                  </Begrippenlijst>
+                </Inhoud>
+              </Artikel>
+              <Artikel eId="chp_1__art_1.3" wId="pv30_1__chp_1__art_1.3">
+                <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>1.3</Nummer>
+                  <Opschrift>Opsommingen</Opschrift>
+                </Kop>
+                <Inhoud>
+                  <Al>Opsommingen in deze verordening zijn cumulatief tenzij anders aangegeven.
+                  </Al>
+                </Inhoud>
+              </Artikel>
+            </Hoofdstuk>
+            <Hoofdstuk eId="chp_2" wId="pv30_1__chp_2">
+              <Kop>
+                <Label>Hoofdstuk</Label>
+                <Nummer>2</Nummer>
+                <Opschrift>Rechtstreeks werkende regels voor activiteiten</Opschrift>
+              </Kop>
+              <Afdeling eId="chp_2__subchp_2.1" wId="pv30_1__chp_2__subchp_2.1">
+                <Kop>
+                  <Label>Afdeling</Label>
+                  <Nummer>2.1</Nummer>
+                  <Opschrift>Waterwinning voor menselijke consumptie</Opschrift>
+                </Kop>
+                <Paragraaf eId="chp_2__subchp_2.1__subsec_2.1.1"
+                  wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.1">
+                  <Kop>
+                    <Label>Paragraaf</Label>
+                    <Nummer>2.1.1</Nummer>
+                    <Opschrift>Zorgplicht</Opschrift>
+                  </Kop>
+                  <Artikel eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.1"
+                    wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.1__art_2.1">
+                    <Kop>
+                      <Label>Artikel</Label>
+                      <Nummer>2.1</Nummer>
+                      <Opschrift>Zorgplicht Waterwinning voor menselijke consumptie</Opschrift>
+                    </Kop>
+                    <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_1"
+                      wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_1">
+                      <LidNummer>1.</LidNummer>
+                      <Inhoud>
+                        <Al>Degene die binnen de Waterwinning voor menselijke consumptie een
+                          activiteit verricht waarvan hij weet of redelijkerwijs kan vermoeden dat
+                          die activiteit nadelige gevolgen kan hebben voor de kwaliteit van het
+                          grondwater is verplicht:</Al>
+                        <Lijst eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_1__list_123"
+                          type="expliciet"
+                          wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_1__list_123">
+                          <Li
+                            eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_1__list_123__item_130"
+                            wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_1__list_123__item_130">
+                            <LiNummer>-</LiNummer>
+                            <Al>alle maatregelen te nemen die redelijkerwijs van diegene kunnen
+                              worden gevraagd om die gevolgen te voorkomen,</Al>
+                          </Li>
+                          <Li
+                            eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_1__list_123__item_132"
+                            wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_1__list_123__item_132">
+                            <LiNummer>-</LiNummer>
+                            <Al>voor zover deze niet kunnen worden voorkomen, die gevolgen zoveel
+                              mogelijk te beperken of ongedaan te maken, en</Al>
+                          </Li>
+                          <Li
+                            eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_1__list_123__item_134"
+                            wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_1__list_123__item_134">
+                            <LiNummer>-</LiNummer>
+                            <Al>als die gevolgen onvoldoende kunnen worden beperkt, die activiteit
+                              achterwege te laten voor zover dat redelijkerwijs van diegene kan
+                              worden gevraagd.</Al>
+                          </Li>
+                        </Lijst>
+                      </Inhoud>
+                    </Lid>
+                    <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_2"
+                      wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_2">
+                      <LidNummer>2.</LidNummer>
+                      <Inhoud>
+                        <Al>De zorgplicht houdt in ieder geval in dat wanneer er sprake is van een
+                          direct optredende of dreigende verontreiniging van het grondwater
+                          Gedeputeerde Staten onmiddellijk op de hoogte worden gesteld.</Al>
+                      </Inhoud>
+                    </Lid>
+                  </Artikel>
+                </Paragraaf>
+                <Paragraaf eId="chp_2__subchp_2.1__subsec_2.1.2"
+                  wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2">
+                  <Kop>
+                    <Label>Paragraaf</Label>
+                    <Nummer>2.1.2</Nummer>
+                    <Opschrift>Waterwingebied</Opschrift>
+                  </Kop>
+                  <Artikel eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3"
+                    wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3">
+                    <Kop>
+                      <Label>Artikel</Label>
+                      <Nummer>2.3</Nummer>
+                      <Opschrift>Verboden activiteiten Waterwingebied</Opschrift>
+                    </Kop>
+                    <Lid eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1"
+                      wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1">
+                      <LidNummer>Lid 1</LidNummer>
+                      <Inhoud>
+                        <Al>Binnen een Waterwingebied zijn de volgende activiteiten verboden:</Al>
+                        <Lijst eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129"
+                          type="expliciet"
+                          wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129">
+                          <Li
+                            eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129__item_138"
+                            wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129__item_138">
+                            <LiNummer>-</LiNummer>
+                            <Al>locatiegebonden milieubelastende activiteit</Al>
+                          </Li>
+                          <Li
+                            eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129__item_140"
+                            wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129__item_140">
+                            <LiNummer>-</LiNummer>
+                            <Al>gebruik of aanwezig hebben van een (potentieel) schadelijke
+                              stof</Al>
+                          </Li>
+                          <Li
+                            eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129__item_142"
+                            wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129__item_142">
+                            <LiNummer>-</LiNummer>
+                            <Al>het aanbrengen van een constructie of uitvoeren van andere
+                              werkzaamheden op of in de bodem</Al>
+                          </Li>
+                          <Li
+                            eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129__item_145"
+                            wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129__item_145">
+                            <LiNummer>-</LiNummer>
+                            <Al>het op of in de bodem brengen van schadelijke stoffen, waaronder het
+                              toepassen van grond en baggerspecie, het gebruik van meststoffen en
+                              het uitstrooien van as;</Al>
+                          </Li>
+                          <Li
+                            eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129__item_147"
+                            wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129__item_147">
+                            <LiNummer>-</LiNummer>
+                            <Al>het toepassen van uitloogbare materialen</Al>
+                          </Li>
+                          <Li
+                            eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129__item_149"
+                            wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_1__list_129__item_149">
+                            <LiNummer>-</LiNummer>
+                            <Al>gebruiken als parkeerterrein of voor evenementen</Al>
+                          </Li>
+                        </Lijst>
+                      </Inhoud>
+                    </Lid>
+                    <Lid eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_2"
+                      wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_2">
+                      <LidNummer>Lid 2</LidNummer>
+                      <Inhoud>
+                        <Al>Als een (potentieel) schadelijke stof worden aangemerkt:</Al>
+                        <Lijst eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_2__list_144"
+                          type="expliciet"
+                          wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_2__list_144">
+                          <Li
+                            eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_2__list_144__item_153"
+                            wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_2__list_144__item_153">
+                            <LiNummer>-</LiNummer>
+                            <Al>een zeer zorgwekkende stof, zoals vastgesteld door het RIVM;</Al>
+                          </Li>
+                          <Li
+                            eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_2__list_144__item_156"
+                            wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_2__list_144__item_156">
+                            <LiNummer>-</LiNummer>
+                            <Al>stoffen opgenomen in de Nederlandse Richtlijnen Bodembescherming
+                              2012, deel 3, bijlage 2, stap 5, 'De stoffenlijst';</Al>
+                          </Li>
+                          <Li
+                            eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_2__list_144__item_158"
+                            wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_2__list_144__item_158">
+                            <LiNummer>-</LiNummer>
+                            <Al>stoffen met een schadelijke werking op de smaak of geur van het
+                              grondwater, alsmede mengsels en verbindingen waaruit dergelijke
+                              stoffen in het grondwater kunnen ontstaan en die het grondwater
+                              ongeschikt voor menselijke consumptie maken; Natura 2000</Al>
+                          </Li>
+                          <Li
+                            eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_2__list_144__item_160"
+                            wId="pv30_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.3__para_2__list_144__item_160">
+                            <LiNummer>-</LiNummer>
+                            <Al>gewasbeschermingsmiddelen, biociden en derivaten daarvan.</Al>
+                          </Li>
+                        </Lijst>
+                      </Inhoud>
+                    </Lid>
+                  </Artikel>
+                </Paragraaf>
+              </Afdeling>
+              <Afdeling eId="chp_2__subchp_2.3" wId="pv30_1__chp_2__subchp_2.3">
+                <Kop>
+                  <Label>Afdeling</Label>
+                  <Nummer>2.3</Nummer>
+                  <Opschrift>Bodem</Opschrift>
+                </Kop>
+                <Paragraaf eId="chp_2__subchp_2.3__subsec_2.3.1"
+                  wId="pv30_1__chp_2__subchp_2.3__subsec_2.3.1">
+                  <Kop>
+                    <Label>Paragraaf</Label>
+                    <Nummer>2.3.1</Nummer>
+                    <Opschrift>Bodemsanering</Opschrift>
+                  </Kop>
+                  <Artikel eId="chp_2__subchp_2.3__subsec_2.3.1__art_2.24"
+                    wId="pv30_1__chp_2__subchp_2.3__subsec_2.3.1__art_2.24">
+                    <Kop>
+                      <Label>Artikel</Label>
+                      <Nummer>2.24</Nummer>
+                      <Opschrift>Eisen saneringsplan bodemsanering Waterwingebied of
+                        Grondwaterbeschermingsgebied</Opschrift>
+                    </Kop>
+                    <Lid eId="chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_1"
+                      wId="pv30_1__chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_1">
+                      <LidNummer>Lid 1</LidNummer>
+                      <Inhoud>
+                        <Al>Als een sanering geheel of gedeeltelijk plaatsvindt binnen een
+                          Waterwingebied of een Grondwaterbeschermingsgebied is het saneringsplan
+                          gericht op het bereiken van de streefwaarde of de (verhoogde)
+                          achtergrondwaarde.</Al>
+                      </Inhoud>
+                    </Lid>
+                    <Lid eId="chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_2"
+                      wId="pv30_1__chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_2">
+                      <LidNummer>Lid 2</LidNummer>
+                      <Inhoud>
+                        <Al>Als een volledige verwijdering van de verontreiniging niet
+                          kosteneffectief is, is het saneringsplan gericht op een stabiele
+                          eindsituatie, waarbij de contouren van een eventuele restverontreiniging
+                          zich niet groter worden.</Al>
+                      </Inhoud>
+                    </Lid>
+                    <Lid eId="chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_3"
+                      wId="pv30_1__chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_3">
+                      <LidNummer>Lid 3</LidNummer>
+                      <Inhoud>
+                        <Al>Als het bereiken van de waarden bedoeld in het eerste lid niet haalbaar
+                          is, wordt aangegeven op welke wijze de risicos voor het drinkwater, worden
+                          weggenomen.</Al>
+                      </Inhoud>
+                    </Lid>
+                    <Lid eId="chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_4"
+                      wId="pv30_1__chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_4">
+                      <LidNummer>Lid 4</LidNummer>
+                      <Inhoud>
+                        <Al>Uit het saneringsplan, bedoeld in het eerste lid, blijkt dat:</Al>
+                        <Lijst eId="chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_4__list_428"
+                          type="expliciet"
+                          wId="pv30_1__chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_4__list_428">
+                          <Li
+                            eId="chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_4__list_428__item_437"
+                            wId="pv30_1__chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_4__list_428__item_437">
+                            <LiNummer>-</LiNummer>
+                            <Al>hulpstoffen voor een in-situ-sanering geen risico vormen voor het
+                              drinkwater;</Al>
+                          </Li>
+                          <Li
+                            eId="chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_4__list_428__item_439"
+                            wId="pv30_1__chp_2__subchp_2.3__subsec_2.3.1__art_2.24__para_4__list_428__item_439">
+                            <LiNummer>-</LiNummer>
+                            <Al>de afbraak van restproducten inzichtelijk is gemaakt.</Al>
+                          </Li>
+                        </Lijst>
+                      </Inhoud>
+                    </Lid>
+                  </Artikel>
+                </Paragraaf>
+              </Afdeling>
+            </Hoofdstuk>
+          </Lichaam>
+          <Bijlage eId="cmp_1" wId="pv30_1__cmp_1">
+            <Kop>
+              <Label>Bijlage</Label>
+              <Nummer>1</Nummer>
+            </Kop>
+            <Divisietekst eId="cmp_1__content_o_1" wId="ws0616_1__cmp_1__content_o_1">
+              <Inhoud>
+                <Begrippenlijst eId="cmp_1__content_o_1__list_o_1"
+                  wId="pv30_1__cmp_1__content_o_1__list_o_1">
+                  <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_1"
+                    wId="pv30_1__cmp_1__content_o_1__list_o_1__item_o_1">
+                    <Term>Amsterdam</Term>
+                    <Definitie>
+                      <Al>
+                        <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                          wId="pv30_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                          ref="/join/id/regdata/gm9920/2021/Amsterdam/nld@2021-09-07;1">/join/id/regdata/gm9920/2021/Amsterdam/nld@2021-09-07;1</ExtIoRef>
+                      </Al>
+                    </Definitie>
+                  </Begrip>
+                </Begrippenlijst>
+              </Inhoud>
+            </Divisietekst>
+          </Bijlage>
+          <Toelichting eId="recital_2" wId="pv30_1__recital_2">
+            <Kop>
+              <Label>Toelichting</Label>
+              <Nummer>2</Nummer>
+              <Opschrift>Toelichting</Opschrift>
+            </Kop>
+            <Divisie eId="recital_2__div_1" wId="pv30_1__recital_2__div_1">
+              <Kop>
+                <Label>Algemene toelichting</Label>
+                <Nummer>1</Nummer>
+                <Opschrift>Algemene toelichting</Opschrift>
+              </Kop>
+              <Divisietekst eId="recital_2__div_1__content_1.1"
+                wId="pv30_1__recital_2__div_1__content_1.1">
+                <Kop>
+                  <Label>Toelichting</Label>
+                  <Nummer>1.1</Nummer>
+                  <Opschrift>1.1 Leeswijzer</Opschrift>
+                </Kop>
+                <Inhoud>
+                  <Al>In deze algemene toelichting op de omgevingsverordening Noord-Brabant (verder
+                    te noemen omgevingsverordening) wordt ingegaan op de relatie van de
+                    omgevingsverordening met de omgevingsvisie, wat de omgevingsverordening is,
+                    uitgangspunten bij de totstandkoming, opbouw en de van toepassing zijnde
+                    wettelijke kaders.</Al>
+                  <Al>Het algemene deel wordt afgesloten met een korte toelichting op Hoofdstuk 1
+                    van de omgevingsverordening: de begripsbepalingen.</Al>
+                </Inhoud>
+              </Divisietekst>
+            </Divisie>
+          </Toelichting>
+        </RegelingCompact>
+      </WijzigBijlage>
+      <Motivering eId="acc_B" wId="pv30_1__acc_B">
+        <Kop>
+          <Label>Bijlage</Label>
+          <Nummer>B</Nummer>
+          <Opschrift>Motivering</Opschrift>
+        </Kop>
+        <Divisietekst eId="acc_B__content_1" wId="pv30_1__acc_B__content_1">
+          <Inhoud>
+            <Al>Dit ontwerpbesluit bevat de niet-controversiële regels.</Al>
+          </Inhoud>
+        </Divisietekst>
+      </Motivering>
+    </BesluitCompact>
+  </BesluitVersie>
+  <RegelingVersieInformatie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/akn/nl/act/pv30/2020/omgevingsverordening</FRBRWork>
+      <FRBRExpression>/akn/nl/act/pv30/2020/omgevingsverordening/nld@2020-02-01;1</FRBRExpression>
+      <soortWork>/join/id/stop/work_019</soortWork>
+    </ExpressionIdentificatie>
+    <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <versienummer>1</versienummer>
+    </RegelingVersieMetadata>
+    <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/provincie/pv30</eindverantwoordelijke>
+      <maker>/tooi/id/provincie/pv30</maker>
+      <officieleTitel>Omgevingsverordening Noord-Brabant</officieleTitel>
+      <onderwerpen>
+        <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
+      </onderwerpen>
+      <overheidsdomeinen>
+        <overheidsdomein>/tooi/def/concept/c_3708ac5e</overheidsdomein>
+      </overheidsdomeinen>
+      <rechtsgebieden>
+        <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+      </rechtsgebieden>
+      <heeftCiteertitelInformatie>
+        <CiteertitelInformatie>
+          <citeertitel>Omgevingsverordening Noord-Brabant</citeertitel>
+          <isOfficieel>false</isOfficieel>
+        </CiteertitelInformatie>
+      </heeftCiteertitelInformatie>
+      <soortRegeling>/join/id/stop/regelingtype_004</soortRegeling>      
+      <soortBestuursorgaan>/tooi/def/thes/kern/c_411b4e4a</soortBestuursorgaan>
+    </RegelingMetadata>
+  </RegelingVersieInformatie>
+</AanleveringBesluit>

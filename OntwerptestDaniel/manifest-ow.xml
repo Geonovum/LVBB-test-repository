@@ -1,0 +1,16 @@
+<mow:Aanleveringen xmlns:mow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">
+    <mow:domein>omgevingswet</mow:domein>
+    <mow:Aanlevering>
+        <mow:WorkIDRegeling>/akn/nl/act/pv30/2020/omgevingsverordening</mow:WorkIDRegeling>
+        <mow:DoelID>/join/id/proces/pv30/2020/terinzage_ontwerpbesluit01</mow:DoelID>
+        <mow:Bestand>
+            <mow:naam>owLocaties.xml</mow:naam>
+            <mow:objecttype>Ambtsgebied</mow:objecttype>
+        </mow:Bestand>
+        <mow:Bestand>
+            <mow:naam>owRegelingsgebied.xml</mow:naam>
+            <mow:objecttype>Regelingsgebied</mow:objecttype>
+        </mow:Bestand>
+    </mow:Aanlevering>
+</mow:Aanleveringen>
+
