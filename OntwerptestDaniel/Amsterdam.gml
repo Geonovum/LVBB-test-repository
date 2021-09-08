@@ -8,7 +8,7 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork/>
+      <geo:FRBRWork>/join/id/regdata/gm9920/2021/Amsterdam</geo:FRBRWork>
       <geo:FRBRExpression>/join/id/regdata/gm9920/2021/Amsterdam/nld@2021-09-07;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>

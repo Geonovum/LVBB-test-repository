@@ -23,6 +23,7 @@
         <sl:stand>
             <ow-dc:owObject>
                 <l:Gebied>
+                    <ow:procedurestatus>ontwerp</ow:procedurestatus>
                     <l:identificatie>nl.imow-gm0363.gebied.amsterdam</l:identificatie>
                     <l:geometrie>
                         <l:GeometrieRef xlink:href="4948536d-e226-479f-829b-f9222870d715"/>
