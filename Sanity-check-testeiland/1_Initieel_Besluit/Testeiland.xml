@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ ../lvbb/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/gm9920/2021/Testeiland</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm9920/2021/Testeiland/nld@2021-08-25;1</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Testeiland.gml</bestandsnaam>
+            <hash>87955ea68494a8cec5618202cd2f1038587f2898ce927db5ee11a49db7bb5253e1a3e513c573dea8f00ae832af494023f49e4c450c29555e0ad4eb31e2f46d18</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+      <heeftGeboorteregeling>/akn/nl/act/gm9920/2021/TestReeksNummer1</heeftGeboorteregeling>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/gemeente/gm9920</eindverantwoordelijke>
+      <maker>/tooi/id/gemeente/gm9920</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Testeiland 20</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/gm9920/2021/Testeiland</officieleTitel>
+      <naamInformatieObject>Testeiland 20 Testeiland</naamInformatieObject>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>
