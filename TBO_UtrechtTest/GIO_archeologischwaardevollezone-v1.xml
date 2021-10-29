@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.4">
+	<InformatieObjectVersie>
+		<ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.0.4">
+			<FRBRWork>/join/id/regdata/pv73/2021/gio282</FRBRWork>
+			<FRBRExpression>/join/id/regdata/pv73/2021/gio282/nld@2021-07-06;1</FRBRExpression>
+			<soortWork>/join/id/stop/work_010</soortWork>
+		</ExpressionIdentificatie>
+		<InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.0.4">
+			<heeftGeboorteregeling>/akn/nl/act/pv73/2021/3_2</heeftGeboorteregeling>
+			<heeftBestanden>
+				<heeftBestand>
+					<Bestand>
+						<bestandsnaam>archeologischwaardevollezone-v1.gml</bestandsnaam>
+						<hash>7994871818c200a075b92d42efce1feb42404133eb8e8639719ca6d5ba453bdb4622ef20bb453764b7468b48da181f39447e75387ddc2dbb3c1739d48e44a918</hash>
+					</Bestand>
+				</heeftBestand>
+			</heeftBestanden>
+		</InformatieObjectVersieMetadata>
+		<InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.0.4">
+			<eindverantwoordelijke>/tooi/id/provincie/pv73</eindverantwoordelijke>
+			<maker>/tooi/id/provincie/pv73</maker>
+			<naamInformatieObject>archeologisch waardevolle zone</naamInformatieObject>
+			<officieleTitel>/join/id/regdata/pv73/2021/gio282</officieleTitel>
+			<publicatieinstructie>TeConsolideren</publicatieinstructie>
+			<formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+		</InformatieObjectMetadata>
+	</InformatieObjectVersie>
+</AanleveringInformatieObject>

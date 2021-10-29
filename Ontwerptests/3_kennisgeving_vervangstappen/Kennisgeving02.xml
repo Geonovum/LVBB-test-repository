@@ -17,16 +17,16 @@
       <onderwerpen>
         <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
       </onderwerpen>
-      <mededelingOver>/akn/nl/bill/pv26/2020/OVIPU001Ontwerp/nld@2020-05-12;2</mededelingOver>
+      <mededelingOver>/akn/nl/bill/pv30/2020/ontwerpbesluit02/nld@2020-02-15</mededelingOver>
     </KennisgevingMetadata>
     <Procedureverloopmutatie 
       xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <bekendOp>2020-04-15</bekendOp>
       <vervangStappen>
         <Procedurestap>
-          <datumTeMuterenStap>2020-07-31</datumTeMuterenStap>
+          <datumTeMuterenStap>2020-10-30</datumTeMuterenStap>
           <soortStap>/join/id/stop/procedure/stap_005</soortStap>
-          <voltooidOp>2021-09-30</voltooidOp>
+          <voltooidOp>2021-10-30</voltooidOp>
         </Procedurestap>
       </vervangStappen>
     </Procedureverloopmutatie>

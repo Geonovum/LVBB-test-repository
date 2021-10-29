@@ -22,7 +22,7 @@
                <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rg:identificatie>nl.imow-mnre1034.regelingsgebied.2019000001</rg:identificatie>
                <rg:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0363.gebied.amsterdam"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0363.gebied.Amsterdam020"/>
                </rg:locatieaanduiding>
             </rg:Regelingsgebied>
          </ow-dc:owObject>

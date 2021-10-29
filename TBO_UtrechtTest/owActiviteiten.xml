@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:r="http://www.geostandaarden.nl/imow/regels" xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst" xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" xmlns:p="http://www.geostandaarden.nl/imow/pons" xmlns:l="http://www.geostandaarden.nl/imow/locatie" xmlns:k="http://www.geostandaarden.nl/imow/kaart" xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen" xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" xmlns:op="http://www.geostandaarden.nl/imow/opobject" xmlns:ow="http://www.geostandaarden.nl/imow/owobject" xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied" xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand                                  https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	<sl:standBestand>
+		<sl:dataset>Provincie Utrecht</sl:dataset>
+		<sl:inhoud>
+			<sl:gebied>Provincie Utrecht</sl:gebied>
+			<sl:leveringsId>00000000-0000-0000-0000-000000000000</sl:leveringsId>
+			<sl:objectTypen>
+				<sl:objectType>Activiteit</sl:objectType>
+			</sl:objectTypen>
+		</sl:inhoud>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000031</rol:identificatie>
+					<rol:naam>houtopstand vellen</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Kapactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000028</rol:identificatie>
+					<rol:naam>transformatorstation oprichten of wijzigen</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/VerrichtenVanWerkenEnWerkzaamhedenactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000038</rol:identificatie>
+					<rol:naam>boorput buiten gebruik stellen</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/VerrichtenVanWerkenEnWerkzaamhedenactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000040</rol:identificatie>
+					<rol:naam>energie aan bodem toevoegen of onttrekken</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Grondwateractiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000013</rol:identificatie>
+					<rol:naam>bodem saneren en onderzoeken</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Bodemactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000008</rol:identificatie>
+					<rol:naam>borden of vlaggen of vergelijkbare objecten plaatsen of hebben</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/VerrichtenVanWerkenEnWerkzaamhedenactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000007</rol:identificatie>
+					<rol:naam>kleine open bodemenergiesystemen gebruiken of aanleggen</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Bodemactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000020</rol:identificatie>
+					<rol:naam>activiteiten op gesloten stortplaats</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MilieubelastendeActiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000041</rol:identificatie>
+					<rol:naam>mijnbouwactiviteiten uitvoeren</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Mijnbouwlocatieactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000029</rol:identificatie>
+					<rol:naam>aantasting natuur compenseren</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Natuuractiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000022</rol:identificatie>
+					<rol:naam>kabels of leidingen of andere werken aanleggen of wijzigen of verwijderen</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/VerrichtenVanWerkenEnWerkzaamhedenactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000017</rol:identificatie>
+					<rol:naam>open bodemenergiesysteem voor een innovatief duurzaamheidsproject aanleggen</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Grondwateractiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000033</rol:identificatie>
+					<rol:naam>Aziatische duizendknoopsoorten verspreiden</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MilieubelastendeActiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000012</rol:identificatie>
+					<rol:naam>baggerspecie uit watergang verspreiden</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Bodemactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000018</rol:identificatie>
+					<rol:naam>grondwater saneren</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Grondwateractiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000023</rol:identificatie>
+					<rol:naam>standplaats of verkooppunt hebben of inrichten</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Standplaatsactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000039</rol:identificatie>
+					<rol:naam>boorput voor industriële grondwaterwinning oprichten</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/VerrichtenVanWerkenEnWerkzaamhedenactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000002</rol:identificatie>
+					<rol:naam>zwemlocatie beheren</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/GelegenheidTotZwemmenEnBadenBiedenactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000019</rol:identificatie>
+					<rol:naam>storten, egaliseren, ophogen en rommelterrein inrichten</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Stortingsactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000036</rol:identificatie>
+					<rol:naam>verjagen en verstoren van ganzen</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/FloraEnFaunaActiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000003</rol:identificatie>
+					<rol:naam>woonschip hebben of afmeren</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Ligplaatsactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000021</rol:identificatie>
+					<rol:naam>uitweg hebben of maken of veranderen</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Uitritactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000015</rol:identificatie>
+					<rol:naam>schadelijke stoffen opslaan</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MilieubelastendeActiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000009</rol:identificatie>
+					<rol:naam>activiteiten in waterwingebied</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MilieubelastendeActiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000006</rol:identificatie>
+					<rol:naam>dempen van oppervlaktewaterlichamen</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/VerrichtenVanWerkenEnWerkzaamhedenactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000004</rol:identificatie>
+					<rol:naam>vaartuig of voorwerp anders dan woonschip afmeren of hebben</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Ligplaatsactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000037</rol:identificatie>
+					<rol:naam>bestrijden veldmuis</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/FloraEnFaunaActiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000011</rol:identificatie>
+					<rol:naam>civieltechnische en bouwtechnische werken uitvoeren</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/VerrichtenVanWerkenEnWerkzaamhedenactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000024</rol:identificatie>
+					<rol:naam>evenement houden</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Evenementactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000010</rol:identificatie>
+					<rol:naam>grond of baggerspecie toepassen</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Bodemactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000016</rol:identificatie>
+					<rol:naam>boren en grondwerken of funderingswerken uitvoeren</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/VerrichtenVanWerkenEnWerkzaamhedenactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000030</rol:identificatie>
+					<rol:naam>nieuwe natuur realiseren</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Natuuractiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000032</rol:identificatie>
+					<rol:naam>activiteiten met beschermd klein landschapselement</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Natuuractiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000005</rol:identificatie>
+					<rol:naam>havens en aanlegplaatsen voor vaartuig en voorwerp</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Ligplaatsactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<rol:identificatie>nl.imow-pv73.activiteit.0000000000034</rol:identificatie>
+					<rol:naam>activiteiten met geluid in stiltegebied</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MilieubelastendeActiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActiviteitInOmgevingsver"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+	</sl:standBestand>
+</ow-dc:owBestand>

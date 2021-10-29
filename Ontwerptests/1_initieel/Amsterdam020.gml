@@ -8,11 +8,11 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/gm9920/2021/Amsterdam</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm9920/2021/Amsterdam/nld@2021-09-07;1</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/gm9920/2021/Amsterdam020</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/gm9920/2021/Amsterdam020/nld@2021-09-07;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
-          <geo:naam>Amsterdam</geo:naam>
+          <geo:naam>Amsterdam020</geo:naam>
           <geo:geometrie>
             <basisgeo:Geometrie>
               <basisgeo:id>4948536d-e226-479f-829b-f9222870d715</basisgeo:id>

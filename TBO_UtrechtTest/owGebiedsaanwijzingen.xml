@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:r="http://www.geostandaarden.nl/imow/regels" xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst" xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" xmlns:p="http://www.geostandaarden.nl/imow/pons" xmlns:l="http://www.geostandaarden.nl/imow/locatie" xmlns:k="http://www.geostandaarden.nl/imow/kaart" xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen" xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" xmlns:op="http://www.geostandaarden.nl/imow/opobject" xmlns:ow="http://www.geostandaarden.nl/imow/owobject" xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied" xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand                                  https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	<sl:standBestand>
+		<sl:dataset>Provincie Utrecht</sl:dataset>
+		<sl:inhoud>
+			<sl:gebied>Provincie Utrecht</sl:gebied>
+			<sl:leveringsId>00000000-0000-0000-0000-000000000000</sl:leveringsId>
+			<sl:objectTypen>
+				<sl:objectType>Gebiedsaanwijzing</sl:objectType>
+			</sl:objectTypen>
+		</sl:inhoud>
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<ga:identificatie>nl.imow-pv73.gebiedsaanwijzing.0000000000104</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</ga:type>
+					<ga:naam>Kleine windturbine</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/Energievoorziening/id/concept/Windturbinegebied</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv73.gebiedengroep.0000000000383"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<ga:identificatie>nl.imow-pv73.gebiedsaanwijzing.0000000000125</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Energievoorziening</ga:type>
+					<ga:naam>windenergie</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/Energievoorziening/id/concept/Windturbinegebied</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv73.gebiedengroep.0000000000381"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<ga:Gebiedsaanwijzing>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<ga:identificatie>nl.imow-pv73.gebiedsaanwijzing.0000000000014</ga:identificatie>
+					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Erfgoed</ga:type>
+					<ga:naam>archeologisch waardevolle zone</ga:naam>
+					<ga:groep>http://standaarden.omgevingswet.overheid.nl/Erfgoed/id/concept/Archeologie</ga:groep>
+					<ga:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-pv73.gebiedengroep.0000000000282"/>
+					</ga:locatieaanduiding>
+				</ga:Gebiedsaanwijzing>
+			</ow-dc:owObject>
+		</sl:stand>
+	</sl:standBestand>
+</ow-dc:owBestand>

@@ -6,8 +6,8 @@
   https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
   <BesluitVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/akn/nl/bill/pv30/2020/ontwerpbesluit01</FRBRWork>
-      <FRBRExpression>/akn/nl/bill/pv30/2020/ontwerpbesluit01/nld@2020-02-15</FRBRExpression>
+      <FRBRWork>/akn/nl/bill/pv30/2020/ontwerpbesluit02</FRBRWork>
+      <FRBRExpression>/akn/nl/bill/pv30/2020/ontwerpbesluit02/nld@2020-02-15</FRBRExpression>
       <soortWork>/join/id/stop/work_003</soortWork>
     </ExpressionIdentificatie>
     <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -22,7 +22,7 @@
       </rechtsgebieden>
       <soortProcedure>/join/id/stop/proceduretype_ontwerp</soortProcedure>
       <informatieobjectRefs>
-        <informatieobjectRef>/join/id/regdata/gm9920/2021/Amsterdam/nld@2021-09-07;1</informatieobjectRef>
+        <informatieobjectRef>/join/id/regdata/gm9920/2021/Amsterdam020/nld@2021-09-07;1</informatieobjectRef>
       </informatieobjectRefs>
       <soortBestuursorgaan>/tooi/def/thes/kern/c_411b4e4a</soortBestuursorgaan>
     </BesluitMetadata>
@@ -39,16 +39,6 @@
           <soortStap>/join/id/stop/procedure/stap_003</soortStap>
           <voltooidOp>2022-02-15</voltooidOp>
         </Procedurestap>
-        <Procedurestap>
-          <!-- nieuw! begin inzagetermijn -->
-          <soortStap>/join/id/stop/procedure/stap_014</soortStap>
-          <voltooidOp>2022-02-16</voltooidOp>
-        </Procedurestap>
-        <Procedurestap>
-          <!-- nieuw! einde inzagetermijn -->
-          <soortStap>/join/id/stop/procedure/stap_005</soortStap>
-          <voltooidOp>2022-03-16</voltooidOp>
-        </Procedurestap>
       </procedurestappen>
     </Procedureverloop>
     <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -57,14 +47,14 @@
           <doelen>
             <doel>/join/id/proces/pv30/2020/terinzage_ontwerpbesluit01</doel>
           </doelen>
-          <instrumentVersie>/akn/nl/act/pv30/2020/omgevingsverordening/nld@2020-02-01;1</instrumentVersie>
+          <instrumentVersie>/akn/nl/act/pv30/2020/omgevingsverordening/nld@2021-02-01;1</instrumentVersie>
           <eId>art_I</eId>
         </BeoogdeRegeling>
         <BeoogdInformatieobject>
           <doelen>
             <doel>/join/id/proces/pv30/2020/terinzage_ontwerpbesluit01</doel>
           </doelen>
-          <instrumentVersie>/join/id/regdata/gm9920/2021/Amsterdam/nld@2021-09-07;1</instrumentVersie>
+          <instrumentVersie>/join/id/regdata/gm9920/2021/Amsterdam020/nld@2021-09-07;1</instrumentVersie>
           <eId>!regeling#cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
         </BeoogdInformatieobject>
       </BeoogdeRegelgeving>
@@ -103,7 +93,7 @@
           <Opschrift>Bijlage bij artikel I</Opschrift>
         </Kop>
         <RegelingCompact componentnaam="regeling"
-          wordt="/akn/nl/act/pv30/2020/omgevingsverordening/nld@2020-02-01;1">
+          wordt="/akn/nl/act/pv30/2020/omgevingsverordening/nld@2021-02-01;1">
           <!--
       ===============================================================
       = DE TEKST-XML VAN DEZE REGELINGVERSIE KOMT TERUG IN          =
@@ -135,7 +125,7 @@
                       <Definitie>
                         <Al>groot vee-eenheid, waarmee de fosfaatproductie van landbouwhuisdieren
                           wordt uitgedrukt en waarbij 1 GVE overeenkomt met de fosfaatproductie van
-                          n melkkoe; daarnaast bestaat <IntIoRef eId="chp_1__art_1.1__list_1__item_1__ref_o_1" wId="pv30_1__chp_1__art_1.1__list_1__item_1__ref_o_1" ref="pv30_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1">Amsterdam</IntIoRef>, ook niet onbelangrijk</Al>
+                          n melkkoe; daarnaast bestaat <IntIoRef eId="chp_1__art_1.1__list_1__item_1__ref_o_1" wId="pv30_1__chp_1__art_1.1__list_1__item_1__ref_o_1" ref="pv30_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1">Amsterdam020</IntIoRef>, ook niet onbelangrijk</Al>
                       </Definitie>
                     </Begrip>
                     <Begrip eId="chp_1__art_1.1__list_1__item_2"
@@ -441,12 +431,12 @@
                   wId="pv30_1__cmp_1__content_o_1__list_o_1">
                   <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_1"
                     wId="pv30_1__cmp_1__content_o_1__list_o_1__item_o_1">
-                    <Term>Amsterdam</Term>
+                    <Term>Amsterdam020</Term>
                     <Definitie>
                       <Al>
                         <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1"
                           wId="pv30_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                          ref="/join/id/regdata/gm9920/2021/Amsterdam/nld@2021-09-07;1">/join/id/regdata/gm9920/2021/Amsterdam/nld@2021-09-07;1</ExtIoRef>
+                          ref="/join/id/regdata/gm9920/2021/Amsterdam020/nld@2021-09-07;1">/join/id/regdata/gm9920/2021/Amsterdam020/nld@2021-09-07;1</ExtIoRef>
                       </Al>
                     </Definitie>
                   </Begrip>
@@ -504,7 +494,7 @@
   <RegelingVersieInformatie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <FRBRWork>/akn/nl/act/pv30/2020/omgevingsverordening</FRBRWork>
-      <FRBRExpression>/akn/nl/act/pv30/2020/omgevingsverordening/nld@2020-02-01;1</FRBRExpression>
+      <FRBRExpression>/akn/nl/act/pv30/2020/omgevingsverordening/nld@2021-02-01;1</FRBRExpression>
       <soortWork>/join/id/stop/work_019</soortWork>
     </ExpressionIdentificatie>
     <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">

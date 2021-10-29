@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   schemaversie="1.1.0"
+   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/gm9913/2021/TestNummer1Initieel</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/gm9913/2021/TestNummer1Initieel/nld@2019-06-27</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm9913</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm9913</maker>
+         <officieleTitel>Testeiland eerste aanlevering</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+            <!-- werk -->
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/gm9913/2021/Testeiland/nld@2021-08-25;1</informatieobjectRef>
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2021-09-01</bekendOp>
+         <procedurestappen>
+            <Procedurestap>
+               <!-- Ondertekening -->
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2021-06-25</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <data:ConsolidatieInformatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/gm9913/2021/TesteilandDoel</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/gm9913/2021/TestReeksNummer1/nld@1</instrumentVersie>
+               <eId>art_II</eId>
+            </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm9913/2021/TesteilandDoel</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm9913/2021/Testeiland/nld@2021-08-25;1</instrumentVersie>
+               <eId>!regeling#cmp_I__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+         </BeoogdeRegelgeving>
+         <Tijdstempels xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <Tijdstempel>
+               <doel>/join/id/proces/gm9913/2021/TesteilandDoel</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2021-09-01</datum>
+               <eId>art_II</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </data:ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle_o_1" wId="longTitle_o_1">
+            <Al>Testeiland eerste aanlevering</Al>
+         </RegelingOpschrift>
+         <Aanhef eId="formula_1" wId="formula_1">
+            <Al>De raad van de gemeente Gemeenstestad </Al>
+            <Al>gelezen het voorstel van burgemeester en wethouders van 26 juni 2021, nr. 2021-4542;</Al>
+            <Al>Gelet op <ExtRef ref="https://wetten.overheid.nl/jci1.3:c:BWBR0005416&amp;titeldeel=III&amp;hoofdstuk=IX&amp;artikel=149" soort="URL">Gemeentewet, art. 149</ExtRef>.</Al>
+            <Al>besluit:</Al>
+         </Aanhef>
+         <Lichaam eId="body" wId="body">
+            <WijzigArtikel eId="art_I" wId="gm9913_1__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Wat>Test 1 zoals uitgevoerd in <IntRef ref="cmp_A">Bijlage A</IntRef> is gelukt als je dit leest. Dit betekent dat er een initieel besluit is gepubliceerd op het testeiland.</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_II" wId="gm9913_1__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Dit besluit treedt in werking per 28 september 2021.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting eId="formula_2_o_1" wId="sluiting__formula_2_o_1">
+            <Al>Bedacht in Amsterdam, 27 september 2021</Al>
+            <Ondertekening>
+               <Al>Richard de Graaf copyright</Al>
+            </Ondertekening>
+         </Sluiting>
+         <WijzigBijlage eId="cmp_A" wId="gm9913_1__cmp_A">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>A</Nummer>
+               <Opschrift>Bijlage bij artikel I</Opschrift>
+            </Kop>
+            <RegelingCompact wordt="/akn/nl/act/gm9913/2021/TestReeksNummer1/nld@1" componentnaam="main">
+               <RegelingOpschrift wId="gm9913_1__longTitle" eId="longTitle">
+                  <Al>Initiële aanlevering Testeiland</Al>
+               </RegelingOpschrift>
+               <Lichaam eId="body_1" wId="body_1">
+                  <!-- Hieronder staat een hoofdstuk -->
+                  <Hoofdstuk eId="chp_h_1" wId="gm9913_1__chp_h_1">
+                     <!-- De inhoud van het hoofdstuk -->
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>1</Nummer>
+                        <Opschrift>Inleiding</Opschrift>
+                     </Kop>
+                     <!-- Hieronder staat een artikel -->
+                     <Artikel eId="h_1__art_1-1" wId="gm9913_1__h_1__art_1-1">
+                        <!-- De inhoud van het artikel -->
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.1</Nummer>
+                           <Opschrift>Testoverzicht</Opschrift>
+                        </Kop>
+                        <Lid wId="gm9913_1__h_1__art_1-1__para_1" eId="h_1__art_1-1__para_1">
+                           <LidNummer>1.</LidNummer>
+                           <Inhoud>
+                              <Al> in de volgende leden wordt een plaatje en een tabel toegevoegd. Deze zullen in een latere besluit mogelijk gewijzigd worden. </Al>
+                           </Inhoud>
+                        </Lid>
+                        <Lid wId="gm9913_1__h_1__art_1-1__para_2" eId="h_1__art_1-1__para_2">
+                           <LidNummer>2.</LidNummer>
+                           <Inhoud>
+                              <Al>Test Inhoud (en verwijzing naar Testeiland)</Al>
+                           </Inhoud>
+                        </Lid>
+                        <Lid wId="gm9913_1__h_1__art_1-1__para_3" eId="h_1__art_1-1__para_3">
+                           <LidNummer>3.</LidNummer>
+                           <Inhoud>
+                              <Tussenkop>Tabel met testresultaat</Tussenkop>
+                              <table wId="gm9913_1__h_1__art_1-1__para_3__table_1" eId="h_1__art_1-1__para_3__table_1"
+                                 frame="topbot"
+                                 pgwide="0"
+                                 tabstyle="xml2"
+                                 rowsep="0"
+                                 colsep="0">
+                                 <title>Testoverzicht</title>
+                                 <tgroup cols="4" align="left">
+                                    <colspec colnum="1" colwidth="22.5*" colname="col1"/>
+                                    <colspec colnum="2" colwidth="32.5*" colname="col2"/>
+                                    <colspec colnum="3" colwidth="15*" colname="col3"/>
+                                    <thead valign="bottom">
+                                       <row rowsep="1" valign="top">
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col1"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>
+                                                <b>Aanlevering</b>
+                                             </Al>
+                                          </entry>
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col2"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>
+                                                <b>Omschrijving</b>
+                                             </Al>
+                                          </entry>
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col3"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>
+                                                <b>Status</b>
+                                             </Al>
+                                          </entry>
+                                       </row>
+                                    </thead>
+                                    <tbody valign="top">
+                                       <row rowsep="1" valign="top">
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col1"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>Eerste aanlevering (/akn/nl/act/gm9913/2021/TestReeksNummer1/nld@1)</Al>
+                                          </entry>
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col2"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>Alleen OW-object Regelingsgebied, een GIO, Initieel besluit met een tabel.</Al>
+                                          </entry>
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col3"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>uitgevoerd</Al>
+                                          </entry>
+                                       </row>
+                                       <row rowsep="1" valign="top">
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col1"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>Tweede aanlevering (/akn/nl/act/gm9913/2021/TestReeksNummer1/nld@2)</Al>
+                                          </entry>
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col2"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>Een wijzigingsbesluit met drie nieuwe artikelen, geen OW-objecten en een wijziging van het testoverzicht-artikel.</Al>
+                                          </entry>
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col3"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>nog niet uitgevoerd</Al>
+                                          </entry>
+                                       </row>
+                                       <row rowsep="1" valign="top">
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col1"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>Derde aanlevering een directe mutatie op de tweede aanlevering</Al>
+                                          </entry>
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col2"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>De OW-objecten regeltekst en juridische regel (regel voor iedereen)</Al>
+                                          </entry>
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col3"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>nog niet uitgevoerd</Al>
+                                          </entry>
+                                       </row>
+                                       <row rowsep="1" valign="top">
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col1"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>Vierde aanlevering (/akn/nl/act/gm9913/2021/TestReeksNummer1/nld@4)</Al>
+                                          </entry>
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col2"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>Nog iets bedenken</Al>
+                                          </entry>
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col3"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>nog niet uitgevoerd</Al>
+                                          </entry>
+                                       </row>
+                                       <row rowsep="1" valign="top">
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col1"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>Vijfde aanlevering (/akn/nl/act/gm9913/2021/TestReeksNummer1/nld@5)</Al>
+                                          </entry>
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col2"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>Nog iets bedenken</Al>
+                                          </entry>
+                                          <entry valign="top"
+                                             align="left"
+                                             colname="col3"
+                                             rotate="0"
+                                             colsep="0">
+                                             <Al>nog niet uitgevoerd</Al>
+                                          </entry>
+                                       </row>
+                                    </tbody>
+                                 </tgroup>
+                              </table>
+                           </Inhoud>
+                        </Lid>
+                     </Artikel>
+                  </Hoofdstuk>
+               </Lichaam>
+               <Bijlage eId="cmp_I" wId="gm9913_8__cmp_I">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Nummer>I</Nummer>
+                     <Opschrift>Overzicht informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_I__content_o_1" wId="gm9913_1__cmp_I__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_I__content_o_1__list_o_1" wId="gm9913_1__cmp_I__content_o_1__list_o_1">
+                           <Begrip eId="cmp_I__list_o_1__item_o_1" wId="gm9913_1__cmp_I__list_o_1__item_o_1">
+                              <Term>Testeiland</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef ref="/join/id/regdata/gm9913/2021/Testeiland/nld@2021-08-25;1" eId="cmp_I__list_o_1__item_o_1__ref_o_1" wId="gm9913_1__cmp_I__list_o_1__item_o_1__ref_o_1">/join/id/regdata/gm9913/2021/Testeiland/nld@2021-08-25;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+            </RegelingCompact>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/gm9913/2021/TestReeksNummer1</FRBRWork>
+         <FRBRExpression>/akn/nl/act/gm9913/2021/TestReeksNummer1/nld@1</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm9913</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm9913</maker>
+         <officieleTitel>Initiële aanlevering Testeiland</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+         </rechtsgebieden>
+         <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
+         <overheidsdomeinen>
+            <overheidsdomein>/tooi/def/concept/c_3708ac5e</overheidsdomein>
+         </overheidsdomeinen>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>

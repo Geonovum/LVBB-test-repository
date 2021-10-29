@@ -17,7 +17,7 @@
       <onderwerpen>
         <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
       </onderwerpen>
-      <mededelingOver>/akn/nl/bill/pv26/2020/OVIPU001Ontwerp/nld@2020-05-12;2</mededelingOver>
+      <mededelingOver>/akn/nl/bill/pv30/2020/ontwerpbesluit02/nld@2020-02-15</mededelingOver>
     </KennisgevingMetadata>
     <Procedureverloopmutatie 
       xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -26,12 +26,17 @@
         <Procedurestap>
           <!-- nieuw! begin inzagetermijn -->
           <soortStap>/join/id/stop/procedure/stap_014</soortStap>
-          <voltooidOp>2020-06-19</voltooidOp>
+          <voltooidOp>2021-10-31</voltooidOp>
         </Procedurestap>
         <Procedurestap>
           <!-- stap_005 = eind inzagetermijn -->
           <soortStap>/join/id/stop/procedure/stap_005</soortStap>
-          <voltooidOp>2020-07-31</voltooidOp>
+          <voltooidOp>2021-12-12</voltooidOp>
+        </Procedurestap>
+        <Procedurestap>
+          <!-- stap_002 = ondertekening expres foutje gemaakt, hihi -->
+          <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+          <voltooidOp>2021-12-12</voltooidOp>
         </Procedurestap>
       </voegStappenToe>
     </Procedureverloopmutatie>

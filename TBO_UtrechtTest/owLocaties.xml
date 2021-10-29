@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:r="http://www.geostandaarden.nl/imow/regels" xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst" xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" xmlns:p="http://www.geostandaarden.nl/imow/pons" xmlns:l="http://www.geostandaarden.nl/imow/locatie" xmlns:k="http://www.geostandaarden.nl/imow/kaart" xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen" xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" xmlns:op="http://www.geostandaarden.nl/imow/opobject" xmlns:ow="http://www.geostandaarden.nl/imow/owobject" xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied" xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand                                  https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	<sl:standBestand>
+		<sl:dataset>Provincie Utrecht</sl:dataset>
+		<sl:inhoud>
+			<sl:gebied>Provincie Utrecht</sl:gebied>
+			<sl:leveringsId>00000000-0000-0000-0000-000000000000</sl:leveringsId>
+			<sl:objectTypen>
+				<sl:objectType>Gebied</sl:objectType>
+				<sl:objectType>Gebiedengroep</sl:objectType>
+				<sl:objectType>Ambtsgebied</sl:objectType>
+			</sl:objectTypen>
+		</sl:inhoud>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebiedengroep.0000000000282</l:identificatie>
+					<l:noemer>archeologisch waardevolle zone</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000282e0"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000282e1"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000282e2"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000282e3"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000282e4"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000282e5"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000282e6"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000282e7"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000282e8"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000282e9"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000282e0</l:identificatie>
+					<l:noemer>archeologisch waardevolle zone</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="14f0fc7c-9feb-45f6-9305-c6776eb4dfb8"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000282e1</l:identificatie>
+					<l:noemer>archeologisch waardevolle zone</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="660106fc-df4b-4ed1-a86b-b13a361cf06f"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000282e2</l:identificatie>
+					<l:noemer>archeologisch waardevolle zone</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="d0c5afe2-4169-43a4-8229-3f7643b2ef78"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000282e3</l:identificatie>
+					<l:noemer>archeologisch waardevolle zone</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="8b361b99-e2ad-4d79-9e14-4c3b0c67a202"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000282e4</l:identificatie>
+					<l:noemer>archeologisch waardevolle zone</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="1bcaca33-73c4-4748-9366-63e8f2387e79"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000282e5</l:identificatie>
+					<l:noemer>archeologisch waardevolle zone</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="b88657ce-ca4a-477d-9d45-abbede601947"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000282e6</l:identificatie>
+					<l:noemer>archeologisch waardevolle zone</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="4a6eaa0b-115b-4984-8535-5c16a6ad65d3"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000282e7</l:identificatie>
+					<l:noemer>archeologisch waardevolle zone</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="f15c2c3b-801a-4814-a4e0-77b85daf8611"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000282e8</l:identificatie>
+					<l:noemer>archeologisch waardevolle zone</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="2550756b-ef40-444b-a1cf-894225c56f54"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000282e9</l:identificatie>
+					<l:noemer>archeologisch waardevolle zone</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="fd3e9203-c286-4625-a902-9f7b75388ad2"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000311</l:identificatie>
+					<l:noemer>landschap Groene Hart</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="90ab7ba1-1fe9-439d-8fb0-d0585365e226"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebiedengroep.0000000000381</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e0"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e1"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e2"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e3"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e4"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e5"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e6"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e7"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e8"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e9"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e10"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e11"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e12"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e13"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e14"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e15"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e16"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e17"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e18"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e19"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e20"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e21"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e22"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e23"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e24"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e25"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e26"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e27"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e28"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e29"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e30"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e31"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e32"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e33"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e34"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e35"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e36"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e37"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e38"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e39"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e40"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e41"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e42"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000381e43"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e0</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="77b6ed92-2570-4a16-b395-42087bfbd076"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e1</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="dc150673-91bf-48d7-99b0-f7c6db67179e"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e2</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="7c042da1-a40e-4c96-a035-268994eefa63"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e3</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="c25cb760-c744-41f1-a10a-95e4fff88aa0"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e4</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="143d23c8-532c-4305-bf0a-b090eba73967"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e5</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="87162b95-5b2b-4c56-9a17-d56daf4329e4"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e6</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="f4c4d5cc-b817-4ace-a877-311bfbf454fd"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e7</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="6b6f4cc7-3aff-4d4c-995c-eaa2688693f6"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e8</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="906f0e06-fd5a-4c6b-a645-1dbfb47db321"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e9</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="563da28a-2408-4157-8fe7-14f07e443578"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e10</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="4107b50f-5df3-4bfe-af6f-a5c43479816f"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e11</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="8427ea47-5ca8-4626-bc2c-3c27a30ca3fe"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e12</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="26fd8fa2-f7f9-4c70-97b8-dc028878ef9b"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e13</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="aecda411-388f-4503-93b8-d8cf69b9c24d"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e14</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="15d6e463-585d-4d49-bcec-d8d1f0c73cd0"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e15</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="c36ae3c2-861e-4298-8d28-0455acf556dc"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e16</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="a69f7d3d-0219-448a-8d26-db293ee15408"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e17</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="caf791a5-d045-430f-a853-4e8838e723e6"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e18</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="c59e88e2-4385-46f6-9240-338a85dfd99b"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e19</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="c6a3e3b5-353b-41d0-856e-bf696f52de99"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e20</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="420adc8f-b071-41cf-9ef0-a4925d29c83e"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e21</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="25c8e93f-e3ec-4352-a8f3-be60511444ad"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e22</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="ea2080d1-118a-4ad3-a72a-61c6b4141ffd"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e23</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="9b42e0b6-e506-4f8e-a846-446238556211"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e24</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="9f7d76f2-cc46-4a3a-be96-e22edeaf26d7"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e25</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="1fe55c61-1269-4bc4-a160-0b8fc030605a"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e26</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="54ad8ad8-65a8-425e-b6a4-c4135945a146"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e27</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="98b9edb7-4c30-426d-abdf-99551aede2c7"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e28</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="48730cb4-4e1d-4902-9c17-6196e9d6c5ea"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e29</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="e68afcc9-580b-4b7c-a67f-b380b894d454"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e30</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="f8773e0b-1503-455b-a403-3661764c7624"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e31</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="a7fbd273-1daf-444f-b6a1-ef4dab7726b4"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e32</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="b491d7b0-001f-4b77-b712-e36e56dec1d6"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e33</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="b5f41472-c7b7-4c67-9655-f2a72df73747"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e34</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="38e1d285-a4b0-4eb4-9821-abe25c6d744c"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e35</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="7d573630-d1dc-4f77-b38a-3c72492f87f2"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e36</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="b5e27fc7-dc4f-4f94-b40a-ecb70b4dbc53"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e37</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="35686751-3b61-4d08-aaa2-c2582d9b1d36"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e38</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="97d2b414-f93d-4878-ad03-20fe46f1e21d"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e39</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="5388ebb3-92ed-42eb-bf13-d264d8566706"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e40</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="5e919d4a-70d8-4a05-885a-e0282bafe818"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e41</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="8fbe206f-9f0a-4cbd-8df6-7c74dbe62207"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e42</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="a4b60ffc-3040-4aa4-a257-01fbdbc32f5c"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000381e43</l:identificatie>
+					<l:noemer>windenergie</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="f2348af6-ac99-4811-9e54-4411ace13932"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebiedengroep.0000000000383</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e0"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e1"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e2"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e3"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e4"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e5"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e6"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e7"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e8"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e9"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e10"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e11"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e12"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e13"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e14"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e15"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e16"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e17"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e18"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e19"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e20"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e21"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e22"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e23"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e24"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e25"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e26"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e27"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e28"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e29"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e30"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e31"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e32"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e33"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e34"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e35"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e36"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e37"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e38"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e39"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e40"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e41"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e42"/>
+						<l:GebiedRef xlink:href="nl.imow-pv73.gebied.0000000000383e43"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e0</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="ff113749-aeb2-4534-8f40-81b9a0c54476"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e1</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="fb358d98-a2b2-481c-bf76-0ba54644b7b6"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e2</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="36636f57-a5f4-4898-b5a2-3a089e0ed977"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e3</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="3eb00d87-a19a-4541-9864-53343a05d5f3"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e4</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="53c19cae-779f-4ce6-839b-864256c98892"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e5</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="7336aa61-cd13-4953-af40-51210649ea24"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e6</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="2f9eb8cd-8e52-4c28-847d-0acc36db3ea9"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e7</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="f57a268e-6728-4176-891a-972a9ad9e4e0"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e8</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="b5136b4e-f8db-4fe9-a803-775c9bdb28a1"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e9</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="e3cb1e3a-8973-4ff0-af7b-01b8d5603abf"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e10</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="ab1c4729-93f3-45b9-aa6f-773d7a2bd037"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e11</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="613abd70-1bcd-4015-818a-ebd8ac7854f5"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e12</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="a9562640-3e9a-4249-8c05-2365a24bd996"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e13</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="34d989c3-72d4-4727-9444-0839e1b13a69"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e14</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="ff75a0c0-b659-469a-b1d0-4028c39ed114"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e15</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="b5c3a452-e694-49af-bc06-fbf0c72b6a5e"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e16</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="fabe2ea4-961f-4e0a-a8ff-6c41f4db0263"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e17</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="5c775ca2-edba-4497-8e4f-4b21ac2586bd"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e18</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="74def309-3939-47d0-bae9-35e625d948b1"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e19</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="49788fba-dac1-4df3-a1e3-6325dc02b86a"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e20</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="d1582778-d0e4-4f6e-bd31-2e485dfc5e43"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e21</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="ddfebb65-540b-4eb9-90fd-54c9d707b660"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e22</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="2b67349d-d3d7-4ed3-97ef-721796509694"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e23</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="af50f797-1f9c-4648-b7e9-afcd293df95a"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e24</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="b72dc218-4f53-4fc1-b005-8ccfe7ab431f"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e25</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="1297ac5c-c059-4445-924a-aeab32049fad"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e26</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="0570a27f-93eb-43d0-bd9a-8cfed068f7db"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e27</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="3079ff94-0c67-4f28-84c2-f6e305ac3db9"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e28</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="92d9fa4b-e9bc-4d09-b7d7-7c08590ce422"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e29</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="d88df37a-a185-400f-9099-f7ab7ab1eff8"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e30</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="9c5516b4-eefc-4adb-a7f9-191451fda3ca"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e31</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="72460791-34fb-4bfc-93eb-e6040ff2fd0c"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e32</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="9e46e08e-1bec-4d6e-8642-d658daec7335"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e33</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="387bfb9e-7a58-4a4c-b443-9d4bde4bb943"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e34</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="b0576cb9-64bc-4822-8152-777067435cfd"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e35</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="8335bb57-9e72-4c28-98ab-3e57b3131340"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e36</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="ed82a55f-5847-44d5-a059-fe57664fc74f"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e37</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="0595a7e7-6458-4fb6-bc21-631499e15b8e"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e38</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="281b25fb-585f-44b3-92f1-75ebe101c67d"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e39</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="044ce25c-0dd8-48f2-8a53-543abdc3276b"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e40</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="e431cde2-5e36-4bcc-89e1-a78f95b59d8c"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e41</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="a205a29d-e2ef-45c8-a576-e3c8f13e4241"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e42</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="2007adea-9458-42a3-b807-bc9fef19c7fe"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<ow:procedurestatus>ontwerp</ow:procedurestatus>
+					<l:identificatie>nl.imow-pv73.gebied.0000000000383e43</l:identificatie>
+					<l:noemer>Kleine windturbine</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="c1586b06-4e16-43d1-a1e0-92f04a763202"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+	</sl:standBestand>
+</ow-dc:owBestand>

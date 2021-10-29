@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ ../lvbb/lvbb-stop-aanlevering.xsd">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/gm9920/2021/Amsterdam020</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm9920/2021/Amsterdam020/nld@2021-09-07;1</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Amsterdam020.gml</bestandsnaam>
+            <hash>d1cdcda571cd93263a2ce7de238ad0f044a115536c66e94365bf4480d6fc62a2344ffe376edfe3c23b70abff0fdb1a5327cbdc9866d91164768e2d6f8dfe999b</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+      <heeftGeboorteregeling>/akn/nl/act/gm9920/2020/SanityCheckWestland</heeftGeboorteregeling>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/gemeente/gm9920</eindverantwoordelijke>
+      <maker>/tooi/id/gemeente/gm9920</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Testeiland 20</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/gm9920/2021/Amsterdam020</officieleTitel>
+      <naamInformatieObject>Amsterdam020</naamInformatieObject>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>
