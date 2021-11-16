@@ -1,0 +1,32 @@
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             schemaversie="1.1.0">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/gm0307/2019/Centrumgebied-intr-ini</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0307/2019/Centrumgebied-intr-ini/nld@2019-06-18;3520</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/gm0307/2019/reg0001-intr-ini</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Centrumgebied.gml</bestandsnaam>
+                 <hash>43e5cd8b53b88f6813977dcb93dc1db76c77934435a5246d6d5c4296efb8280190414d5d6e9271873315db17dca705fa73b8d15eb15f86fd8e5e7c4cbc6353b6</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0307</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0307</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>Centrumgebied</alternatieveTitel>
+         </alternatieveTitels>
+         <naamInformatieObject>Centrumgebied</naamInformatieObject>
+         <officieleTitel>/join/id/regdata/gm0307/2019/Centrumgebied-intr-ini</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>

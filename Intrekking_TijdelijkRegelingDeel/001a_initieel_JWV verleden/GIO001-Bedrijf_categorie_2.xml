@@ -1,0 +1,32 @@
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             schemaversie="1.1.0">
+  <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/gm0307/2019/Bedrijf_categorie_2-intr-ini</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0307/2019/Bedrijf_categorie_2-intr-ini/nld@2019-06-18;3520</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/gm0307/2019/reg0001-intr-ini</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Bedrijf_categorie_2.gml</bestandsnaam>
+                 <hash>7e67773947dc9bc46504f12fd790396c85de539fbc592a4b154e9665659e2927ed993a67e881299138f4667eb8c46f15cd2eb2ab67042c81b91a584c875b508d</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0307</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0307</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>Bedrijf_categorie_2</alternatieveTitel>
+         </alternatieveTitels>
+         <naamInformatieObject>Bedrijf_categorie_2</naamInformatieObject>
+         <officieleTitel>/join/id/regdata/gm0307/2019/Bedrijf_categorie_2-intr-ini</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

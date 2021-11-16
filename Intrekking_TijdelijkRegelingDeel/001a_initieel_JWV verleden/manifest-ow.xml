@@ -1,0 +1,17 @@
+<mow:Aanleveringen xmlns:mow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/generiek/manifest-ow.xsd">
+	<mow:domein>omgevingswet</mow:domein>
+	<mow:Aanlevering>
+		<mow:WorkIDRegeling>/akn/nl/act/gm0307/2019/reg0001-intr-ini</mow:WorkIDRegeling>
+		<mow:DoelID>/join/id/proces/gm0307/2019/Instelling-intr-ini</mow:DoelID>
+		<mow:Bestand>
+			<mow:naam>owRegelingsgebied.xml</mow:naam>
+			<mow:objecttype>Regelingsgebied</mow:objecttype>
+		</mow:Bestand>
+		<mow:Bestand>
+			<mow:naam>owLocaties.xml</mow:naam>
+			<mow:objecttype>Gebied</mow:objecttype>
+		</mow:Bestand>
+	</mow:Aanlevering>
+</mow:Aanleveringen>
