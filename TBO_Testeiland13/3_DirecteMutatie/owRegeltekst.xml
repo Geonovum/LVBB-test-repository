@@ -24,21 +24,21 @@
         </sl:inhoud>
         <sl:stand>
             <ow-dc:owObject>
-                <r:Regeltekst wId="gm9920_1__h_1__art_1-1__para_2">
-                    <r:identificatie>nl.imow-gm9920.regeltekst.art1punt1lid2</r:identificatie>
+                <r:Regeltekst wId="gm9913_1__h_1__art_1-1__para_2">
+                    <r:identificatie>nl.imow-gm9913.regeltekst.art1punt1lid2</r:identificatie>
                 </r:Regeltekst>
             </ow-dc:owObject>
         </sl:stand>
         <sl:stand>
             <ow-dc:owObject>
                 <r:RegelVoorIedereen>
-                    <r:identificatie>nl.imow-gm9920.juridischeregel.art1punt1lid2</r:identificatie>
+                    <r:identificatie>nl.imow-gm9913.juridischeregel.art1punt1lid2</r:identificatie>
                     <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                     <r:artikelOfLid>
-                        <r:RegeltekstRef xlink:href="nl.imow-gm9920.regeltekst.art1punt1lid2"/>
+                        <r:RegeltekstRef xlink:href="nl.imow-gm9913.regeltekst.art1punt1lid2"/>
                     </r:artikelOfLid>
                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm9920.gebied.Testeiland"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm9913.gebied.Testeiland"/>
                     </r:locatieaanduiding>
                 </r:RegelVoorIedereen>
             </ow-dc:owObject>

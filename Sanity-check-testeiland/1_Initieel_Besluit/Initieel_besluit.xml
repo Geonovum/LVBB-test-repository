@@ -101,7 +101,7 @@
                <Nummer>A</Nummer>
                <Opschrift>Bijlage bij artikel I</Opschrift>
             </Kop>
-            <RegelingCompact wordt="/akn/nl/act/gm9920/2021/TestReeksNummer1/nld@1" componentnaam="main">
+            <RegelingCompact wordt="/akn/nl/act/gm9920/2021/TestReeksNummer1/nld@1" componentnaam="regeling">
                <RegelingOpschrift wId="gm9920_1__longTitle" eId="longTitle">
                   <Al>Initiële aanlevering Testeiland</Al>
                </RegelingOpschrift>
@@ -145,7 +145,7 @@
                                  rowsep="0"
                                  colsep="0">
                                  <title>Testoverzicht</title>
-                                 <tgroup cols="4" align="left">
+                                 <tgroup cols="3" align="left">
                                     <colspec colnum="1" colwidth="22.5*" colname="col1"/>
                                     <colspec colnum="2" colwidth="32.5*" colname="col2"/>
                                     <colspec colnum="3" colwidth="15*" colname="col3"/>
