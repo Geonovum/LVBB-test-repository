@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   schemaversie="1.1.0"
+   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/gm9920/2021/TestNummer3</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/gm9920/2021/TestNummer3/nld@2021-09-03</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm9920</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm9920</maker>
+         <officieleTitel>Testeiland eerste aanlevering</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+            <!-- werk -->
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_ontwerp</soortProcedure>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2021-09-01</bekendOp>
+         <procedurestappen>
+            <Procedurestap>
+               <!-- Ondertekening -->
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2021-06-27</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <data:ConsolidatieInformatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/gm9920/2021/TesteilandDoelTest3</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/gm9920/2021/TestReeksNummer1/nld@3</instrumentVersie>
+               <eId>art_II</eId>
+            </BeoogdeRegeling>
+         </BeoogdeRegelgeving>
+      </data:ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle_o_1" wId="longTitle_o_1">
+            <Al>Testeiland eerste aanlevering</Al>
+         </RegelingOpschrift>
+         <Aanhef eId="formula_1" wId="formula_1">
+            <Al>De raad van de gemeente Gemeenstestad </Al>
+            <Al>gelezen het voorstel van burgemeester en wethouders van 26 juni 2021, nr. 2021-4542;</Al>
+            <Al>Gelet op <ExtRef ref="https://wetten.overheid.nl/jci1.3:c:BWBR0005416&amp;titeldeel=III&amp;hoofdstuk=IX&amp;artikel=149" soort="URL">Gemeentewet, art. 149</ExtRef>.</Al>
+            <Al>besluit:</Al>
+         </Aanhef>
+         <Lichaam eId="body" wId="body">
+            <WijzigArtikel eId="art_I" wId="gm9920_1__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Wat>Test 1 zoals uitgevoerd in <IntRef ref="cmp_A">Bijlage A</IntRef> is gelukt als je dit leest. Dit betekent dat er een initieel besluit is gepubliceerd op het testeiland.</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_II" wId="gm9920_1__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Dit besluit treedt in werking per 29 september 2021.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting eId="formula_2_o_1" wId="sluiting__formula_2_o_1">
+            <Al>Bedacht in Amsterdam, 27 september 2021</Al>
+            <Ondertekening>
+               <Al>Richard de Graaf copyright</Al>
+            </Ondertekening>
+         </Sluiting>
+         <WijzigBijlage eId="cmp_A" wId="gm9920_1__cmp_A">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>A</Nummer>
+               <Opschrift>Bijlage bij artikel I</Opschrift>
+            </Kop>
+            <RegelingMutatie componentnaam="test3" was="/akn/nl/act/gm9920/2021/TestReeksNummer1/nld@2" wordt="/akn/nl/act/gm9920/2021/TestReeksNummer1/nld@3">
+               <VoegToe context="gm9920_2__h_1__art_1-4" positie="volgtOp">
+                  <Artikel eId="h_1__art_1-5" wId="gm9920_2__h_1__art_1-5">
+                     <Kop>
+                        <Label>Artikel</Label>
+                        <Nummer>1.5</Nummer>
+                        <Opschrift>Uitwerkingen</Opschrift>
+                     </Kop>
+                     <Inhoud>
+                        <Al>Dit is de tekst van artikel 1.5.</Al>
+                     </Inhoud>
+                  </Artikel>
+               </VoegToe>
+            </RegelingMutatie>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/gm9920/2021/TestReeksNummer1</FRBRWork>
+         <FRBRExpression>/akn/nl/act/gm9920/2021/TestReeksNummer1/nld@3</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>3</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm9920</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm9920</maker>
+         <officieleTitel>Initiële aanlevering Testeiland</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+         </rechtsgebieden>
+         <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
+         <overheidsdomeinen>
+            <overheidsdomein>/tooi/def/concept/c_3708ac5e</overheidsdomein>
+         </overheidsdomeinen>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>

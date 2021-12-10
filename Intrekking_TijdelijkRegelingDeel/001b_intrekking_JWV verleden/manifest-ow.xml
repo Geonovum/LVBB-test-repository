@@ -1,7 +1,7 @@
 <mow:Aanleveringen xmlns:mow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">
 	<mow:domein>omgevingswet</mow:domein>	<mow:Aanlevering>
 		<mow:WorkIDRegeling>/akn/nl/act/gm0307/2019/reg0001-intr-ini</mow:WorkIDRegeling>
-		<mow:DoelID>/join/id/proces/gm0037/2020/IntrekkenVervangenGemeentestad</mow:DoelID>
+		<mow:DoelID>/join/id/proces/gm0037/2020/IntrekkenVervangenGemeentestad</mow:DoelID><!--/join/id/proces/gm0307/2019/Instelling-intr-ini-->
 		<mow:Bestand>
 			<mow:naam>owRegelingsgebied.xml</mow:naam>
 			<mow:objecttype>Regelingsgebied</mow:objecttype>

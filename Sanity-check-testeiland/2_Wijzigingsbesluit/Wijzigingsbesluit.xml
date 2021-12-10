@@ -122,7 +122,7 @@
                               rowsep="0"
                               colsep="0">
                               <title>Testoverzicht</title>
-                              <tgroup cols="4" align="left">
+                              <tgroup cols="3" align="left">
                                  <colspec colnum="1" colwidth="22.5*" colname="col1"/>
                                  <colspec colnum="2" colwidth="32.5*" colname="col2"/>
                                  <colspec colnum="3" colwidth="15*" colname="col3"/>
