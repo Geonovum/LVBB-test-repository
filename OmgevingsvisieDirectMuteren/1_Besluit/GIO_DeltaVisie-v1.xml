@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.1.0">
+	<InformatieObjectVersie>
+		<ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.1.0">
+			<FRBRWork>/join/id/regdata/pv28/2021/gio201</FRBRWork>
+			<FRBRExpression>/join/id/regdata/pv28/2021/gio201/nld@2021-11-17;1</FRBRExpression>
+			<soortWork>/join/id/stop/work_010</soortWork>
+		</ExpressionIdentificatie>
+		<InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.1.0">
+			<heeftGeboorteregeling>/akn/nl/act/pv28/2021/1_7</heeftGeboorteregeling>
+			<heeftBestanden>
+				<heeftBestand>
+					<Bestand>
+						<bestandsnaam>DeltaVisie-v1.gml</bestandsnaam>
+						<hash>afc6787b0846fed6e013ecd0dee8551c77292c8475b221767e90174e0221b013e79acdcbb95b21e88c7a1c679d62a46b1911069e674a39a421fb4c4093a1162e</hash>
+					</Bestand>
+				</heeftBestand>
+			</heeftBestanden>
+		</InformatieObjectVersieMetadata>
+		<InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.1.0">
+			<eindverantwoordelijke>/tooi/id/provincie/pv28</eindverantwoordelijke>
+			<maker>/tooi/id/provincie/pv28</maker>
+			<naamInformatieObject>delta (visie)</naamInformatieObject>
+			<officieleTitel>/join/id/regdata/pv28/2021/gio201</officieleTitel>
+			<publicatieinstructie>TeConsolideren</publicatieinstructie>
+			<formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+		</InformatieObjectMetadata>
+	</InformatieObjectVersie>
+</AanleveringInformatieObject>

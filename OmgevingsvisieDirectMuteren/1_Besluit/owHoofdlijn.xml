@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie" xmlns:rkow="http://www.geostandaarden.nl/imow/regeltekstkoppelingow/" xmlns:r="http://www.geostandaarden.nl/imow/regels" xmlns:p="http://www.geostandaarden.nl/imow/pons" xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst" xmlns:ow="http://www.geostandaarden.nl/imow/owobject" xmlns:k="http://www.geostandaarden.nl/imow/kaart" xmlns:l="http://www.geostandaarden.nl/imow/locatie" xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" xmlns:op="http://www.geostandaarden.nl/imow/opobject" xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen" xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	<sl:standBestand>
+		<sl:dataset>Provincie Zuid-Holland</sl:dataset>
+		<sl:inhoud>
+			<sl:gebied>Provincie Zuid-Holland</sl:gebied>
+			<sl:leveringsId>00000000-0000-0000-0000-000000000000</sl:leveringsId>
+			<sl:objectTypen>
+				<sl:objectType>Hoofdlijn</sl:objectType>
+			</sl:objectTypen>
+		</sl:inhoud>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Hoofdlijn>
+					<vt:identificatie>nl.imow-pv28.hoofdlijn.010000070000010000000005</vt:identificatie>
+					<vt:soort>TEKST-vrije annotatie1</vt:soort>
+					<vt:naam>A</vt:naam>
+				</vt:Hoofdlijn>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Hoofdlijn>
+					<vt:identificatie>nl.imow-pv28.hoofdlijn.010000070000010000000010</vt:identificatie>
+					<vt:soort>onderwerp</vt:soort>
+					<vt:naam>delta</vt:naam>
+				</vt:Hoofdlijn>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Hoofdlijn>
+					<vt:identificatie>nl.imow-pv28.hoofdlijn.010000070000010000000015</vt:identificatie>
+					<vt:soort>onderwerp</vt:soort>
+					<vt:naam>metropool</vt:naam>
+				</vt:Hoofdlijn>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Hoofdlijn>
+					<vt:identificatie>nl.imow-pv28.hoofdlijn.010000070000010000000009</vt:identificatie>
+					<vt:soort>TEKST-vrije annotatie1</vt:soort>
+					<vt:naam>B</vt:naam>
+				</vt:Hoofdlijn>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Hoofdlijn>
+					<vt:identificatie>nl.imow-pv28.hoofdlijn.010000070000010000000007</vt:identificatie>
+					<vt:soort>TEKST-vrije annotatie2</vt:soort>
+					<vt:naam>Y</vt:naam>
+				</vt:Hoofdlijn>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Hoofdlijn>
+					<vt:identificatie>nl.imow-pv28.hoofdlijn.010000070000010000000011</vt:identificatie>
+					<vt:soort>TEKST-vrije annotatie3</vt:soort>
+					<vt:naam>II</vt:naam>
+				</vt:Hoofdlijn>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Hoofdlijn>
+					<vt:identificatie>nl.imow-pv28.hoofdlijn.010000070000010000000014</vt:identificatie>
+					<vt:soort>TEKST-vrije annotatie3</vt:soort>
+					<vt:naam>III</vt:naam>
+				</vt:Hoofdlijn>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Hoofdlijn>
+					<vt:identificatie>nl.imow-pv28.hoofdlijn.010000070000010000000006</vt:identificatie>
+					<vt:soort>TEKST-vrije annotatie2</vt:soort>
+					<vt:naam>X</vt:naam>
+				</vt:Hoofdlijn>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Hoofdlijn>
+					<vt:identificatie>nl.imow-pv28.hoofdlijn.010000070000010000000013</vt:identificatie>
+					<vt:soort>TEKST-vrije annotatie3</vt:soort>
+					<vt:naam>I</vt:naam>
+				</vt:Hoofdlijn>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Hoofdlijn>
+					<vt:identificatie>nl.imow-pv28.hoofdlijn.010000070000010000000034</vt:identificatie>
+					<vt:soort>Ambitie</vt:soort>
+					<vt:naam>klimaatbestandig</vt:naam>
+				</vt:Hoofdlijn>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<vt:Hoofdlijn>
+					<vt:identificatie>nl.imow-pv28.hoofdlijn.010000070000010000000008</vt:identificatie>
+					<vt:soort>TEKST-vrije annotatie2</vt:soort>
+					<vt:naam>Z</vt:naam>
+				</vt:Hoofdlijn>
+			</ow-dc:owObject>
+		</sl:stand>
+	</sl:standBestand>
+</ow-dc:owBestand>

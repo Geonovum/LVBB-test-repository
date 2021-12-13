@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie" xmlns:rkow="http://www.geostandaarden.nl/imow/regeltekstkoppelingow/" xmlns:r="http://www.geostandaarden.nl/imow/regels" xmlns:p="http://www.geostandaarden.nl/imow/pons" xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst" xmlns:ow="http://www.geostandaarden.nl/imow/owobject" xmlns:k="http://www.geostandaarden.nl/imow/kaart" xmlns:l="http://www.geostandaarden.nl/imow/locatie" xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" xmlns:op="http://www.geostandaarden.nl/imow/opobject" xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen" xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	<sl:standBestand>
+		<sl:dataset>Provincie Zuid-Holland</sl:dataset>
+		<sl:inhoud>
+			<sl:gebied>Provincie Zuid-Holland</sl:gebied>
+			<sl:leveringsId>00000000-0000-0000-0000-000000000000</sl:leveringsId>
+			<sl:objectTypen>
+				<sl:objectType>Gebied</sl:objectType>
+				<sl:objectType>Gebiedengroep</sl:objectType>
+				<sl:objectType>Ambtsgebied</sl:objectType>
+			</sl:objectTypen>
+		</sl:inhoud>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-pv28.gebiedengroep.010000070000010000000201</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58866"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58865"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58864"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58863"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58862"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58861"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58860"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58858"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58857"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58856"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58855"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58854"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58853"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58852"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58859"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000201e58851"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58866</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="b87c0d17-db27-45b1-a65e-75584b0de126"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58865</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="b87c0d17-db27-45b1-a65e-75584b0de126"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58864</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="b87c0d17-db27-45b1-a65e-75584b0de126"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58863</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="06b6db28-61ab-488e-9d63-dd4f5251dac1"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58862</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="06b6db28-61ab-488e-9d63-dd4f5251dac1"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58861</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="06b6db28-61ab-488e-9d63-dd4f5251dac1"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58860</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="06b6db28-61ab-488e-9d63-dd4f5251dac1"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58858</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="06b6db28-61ab-488e-9d63-dd4f5251dac1"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58857</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="06b6db28-61ab-488e-9d63-dd4f5251dac1"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58856</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="a96e7c86-d047-489c-bddc-dfeca1f9943d"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58855</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="7b5622fd-7c6f-4685-bfa3-a943ade55344"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58854</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="7b5622fd-7c6f-4685-bfa3-a943ade55344"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58853</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="7b5622fd-7c6f-4685-bfa3-a943ade55344"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58852</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="7b5622fd-7c6f-4685-bfa3-a943ade55344"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58859</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="06b6db28-61ab-488e-9d63-dd4f5251dac1"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000201e58851</l:identificatie>
+					<l:noemer>Delta (Visie)</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="7b5622fd-7c6f-4685-bfa3-a943ade55344"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebiedengroep>
+					<l:identificatie>nl.imow-pv28.gebiedengroep.010000070000010000000207</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:groepselement>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60218"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60217"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60216"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60215"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60214"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60213"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60212"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60211"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60210"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60209"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60208"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60206"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60205"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60207"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60204"/>
+						<l:GebiedRef xlink:href="nl.imow-pv28.gebied.010000070000010000000207e60203"/>
+					</l:groepselement>
+				</l:Gebiedengroep>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60218</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="616033e5-2609-426e-88d6-0d0ab295ade1"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60217</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="b4cf945b-a440-4104-96ad-d3b6ec6a5d39"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60216</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="2e8969de-d0a6-4e2d-a648-6d1ae25ee988"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60215</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="4a8014fb-4a51-47ff-b39c-e5732a10944d"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60214</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="df76077d-6710-43a4-8e9f-85c5fa663e60"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60213</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="bc75dec3-861f-4045-9185-62a823fcc1a5"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60212</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="8a7be611-64c1-4f5c-873a-05917c08b16f"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60211</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="ae4aa2f2-e35c-4c53-baf3-1b756a579502"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60210</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="718e6b84-b544-4008-86be-8fa2736dc49f"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60209</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="4ee1de73-985c-4063-af16-1e4e0295f501"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60208</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="5c5bcecc-f0d0-49b5-bf10-08c3c41621ca"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60206</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="d8d181d5-fb2d-43c1-93cb-2bea397fc8c5"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60205</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="a80974bc-a590-4a58-ad44-6281b53e9001"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60207</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="3d8d3e73-a838-43f6-a55a-ff4440bf7bb9"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60204</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="a7f693d3-d110-4ada-a32b-02fd2f5cc752"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied>
+					<l:identificatie>nl.imow-pv28.gebied.010000070000010000000207e60203</l:identificatie>
+					<l:noemer>Metropool</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="610460d4-115c-48f7-ad18-5abdc4f59f31"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Ambtsgebied>
+					<l:identificatie>nl.imow-pv28.ambtsgebied.0000000009928</l:identificatie>
+					<l:noemer>Provincie Zuid-Holland</l:noemer>
+					<l:bestuurlijkeGrenzenVerwijzing>
+						<l:BestuurlijkeGrenzenVerwijzing>
+							<l:bestuurlijkeGrenzenID>PV28</l:bestuurlijkeGrenzenID>
+							<l:domein>NL.BI.BestuurlijkGebied</l:domein>
+							<l:geldigOp>2021-01-01</l:geldigOp>
+						</l:BestuurlijkeGrenzenVerwijzing>
+					</l:bestuurlijkeGrenzenVerwijzing>
+				</l:Ambtsgebied>
+			</ow-dc:owObject>
+		</sl:stand>
+	</sl:standBestand>
+</ow-dc:owBestand>

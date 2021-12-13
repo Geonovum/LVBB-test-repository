@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringBesluit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+	<BesluitVersie>
+		<ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.1.0">
+			<FRBRWork>/akn/nl/bill/pv28/2021/1_7</FRBRWork>
+			<FRBRExpression>/akn/nl/bill/pv28/2021/1_7/nld@2021-11-17;v1</FRBRExpression>
+			<soortWork>/join/id/stop/work_003</soortWork>
+		</ExpressionIdentificatie>
+		<BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.1.0">
+			<eindverantwoordelijke>/tooi/id/provincie/pv28</eindverantwoordelijke>
+			<maker>/tooi/id/provincie/pv28</maker>
+			<soortBestuursorgaan>/tooi/def/thes/kern/c_411b4e4a</soortBestuursorgaan>
+			<officieleTitel>Ambitienotitie</officieleTitel>
+			<onderwerpen>
+				<onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
+			</onderwerpen>
+			<rechtsgebieden>
+				<rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+			</rechtsgebieden>
+			<soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+			<informatieobjectRefs>
+				<informatieobjectRef>/join/id/regdata/pv28/2021/gio201/nld@2021-11-17;1</informatieobjectRef>
+				<informatieobjectRef>/join/id/regdata/pv28/2021/gio207/nld@2021-11-17;1</informatieobjectRef>
+			</informatieobjectRefs>
+		</BesluitMetadata>
+		<Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.1.0">
+			<bekendOp>2021-11-19</bekendOp>
+			<procedurestappen>
+				<Procedurestap>
+					<soortStap>/join/id/stop/procedure/stap_002</soortStap>
+					<voltooidOp>2021-11-19</voltooidOp>
+				</Procedurestap>
+				<Procedurestap>
+					<soortStap>/join/id/stop/procedure/stap_003</soortStap>
+					<voltooidOp>2021-11-19</voltooidOp>
+				</Procedurestap>
+			</procedurestappen>
+		</Procedureverloop>
+		<ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.1.0">
+			<BeoogdeRegelgeving>
+				<BeoogdeRegeling>
+					<doelen>
+						<doel>/join/id/proces/pv28/2021-11-17/7_1_Instelling</doel>
+					</doelen>
+					<instrumentVersie>/akn/nl/act/pv28/2021/1_7/nld@2021-11-17;v1</instrumentVersie>
+					<eId>art_I</eId>
+				</BeoogdeRegeling>
+				<BeoogdInformatieobject>
+					<doelen>
+						<doel>/join/id/proces/pv28/2021-11-17/7_1_Instelling</doel>
+					</doelen>
+					<instrumentVersie>/join/id/regdata/pv28/2021/gio201/nld@2021-11-17;1</instrumentVersie>
+					<eId>!nieuweregeling#cmp_2__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+				</BeoogdInformatieobject>
+				<BeoogdInformatieobject>
+					<doelen>
+						<doel>/join/id/proces/pv28/2021-11-17/7_1_Instelling</doel>
+					</doelen>
+					<instrumentVersie>/join/id/regdata/pv28/2021/gio207/nld@2021-11-17;1</instrumentVersie>
+					<eId>!nieuweregeling#cmp_2__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+				</BeoogdInformatieobject>
+			</BeoogdeRegelgeving>
+			<Tijdstempels>
+				<Tijdstempel>
+					<doel>/join/id/proces/pv28/2021-11-17/7_1_Instelling</doel>
+					<soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+					<datum>2021-11-19</datum>
+					<eId>art_III</eId>
+				</Tijdstempel>
+			</Tijdstempels>
+		</ConsolidatieInformatie>
+		<BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/" schemaversie="1.1.0">
+			<RegelingOpschrift eId="longTitle" wId="longTitle">
+				<Al>Ambitienotitie</Al>
+			</RegelingOpschrift>
+			<Aanhef eId="formula_1" wId="formula_1">
+				<Al>Ambitienotitie</Al>
+			</Aanhef>
+			<Lichaam eId="body" wId="body">
+				<WijzigArtikel eId="art_I" wId="pv28_1__art_I">
+					<Kop>
+						<Label>Artikel</Label>
+						<Nummer>I</Nummer>
+					</Kop>
+					<Wat>test <br/>
+						<IntRef ref="cmp_A">Bijlage bij Artikel I</IntRef>
+					</Wat>
+				</WijzigArtikel>
+				<Artikel eId="art_II" wId="pv28_1__art_II">
+					<Kop>
+						<Label>Artikel</Label>
+						<Nummer>II</Nummer>
+					</Kop>
+					<Inhoud>
+						<Al>test</Al>
+					</Inhoud>
+				</Artikel>
+				<Artikel eId="art_III" wId="pv28_1__art_III">
+					<Kop>
+						<Label>Artikel</Label>
+						<Nummer>III</Nummer>
+					</Kop>
+					<Inhoud>
+						<Al>Dit besluit treedt in werking op 2021-11-19</Al>
+					</Inhoud>
+				</Artikel>
+			</Lichaam>
+			<Sluiting eId="formula_2" wId="formula_2">
+				<Al>Gegeven te 'S-Gravenhage, 19 november 2021</Al>
+				<Ondertekening>
+					<Al>sluiting</Al>
+				</Ondertekening>
+			</Sluiting>
+			<WijzigBijlage eId="cmp_A" wId="pv28_1__cmp_A">
+				<Kop>
+					<Label>Bijlage</Label>
+					<Nummer>A</Nummer>
+					<Opschrift>Bijlage bij Artikel I</Opschrift>
+				</Kop>
+				<RegelingVrijetekst componentnaam="nieuweregeling" wordt="/akn/nl/act/pv28/2021/1_7/nld@2021-11-17;v1">
+					<RegelingOpschrift eId="longTitle" wId="pv28_1__longTitle">
+						<Al>Ambitienotitie</Al>
+					</RegelingOpschrift>
+					<Lichaam eId="body" wId="pv28_1__body">
+						<Divisietekst eId="content_1" wId="pv28_1__content_1">
+							<Kop>
+								<Opschrift>0 Leeswijzer</Opschrift>
+							</Kop>
+							<Gereserveerd/>
+						</Divisietekst>
+						<Divisietekst eId="content_2" wId="pv28_1__content_2">
+							<Kop>
+								<Opschrift>1 Voorwoord</Opschrift>
+							</Kop>
+							<Inhoud>
+								<Al>Sterk, slim en schoon. Dat is de toekomst. Voor de wereld, voor Nederland en zeker ook voor Zuid-Holland. Dat is complex en tegelijkertijd heel eenvoudig. Wie niet meedoet, is weg. Er is geen keuze. Ons leven, wonen en werken verandert ingrijpend. De komende jaren wordt dat steeds sneller duidelijk; nu zitten we er al midden in. Het einde van de fossiele brandstoffen, robotisering, &amp;lsquo;internet of things&amp;rsquo;, ongelijkheid op de arbeidsmarkt, een snel opwarmende atmosfeer, te veel of juist te weinig water, migranten die op de deur kloppen, grote politieke tegenstellingen. Het is er allemaal en het valt niet te ontkennen.</Al>
+								<Al>Zuid-Holland blijft vergelijkenderwijs achter bij andere regio&amp;rsquo;s. In Nederland en de rest van Europa. Onze, oude op fossiele grondstoffen gebaseerde economie heeft nog veerkracht, maar de rek raakt eruit. De overgang naar groen en digitaal is noodzakelijk en gelukkig ook al begonnen. Richting slim en schoon. Met inzet op innovatie, hergebruik en nieuwe energie. Met ruimte voor water en een landbouw die sterker verweven is met de natuur. Met levendige steden, waar de creativiteit bloeit en het onderwijs, de wetenschap en de cultuur floreren. Met duurzame mobiliteit en grenzeloze digitale netwerken. Met een gezonde en veilige samenleving waarin iedereen meedoet. En dat allemaal in een prachtig provinciaal landschap vol ruimte voor ontspanning en beleving van erfgoed.</Al>
+								<Al>Wij bij Zuid-Holland zien het voor ons. En we werken er naartoe, met een visie, bereid om te leren en in elke regio met een aanpak op maat. We willen de vernieuwing versnellen. We willen samenwerken met veel partijen om de kracht en creativiteit in dit gebied te benutten. Kennisinstellingen, maatschappelijke partijen, bedrijfsleven en overheden zijn allemaal nodig. Samen maken we onze regio sterker, slimmer en schoner.</Al>
+								<Al>Zo maakt Zuid-Holland het verschil. Dynamisch? Ja. Spannend? Zeker. Kansrijk? Absoluut. Het gaat om durven kiezen. Duidelijk sturen. Soms ook om faciliteren, experimenteren en innoveren. Misschien soms net buiten de lijntjes kleuren? In ieder geval dingen mogelijk maken. Belangrijkste eigenschap die daarvoor nodig is: lef!</Al>
+							</Inhoud>
+						</Divisietekst>
+						<Divisietekst eId="content_3" wId="pv28_1__content_3">
+							<Kop>
+								<Opschrift>2 Naar een vernieuwd omgevingsbeleid</Opschrift>
+							</Kop>
+							<Gereserveerd/>
+						</Divisietekst>
+						<Divisietekst eId="content_4" wId="pv28_1__content_4">
+							<Kop>
+								<Opschrift>3 Een verandering van tijdperk</Opschrift>
+							</Kop>
+							<Inhoud>
+								<Al>Zuid-Holland is een strategisch gelegen, vruchtbare delta, grotendeels onder zeeniveau, met een dalende bodem en mede daardoor met een uniek gevarieerd kust-, veen- en rivierenlandschap. In dit gebied hebben inwoners het landschap gevormd en bewoonbaar gemaakt door inpoldering. Ook hebben onze inwoners het gebied verbonden met de rest van de wereld. In de loop der eeuwen heeft zich in Zuid-Holland een meerkernig stedelijk netwerk ontwikkeld. Een centrum van handel, cultuur en wetenschap, met als kenmerk en kracht de diversiteit aan mensen, landschap en economie. Een dynamische delta die altijd dreigingen heeft weten om te zetten in kansen.</Al>
+								<Al>We leven in een tijd van grote, ingrijpende veranderingen. Globalisering, klimaatverandering, demografische trends en nieuwe technologie zorgen voor een ongekende dynamiek. We raken door onderlinge handel en verbondenheid steeds afhankelijker van elkaar. We doen onze boodschappen en boeken onze reizen steeds vaker via het internet. De temperatuur stijgt en naast extreem natte zijn er ook steeds vaker droge periodes. We verliezen het voorrecht van onbeperkt gebruik van fossiele grondstoffen. We worden steeds ouder en de bevolking vergrijst. We zijn gewend geraakt aan een welvaartsniveau dat niet meer vanzelfsprekend is, maar dat we graag willen behouden. Kortom, deze dynamiek vraagt erom dat we ons leven, wonen en werken opnieuw inrichten. Deze omschakeling is er niet van vandaag op morgen, maar zal een aanpassing over een langere periode vergen. Dit is een verandering van tijdperk. Fundamenteler dan dat kan het bijna niet.</Al>
+								<Al>Zuid-Holland is extra kwetsbaar voor al deze veranderingen. In ons laaggelegen deltagebied heeft de klimaatverandering grote ruimtelijke, economische en sociale gevolgen. Zuid-Holland is als open economie gevoelig voor de gevolgen van globalisering. De segregatie neemt toe. Onze energie-intensieve economie heeft, zoals ook benoemd in het klimaatakkoord van Parijs, alleen toekomst als wordt overgegaan tot verduurzaming. De trek naar de stad zorgt voor een toenemende druk op onze schaarse ruimte. Tegelijkertijd herbergt deze regio een groot reservoir van talent, creativiteit en ondernemerskracht. De geschiedenis leert ons dat onze regio heeft bewezen telkens sterker uit zulke veranderlijke tijden te komen. Zuid-Holland heeft alles in huis om de noodzakelijke vernieuwingen te realiseren. De richting is duidelijk: <i>een sterk Zuid-Holland is een slim en schoon Zuid-Holland en die stap zetten we samen.</i>
+								</Al>
+							</Inhoud>
+						</Divisietekst>
+						<Divisietekst eId="content_5" wId="pv28_1__content_5">
+							<Kop>
+								<Opschrift>4. Ruimte voor ontwikkeling, met waarborg voor kwaliteit</Opschrift>
+							</Kop>
+							<Inhoud>
+								<Al>In het omgevingsbeleid kan de provincie Zuid-Holland met zijn uitgebreide instrumentarium van grote meerwaarde zijn bij het oplossen van de opgaven van vandaag en morgen. Met inbreng van kennis en creativiteit vanuit de samenleving kan meer worden bereikt. Het is de kunst om het oplossend vermogen van de maatschappij te benutten. Alleen ga je sneller, samen kom je verder.</Al>
+								<Al>We willen meer ruimte en vertrouwen geven aan maatschappelijke initiatieven. Ruimte en vrijheid gedijen alleen binnen grenzen. Daarvoor werkt de provincie in haar omgevingsbeleid vanuit een aantal principes en kaders, als waarborg voor kwaliteit.</Al>
+								<Al>Deze sturingsprincipes zijn:</Al>
+								<Lijst type="ongemarkeerd" eId="content_5__list_1" wId="pv28_1__content_5__list_1">
+									<Li eId="content_5__list_1__item_1" wId="pv28_1__content_5__list_1__item_1">
+										<Al>
+											<strong>Opgavegericht</strong>: de maatschappelijke opgaven zijn het vertrekpunt van het provinciaal handelen. Welke opgaven de provincie aanpakt, is afhankelijk van de toegevoegde waarde die zij kan leveren en het provinciaal belang dat in het geding is. Bij het aanpakken van de prioritaire opgaven werkt de provincie multischalig en integraal. In het benutten van koppelkansen rond opgaven ligt een belangrijke meerwaarde van het middenbestuur.</Al>
+									</Li>
+									<Li eId="content_5__list_1__item_2" wId="pv28_1__content_5__list_1__item_2">
+										<Al>
+											<strong>Provinciaal belang</strong>: bij elke opgave definieert de provincie de bovenregionale belangen. Deze belangen komen onder andere voort uit onze wettelijke taken - rijkstaken en Europese verplichtingen - en uit onze ambities. In de thematische en gebiedsgerichte onderdelen van de omgevingsvisie worden de specifieke belangen nader uitgewerkt. De belangen zijn de basis voor provinciale meervoudige sturing, die gericht is op het leveren van toegevoegde waarde. De sturing kan variËren van het bieden van ruimte, samenwerken, maken van afspraken tot afdwingen.</Al>
+									</Li>
+									<Li eId="content_5__list_1__item_3" wId="pv28_1__content_5__list_1__item_3">
+										<Al>
+											<strong>Maatwerk</strong>: de provincie pakt opgaven bij voorkeur samen met andere partijen op. Deze netwerkaanpak vraagt om:</Al>
+										<Lijst type="ongemarkeerd" eId="content_5__list_1__item_3__list_1" wId="pv28_1__content_5__list_1__item_3__list_1">
+											<Li eId="content_5__list_1__item_3__list_1__item_1" wId="pv28_1__content_5__list_1__item_3__list_1__item_1">
+												<Al>
+													<i>Gebiedsgericht</i>: de provincie komt met elk gebied tot een aanpak op maat. Zuid-Holland bestaat uit verschillende gebieden met elk hun eigen opgaven. Specifieke opgaven ontstaan in interactie met de omgeving. Die specifieke opgaven behoeven elk hun eigen vorm van sturing.</Al>
+											</Li>
+											<Li eId="content_5__list_1__item_3__list_1__item_2" wId="pv28_1__content_5__list_1__item_3__list_1__item_2">
+												<Al>
+													<i>Uitgaan van passend schaalniveau</i>: de provincie vormt allianties op het schaalniveau van de specifieke opgave. Allianties op verschillende niveaus zijn nodig. We werken met partners op lokaal, regionaal, provinciaal en landsdelig niveau en kijken waar nodig ook over landsgrenzen heen.</Al>
+											</Li>
+											<Li eId="content_5__list_1__item_3__list_1__item_3" wId="pv28_1__content_5__list_1__item_3__list_1__item_3">
+												<Al>
+													<i>Ruimte voor differentiatie</i>: waar mogelijk gaan integrale maatwerkoplossingen boven generieke regels. Dat gebeurt alleen als per saldo sprake is van voldoende positieve ontwikkeling.</Al>
+											</Li>
+										</Lijst>
+									</Li>
+								</Lijst>
+								<Al>Onder deze sturingsprincipes wordt het <i>subsidiariteitsbeginsel</i> uit de omgevingswet (decentraal, tenzij) door de provincie opgepakt als &amp;lsquo;je toont meerwaarde of niet&amp;rsquo;.</Al>
+								<Al>De sturingsprincipes leiden tot vier mogelijke sturingsstijlen, die afhankelijk van de opgave ingezet kunnen worden:</Al>
+								<Lijst type="ongemarkeerd" eId="content_5__list_2" wId="pv28_1__content_5__list_2">
+									<Li eId="content_5__list_2__item_1" wId="pv28_1__content_5__list_2__item_1">
+										<Al>zoveel mogelijk overlaten aan initiatieven uit de samenleving (meewerkende overheid);</Al>
+									</Li>
+									<Li eId="content_5__list_2__item_2" wId="pv28_1__content_5__list_2__item_2">
+										<Al>waar (meer) regie nodig is, netwerkend werken (samenwerkende overheid);</Al>
+									</Li>
+									<Li eId="content_5__list_2__item_3" wId="pv28_1__content_5__list_2__item_3">
+										<Al>waar overheidsinvesteringen onmisbaar zijn, zelf prestaties leveren (realiserende overheid);</Al>
+									</Li>
+									<Li eId="content_5__list_2__item_4" wId="pv28_1__content_5__list_2__item_4">
+										<Al>waar normerend optreden noodzakelijk is, wettelijke bevoegdheden inzetten (rechtmatige overheid).</Al>
+									</Li>
+								</Lijst>
+								<table wId="pv28_1__content_5__table_1" eId="content_5__table_1">
+									<tgroup align="left" cols="2">
+										<colspec colname="col1" colnum="1" colwidth="50.0000*"/>
+										<colspec colname="col2" colnum="2" colwidth="50.0000*"/>
+										<tbody valign="top">
+											<row>
+												<entry>
+													<Al>
+														<strong>Realiserende</strong>
+														<strong>overheid</strong>
+													</Al>
+													<Al>Ondernemend, prestatieafspraken, resultaatgericht, risico afwegend, leidend, doelmatig.<br/>
+													</Al>
+												</entry>
+												<entry>
+													<Al>
+														<strong>Samenwerkende overheid</strong>
+													</Al>
+													<Al>Netwerken, omgevingsbewust, visionair, stimulerend, inspirerend.<br/>
+													</Al>
+												</entry>
+											</row>
+											<row>
+												<entry>
+													<Al>
+														<strong>Rechtmatige overheid</strong>
+													</Al>
+													<Al>Voorschrijvend, afdwingend, onpartijdig.<br/>
+													</Al>
+												</entry>
+												<entry>
+													<Al>
+														<strong>Meewerkende overheid</strong>
+													</Al>
+													<Al>Inspelen op en verhouden tot initiatieven uit de samenleving, zorgvuldig, verbindend, relatiegericht.<br/>
+													</Al>
+												</entry>
+											</row>
+										</tbody>
+									</tgroup>
+								</table>
+								<Al>De maatschappelijke dynamiek vraagt om een alerte en lerende overheid die de energie en het oplossend vermogen uit de samenleving weet in te zetten. Een aanpak met louter standaardoplossingen en vaste procedures werkt niet. Dat betekent ruimte laten voor verschil, experimenteren, maatwerk leveren en leren omgaan met onzekerheid. We beseffen dat het ruimte en vertrouwen geven op gespannen voet kan komen te staan met het vertrouwde beeld van een rechtmatige overheid die volgens eenduidige regels opereert. In dit spanningsveld wil de provincie Zuid-Holland met maximale transparantie bij de keuzes in haar omgevingsbeleid een oplossingsgericht, effectief en betrouwbaar bestuur zijn.</Al>
+								<Al>Wij zijn ons bewust dat de nieuwe werkstijl &amp;lsquo;ruimte voor ontwikkeling, met waarborg voor kwaliteit&amp;rsquo; iets vraagt van ons gedrag, zowel bestuurlijk als ambtelijk. We werken actief aan het ontwikkelen van deze nieuwe werkstijl, zowel in dit proces van het omgevingsbeleid als daarbuiten. We zoeken daarin ook samenwerking met partijen die hierin met ons mee willen werken.</Al>
+								<Al>In die samenwerking brengen wij de volgende meerwaarde mee:</Al>
+								<Lijst type="ongemarkeerd" eId="content_5__list_3" wId="pv28_1__content_5__list_3">
+									<Li eId="content_5__list_3__item_1" wId="pv28_1__content_5__list_3__item_1">
+										<Al>We hebben een <i>verbindende positie</i>. Als middenbestuur staan we te midden van vele spelers, die wij bij elkaar kunnen brengen. We zijn stevig verbonden met lokale overheden, de rijksoverheid en Europa.</Al>
+									</Li>
+									<Li eId="content_5__list_3__item_2" wId="pv28_1__content_5__list_3__item_2">
+										<Al>We hebben <i>kennis van zaken</i> om in te brengen en in netwerken een gezaghebbende rol te spelen.</Al>
+									</Li>
+									<Li eId="content_5__list_3__item_3" wId="pv28_1__content_5__list_3__item_3">
+										<Al>We hebben <i>wettelijke bevoegdheden</i> waarmee we keuzes kunnen maken, om ontwikkelingen mogelijk te maken en ongewenste ontwikkelingen tegen te houden.</Al>
+									</Li>
+									<Li eId="content_5__list_3__item_4" wId="pv28_1__content_5__list_3__item_4">
+										<Al>We hebben <i>financiËle middelen</i> om bij te dragen aan projecten en investeringen.</Al>
+									</Li>
+									<Li eId="content_5__list_3__item_5" wId="pv28_1__content_5__list_3__item_5">
+										<Al>We hebben <i>democratische legitimatie</i> op regionaal niveau en daarmee het vermogen om gezaghebbend knopen door te hakken.</Al>
+									</Li>
+								</Lijst>
+								<Al>De veelzijdigheid van deze instrumenten en de gecombineerde inzet maakt van de provincie Zuid-Holland een herkenbare partner bij het aanpakken van de maatschappelijke opgaven.</Al>
+							</Inhoud>
+						</Divisietekst>
+						<Divisie eId="div_1" wId="pv28_1__div_1">
+							<Kop>
+								<Nummer>5</Nummer>
+								<Opschrift>Ambities</Opschrift>
+							</Kop>
+							<Divisietekst eId="div_1__content_1" wId="pv28_1__div_1__content_1">
+								<Kop>
+									<Opschrift>Naar een klimaatbestendige Delta</Opschrift>
+								</Kop>
+								<Inhoud>
+									<Al>Het vruchtbare en grotendeels onder zeeniveau gelegen deltagebied wordt gekenmerkt door een intensief gebruik van land en water met veel economische belangen, een grote bevolkingsdichtheid en ecologische rijkdom.</Al>
+									<Al>Vanwege haar ligging is Zuid-Holland extra kwetsbaar voor gevolgen van de klimaatverandering. Dreiging van overstromingen, hevige neerslag en lange perioden van hitte en droogte zullen regelmaat worden. Dit alles beÏnvloedt onze leefomgeving, economische vitaliteit en de kwaliteit van ons water. In sommige gebieden leidt dit tot verzilting en tekorten aan zoetwater en in stedelijke gebieden tot hittestress en wateroverlast. Daarnaast daalt de bodem in ons veenweidegebied. Onder deze omstandigheden hebben we in de afgelopen eeuwen innovatieve oplossingen gevonden voor het leefbaar houden van onze <IntIoRef ref="pv28_1__cmp_2__content_o_1__list_o_1__item_o_1__ref_o_1" eId="div_1__content_1__ref_1" wId="pv28_1__div_1__content_1__ref_1">Delta (Visie)</IntIoRef>.</Al>
+									<Al>We willen onze fysieke leefomgeving zo inrichten dat deze klimaatbestendig blijft. We willen dat extreme weersomstandigheden niet leiden tot onnodige schade aan gebouwen, infrastructuur, landbouw en economie. We willen blijven beschikken over voldoende zoetwater. We werken daarvoor met verschillende overheden en andere organisaties samen aan regionale adaptatiestrategieËn en het nationale Deltaprogramma. Centraal vertrekpunt daarbij is dat we meer ruimte bieden aan het water. We werken aan de bescherming van mensen en economie tegen overstromingen. We versterken de primaire keringen, waar mogelijk met innovatieve maatregelen. We werken aan innovatieve oplossingen voor waterberging en voorkomen van hittestress in stedelijk gebied. We zullen bij nieuwe ruimtelijke projecten rekening houden met de impact van klimaatverandering. We werken aan het beperken van watertekorten en het optimaal benutten van zoetwater voor de economie en landbouw. In gebieden met sterke bodemdaling werken we aan transitie van de landbouw en het aanleggen van natuur.</Al>
+									<Al>Hierbij spelen in Zuid-Holland onder meer de volgende opgaven:</Al>
+									<Al>- aanpassen ruimtelijke inrichting op klimaatverandering;</Al>
+									<Al>- klimaatbestendig bouwen;</Al>
+									<Al>- meer groen in en om de stad;</Al>
+									<Al>- inspelen op gevolgen bodemdaling (transitie landbouw);</Al>
+									<Al>- reserveren van ruimte voor water(berging);</Al>
+									<Al>- verbetering kwaliteit grond- en oppervlaktewater;</Al>
+									<Al>- waarborgen van zoetwatervoorziening;</Al>
+									<Al>- infrastructuur op klimaatbestendige manier aanleggen;</Al>
+									<Al>- vergroten bewustwording klimaatverandering:</Al>
+									<Al>- vermarkten en exporteren van innovatieve oplossingen voor klimaatadaptatie.</Al>
+									<Al>De ambitie &amp;lsquo;Naar een klimaatbestendige Delta&amp;rsquo; wordt onder andere uitgewerkt in de &amp;lsquo;Provinciale Klimaatadaptatie Strategie&amp;rsquo;.</Al>
+								</Inhoud>
+							</Divisietekst>
+							<Divisietekst eId="div_1__content_2" wId="pv28_1__div_1__content_2">
+								<Kop>
+									<Opschrift>Naar een nieuwe economie: the next level</Opschrift>
+								</Kop>
+								<Inhoud>
+									<Al>De Zuid-Hollandse economie wordt gekenmerkt door een unieke structuur. Het herbergt het grootste haven-industriËle complex van Europa, met een sterk proces- en petrochemisch, logistiek en maritiem cluster. In de directe nabijheid van dit complex bevindt zich het grootste glastuinbouwcluster van de wereld: een belangrijke speler in de wereldwijde voedingsketen. Verder herbergt onze provincie naast aantrekkelijke landschappen ook dichtbevolkte steden met talrijke kennis- en onderzoeksinstellingen, die tot de top in hun vakgebied behoren.</Al>
+									<Al>De industriËle sectoren bevinden zich aan het einde van een levenscyclus. Onze economie wordt geconfronteerd met snelle disruptieve technologische ontwikkelingen, zoals digitalisering, robotisering, 3-D printing. Door de digitalisering moeten we ons winkellandschap, onze productieprocessen en ons werk anders inrichten. De transformatie van de economie zal in sommige sectoren banen kosten. De Zuid-Hollandse economie bevindt zich in een omvangrijk vernieuwingsproces waarbij het vermogen om snel op de veranderingen in te spelen bepalend is voor de concurrentiekracht. De beschikbaarheid over een goed opgeleide bevolking en voldoende talent is hierbij een cruciaal aspect. Ook een aantrekkelijke, groene en gezonde leefomgeving is een belangrijke vestigingsfactor. Deze regio heeft alles in huis om deze sprong naar een nieuwe economie te maken. Een economie met vele gezichten, meer dan nu gericht op delen, digitaal en schoon.</Al>
+									<Al>Voor Zuid-Holland betekent dat werk aan de winkel. We gaan van een fossiele economie over naar een circulaire economie. Een ontwikkeling met grote gevolgen voor onze dragende economische clusters, met name het haven-industrieel complex en de glastuinbouw. In de stap naar een circulaire economie in 2050 wordt hergebruik van grondstoffen een nieuw verdienmodel. We zetten in op digitalisering van de economie. We stimuleren innovatie in het midden- en kleinbedrijf, onder andere via nauwe samenwerking tussen de diverse economische sectoren en de kennis- en onderwijsinstellingen die onze regio herbergt. Bij goederentransport zetten we in op het realiseren van meer toegevoegde waarde voor de regio. Via inzet op een aantrekkelijke en gezonde woon- en werkomgeving trekken we bedrijven, kenniswerkers en andere talenten. De technologisering en digitalisering vragen om nieuwe arrangementen voor scholing en inzetbaarheid.</Al>
+									<Al>Hierbij spelen in Zuid-Holland onder meer de volgende opgaven:</Al>
+									<Al>- een CO<sub>2-</sub>neutrale haven en tuinbouwcluster;</Al>
+									<Al>- het bieden van experimenteerruimten voor innovaties;</Al>
+									<Al>- effectieve invulling van milieugebruiksruimte (o.a. experiment koepelconcept Havengebied)</Al>
+									<Al>- stimuleren hergebruik van grondstoffen;</Al>
+									<Al>- verbetering aansluiting onderwijs - arbeidsmarkt;</Al>
+									<Al>- ruimte voor nieuwe winkelconcepten en productiewijzen;</Al>
+									<Al>- stimuleren groei van innovatief MKB;</Al>
+									<Al>- benutting toeristisch potentieel Zuid-Holland;</Al>
+									<Al>- kwaliteitsslag bedrijventerreinen;</Al>
+									<Al>- verduurzaming landbouw en diervriendelijke veehouderij.</Al>
+									<Al>De ambitie &amp;lsquo;Naar een nieuwe economie&amp;rsquo; wordt onder andere uitgewerkt in de &amp;lsquo;Beleidsnota circulaire economie&amp;rsquo;.</Al>
+								</Inhoud>
+							</Divisietekst>
+							<Divisietekst eId="div_1__content_3" wId="pv28_1__div_1__content_3">
+								<Kop>
+									<Opschrift>Naar levendige meerkernige metropool</Opschrift>
+								</Kop>
+								<Inhoud>
+									<Al>De strategisch gelegen delta die Zuid-Holland is, heeft altijd mensen aangetrokken. Al vroeg ontstonden langs de waterwegen nederzettingen die uitgroeiden tot handelssteden. In de loop der tijd is een onderscheidend meerkernig stedelijk netwerk ontstaan waarin elke stad en dorp hun een eigen profiel hebben ontwikkeld.</Al>
+									<Al>Onze welvaart en welzijn hangen af van de kwaliteit van dit stedelijk netwerk. Niet voor niets is er een flinke trek naar de stad. Steden zijn ontmoetingsplaatsen, emancipatieladders en broedplaatsen van ideeËn en innovatie. Tegelijkertijd zijn steden ook plaatsen waar sociale problematiek zich manifesteert. Stad en land raken steeds sterker met elkaar verbonden. Het aan steden grenzende landelijk gebied is in het huidige tijdperk meer dan ooit een proeftuin voor nieuwe oplossingen op terreinen als klimaat, energie en voedsel.</Al>
+									<Al>Zuid-Holland staat voor de opgave om in het komende decennium een fors aantal woningen te realiseren en om de woonvoorraad te verduurzamen. Opgaven die in Zuid-Holland om ingrijpende keuzes vragen. Daarvoor zijn sturende ruimtelijke concepten nodig. De uitdaging is om de stap te maken naar een gezonde, sociale en duurzame samenleving. De metropolitane ontwikkeling moet op die manier vorm krijgen. Om die vitale samenleving te realiseren is meer nodig dan woningbouw alleen. Het economisch potentieel kan beter benut worden door de steden met hun afzonderlijke kwaliteiten te verbinden tot ÉÉn metropolitaan gebied. Het leef- en vestigingsklimaat daarin kan versterkt worden door stad en land goed te verbinden, door ruimte te bieden voor groen en water in de stad, door een evenwichtige woningvoorraad en passende werklocaties. De vitaliteit van de stad is ook gebaat bij cultuur, kenniscentra en aantrekkelijke binnensteden. Zo gaan we van verspreide autonome stedelijke netwerken en kernen naar een levendige, meerkernige metropool.</Al>
+									<Al>Hierbij spelen in Zuid-Holland onder meer de volgende opgaven:</Al>
+									<Al>- verdichting van stedelijke knooppunten met een combinatie van wonen, werken en voorzieningen;</Al>
+									<Al>- voldoen aan groeiende woningbehoefte;</Al>
+									<Al>- verbetering luchtkwaliteit en beperking geluidsoverlast;</Al>
+									<Al>- energietransitie; verduurzaming woningvoorraad (naar gasloze wijken/ woningen);</Al>
+									<Al>- klimaatbestending bouwen;</Al>
+									<Al>- stimuleren van clusterontwikkeling en campusvorming;</Al>
+									<Al>- verkleining van sociaal-economische verschillen, ontwikkeling inclusieve steden;</Al>
+									<Al>- leefbaar houden van kleine kernen;</Al>
+									<Al>- ontwikkeling digitale infrastructuur;</Al>
+									<Al>- snel en schoon transport: first &amp; last mile;</Al>
+									<Al>- klimaatadaptieve inrichting steden en dorpen;</Al>
+									<Al>- ontwikkeling groen en water in de stad.</Al>
+									<Al>De ambitie &amp;lsquo;Naar een levendige meerkernige <IntIoRef ref="pv28_1__cmp_2__content_o_1__list_o_1__item_o_2__ref_o_1" eId="div_1__content_3__ref_1" wId="pv28_1__div_1__content_3__ref_1">Metropool</IntIoRef>&amp;rsquo; wordt onder andere uitgewerkt in het &amp;lsquo;Actieprogramma Slim Ruimtegebruik&amp;rsquo; en de &amp;lsquo;Verstedelijkingsstrategie&amp;rsquo;.</Al>
+								</Inhoud>
+							</Divisietekst>
+							<Divisietekst eId="div_1__content_4" wId="pv28_1__div_1__content_4">
+								<Kop>
+									<Opschrift>Energievernieuwing</Opschrift>
+								</Kop>
+								<Inhoud>
+									<Al>Zuid-Holland is een van de meest energie intensieve regio&amp;rsquo;s van Europa. Dat komt door de unieke industriËle en stedelijke structuur, met de haven, petrochemie en logistiek. Dat maakt ons extra afhankelijk van de beschikbaarheid van fossiele brandstoffen. Tegelijkertijd beschikt onze regio over een groot aanbod van restwarmte die gebruikt kan worden in steden en de glastuinbouw.</Al>
+									<Al>In december 2015 sloten 195 landen in Parijs een historisch klimaatakkoord. De wereld kwam overeen dat de opwarming van de aarde ruim onder de 2 graden moet komen, in vergelijking met het pre-industriËle tijdperk. Afgesproken is de stijging van de uitstoot van broeikasgassen te stoppen. Het klimaatakkoord luidt het einde in van een economie gebaseerd op fossiele brandstoffen. Voor Zuid-Holland met haar energie-intensieve economische structuur heeft het akkoord grote gevolgen en is daarmee urgent. Al langer is duidelijk dat het huidige op fossiele brandstoffen gebaseerde verdienmodel eindig is. Met de aanwezigheid van energie-intensieve sectoren als de haven en de glastuinbouw en met gerenommeerde kennisinstellingen kan Zuid-Holland profiteren van de energietransitie.</Al>
+									<Al>Zuid-Holland gaat haar energieaanpak vernieuwen. Onze focus ligt bij de steden, de industrie en de glastuinbouw. Wij willen een slimme en schone economie zijn waar fossiele bronnen zijn vervangen door hernieuwbare bronnen. Dat brengt nieuwe verdienmodellen, nieuwe exportproducten en nieuwe banen met zich mee. Bovendien worden we minder kwetsbaar voor geopolitieke ontwikkelingen. We nemen maatregelen om energie te besparen en het gebruik van aardgas drastisch te verminderen. Dat doen we bijvoorbeeld met het uitbreiden van warmtenetten. In de toekomst is de Warmterotonde de verbinding tussen aanbieders en gebruikers van warmte; prima geschikt om kassen en steden te verwarmen. Om de energietransitie aan te jagen zet de provincie ook stevig in op innovatie. We zoeken naar nieuwe mogelijkheden voor energiegebruik uit wind, zon, biomassa, water en aardwarmte. We zijn ons bewust deze maatregelen tot weerstand kunnen leiden, zie bijvoorbeeld de discussies rond windenergie of CO<sub>2</sub>-opslag. Daarom zetten we in op het vinden van draagvlak bij energievernieuwing. De energietransitie krijgt mede vorm door lokale initiatieven. Wij willen ruimte bieden aan deze ontwikkeling. We gaan met het rijk een klimaat- en energieakkoord sluiten om alle betrokken partijen meer zekerheid te geven over langetermijndoelen.</Al>
+									<Al>Hierbij spelen in Zuid-Holland onder meer de volgende opgaven:</Al>
+									<Al>- goede ruimtelijke inpassing van windopgave en andere vormen van energievernieuwing;</Al>
+									<Al>- benutting restwarmte en aardwarmte (aanleggen van warmte-infrastructuur);</Al>
+									<Al>- energie-innovatie stimuleren en financieren;</Al>
+									<Al>- CO<sub>2-</sub>opslag en CO<sub>2</sub>-infrastructuur;</Al>
+									<Al>- energie- en waterefficiËnt bouwen;</Al>
+									<Al>- samenleving activeren bij energietransitie.</Al>
+									<Al>De ambitie &amp;lsquo;Energievernieuwing&amp;rsquo; wordt onder andere uitgewerkt in de &amp;lsquo;Energieagenda Watt Anders&amp;rsquo;.</Al>
+								</Inhoud>
+							</Divisietekst>
+							<Divisietekst eId="div_1__content_5" wId="pv28_1__div_1__content_5">
+								<Kop>
+									<Opschrift>Best bereikbare provincie</Opschrift>
+								</Kop>
+								<Inhoud>
+									<Al>Zuid-Holland is een internationaal transportknooppunt. Onze welvaart danken we grotendeels aan goederenstromen vanuit de haven en industrie en producten vanuit de land- en tuinbouw die de provincie in en uit gaan. We zien ook veel dagelijkse verplaatsingen tussen woon- werklocaties. Zuid-Holland is de meest verstedelijkte provincie, waarin twee van Nederlands grootste steden liggen, een reeks oud-Hollandse steden en talrijke kleinere gemeenten.</Al>
+									<Al>Economische groei zorgt voor toenemende drukte op de infrastructuur, zowel wat betreft goederenverkeer als woon-werk verplaatsingen. Zuid-Holland ontleent zijn kracht aan het meerkernige stedelijk netwerk waarin elke stad een economisch profiel heeft. Uit internationale onderzoeken blijkt dat het potentieel sterker benut kan worden door de steden en economische clusters met hun afzonderlijke kwaliteiten beter te verbinden. Voor de concurrentiepositie is niet alleen een goede bereikbaarheid via (vaar- en spoor)wegen van belang, maar ook steeds meer via de digitale infrastructuur.</Al>
+									<Al>Zuid-Holland moet optimaal verbonden zijn en blijven met regionale, landelijke en internationale centra: de best bereikbare provincie van Nederland. Dat vraagt om een moderne, duurzame en gebiedsgerichte aanpak. We pakken verkeersknelpunten aan. Er liggen grote kansen in verbinding van de mobiliteitsopgaven met de verstedelijkingsaanpak, economische transitie en energievernieuwing. Wij willen de gehele mobiliteitssector schoner maken en verduurzamen, om de nationale doelstellingen voor klimaat en luchtkwaliteit te halen. We zetten daarom in op versterking van openbaar vervoer en gebruik van de fiets in de mobiliteitsketens van reizigers. Daarnaast moet vervoer over water een volwaardig alternatief zijn voor vervoer over de weg. Waar vraag naar en aanbod van klassiek openbaar vervoer tekort schieten, zoals in krimpregio&amp;rsquo;s, moeten we zoeken naar oplossingen zodat er flexibel, vraaggericht vervoer beschikbaar komt. We willen innovatie in het openbaar vervoer stimuleren door in de concessieverlening de creativiteit van aanbieders de ruimte te geven. Verder zien wij het grote belang van de ontwikkeling van digitale infrastructuur.</Al>
+									<Al>Hierbij spelen in Zuid-Holland onder meer de volgende opgaven:</Al>
+									<Al>- verbetering ontsluiting stedelijke centra en economische clusters;</Al>
+									<Al>- betere verbinding daily urban systems Den Haag en Rotterdam (versnelde aanleg viersporigheid);</Al>
+									<Al>- doorontwikkeling hoogwaardig openbaar vervoer (R-net);</Al>
+									<Al>- vergroten aantal passagiers in OV, meer vervoer over water en meer mensen op de fiets;</Al>
+									<Al>- duurzame groei van de luchtvaart</Al>
+									<Al>- inzetten op vraaggerichte mobiliteit;</Al>
+									<Al>- inpassing autonome vaar- en voertuigen;</Al>
+									<Al>- beperking emissies fijnstof;</Al>
+									<Al>- beperking veiligheidsrisico&amp;rsquo;s goederenvervoer;</Al>
+									<Al>- verbeteren en vervolmaken van bestaande infrastructuur;</Al>
+									<Al>- verduurzaming regionaal OV en binnenvaart;</Al>
+									<Al>- ontwikkeling digitale infrastructuur.</Al>
+									<Al>De ambitie &amp;lsquo;Moderne mobiliteit&amp;rsquo; wordt onder andere uitgewerkt in het &amp;lsquo;Programma Zuid-Hollandse infrastructuur/mobiliteit&amp;rsquo;.</Al>
+								</Inhoud>
+							</Divisietekst>
+							<Divisietekst eId="div_1__content_6" wId="pv28_1__div_1__content_6">
+								<Kop>
+									<Opschrift>Gezonde en aantrekkelijke leefomgeving</Opschrift>
+								</Kop>
+								<Inhoud>
+									<Al>De combinatie van het kenmerkende kust-, veenweide- en rivierdeltalandschap, waarin steden en landschap met elkaar verweven zijn, maakt onze provincie veelzijdig en uniek. Een landschap met belangrijke leefgebieden voor plant- en diersoorten. Met prachtige open gebieden en een rijk cultureel erfgoed van aantrekkelijke historische steden, landgoederen en molens.</Al>
+									<Al>Ons landschap en de biodiversiteit staan onder druk door het groeiend aantal inwoners, economische ontwikkeling en de klimaatverandering. Er is behoefte aan meer woningen en ruimte voor bedrijvigheid. De landbouwsector, op veel plaatsen drager van het landschap, heeft te kampen met bodemdaling en druk op schaalvergroting vanuit de wereldmarkt. Tegelijkertijd groeit het besef dat het landschap ook een belangrijke concurrentiefactor is. Een kwaliteit die wordt bedreigd door verstedelijking en oprukkende bedrijvigheid. In metropolitane regio&amp;rsquo;s is een aantrekkelijk landelijk gebied een belangrijke vestigingsfactor voor mensen en bedrijven en een essentieel onderdeel van de leefomgevingskwaliteit voor inwoners, werknemers, recreanten en toeristen. Een groene leefomgeving draagt bij aan een gezonde leefstijl van de inwoners van Zuid-Holland.</Al>
+									<Al>De provincie Zuid-Holland wil de kwaliteit van de leefomgeving versterken door natuur, water, recreatie, landbouw, cultureel erfgoed en economie in samenhang te bezien. We beschermen de bijzondere kwaliteiten van ons landschap, ook om de groenbeleving van inwoners, recreanten en toeristen te verbeteren. We benutten natuur, cultureel erfgoed en monumenten om het landschap aantrekkelijk te maken en te houden. Daarbij willen we de biodiversiteit vergroten, natuurinclusieve landbouw geven we de ruimte. Dit draagt bij aan een fijnmazig natuurnatuurnetwerk. Ook zetten we in op diervriendelijke veehouderij. Onze inzet richt zich niet enkel op het landelijk gebied. Aantrekkelijke landschappen reiken tot in de stad en het stedelijk gebied reikt tot in de landschappen. We streven naar een zachte overgang van het stedelijk- naar het landelijk gebied, waarbij kwaliteit centraal staat.</Al>
+									<Al>Hierbij spelen in Zuid-Holland onder meer de volgende opgaven:</Al>
+									<Al>- behouden en waar mogelijk versterken van biodiversiteit;</Al>
+									<Al>- natuurontwikkeling (realisatie Natuur Netwerk Nederland Én vormgeven twee Nationale Parken);</Al>
+									<Al>- ontwikkeling van groen en blauw in en om de stad;</Al>
+									<Al>- ontwikkeling vitale metropolitane landschappen;</Al>
+									<Al>- versterken van de landgoederenzone;</Al>
+									<Al>- beleefbaar maken van cultureel erfgoed;</Al>
+									<Al>- ontwikkeling natuurinclusieve landbouw;</Al>
+									<Al>- verbetering luchtkwaliteit door beperken emissies (o.a. terugdringing stikstofuitstoot).</Al>
+									<Al>De ambitie &amp;lsquo;Gezonde en aantrekkelijke leefomgeving&amp;rsquo; wordt onder andere uitgewerkt in de &amp;lsquo;Visie Rijke Groenblauwe Leefomgeving&amp;rsquo;.</Al>
+								</Inhoud>
+							</Divisietekst>
+						</Divisie>
+						<Divisie eId="div_2" wId="pv28_1__div_2">
+							<Kop>
+								<Label>test</Label>
+								<Nummer>6</Nummer>
+								<Opschrift>dit is de titel van 6</Opschrift>
+							</Kop>
+							<Divisie eId="div_2__div_1" wId="pv28_1__div_2__div_1">
+								<Kop>
+									<Opschrift>-</Opschrift>
+								</Kop>
+								<Divisietekst eId="div_2__div_1__content_1" wId="pv28_1__div_2__div_1__content_1">
+									<Kop>
+										<Opschrift>test</Opschrift>
+									</Kop>
+									<Gereserveerd/>
+								</Divisietekst>
+							</Divisie>
+							<Divisietekst eId="div_2__content_1" wId="pv28_1__div_2__content_1">
+								<Inhoud>
+									<Al>En nog een teksteje zonder kop</Al>
+								</Inhoud>
+							</Divisietekst>
+							<Divisie eId="div_2__div_2" wId="pv28_1__div_2__div_2">
+								<Kop>
+									<Label>nu wel een kop</Label>
+									<Nummer>6.1</Nummer>
+								</Kop>
+								<Divisie eId="div_2__div_2__div_1" wId="pv28_1__div_2__div_2__div_1">
+									<Kop>
+										<Opschrift>-</Opschrift>
+									</Kop>
+									<Divisietekst eId="div_2__div_2__div_1__content_1" wId="pv28_1__div_2__div_2__div_1__content_1">
+										<Kop>
+											<Opschrift>6.x.1 testje derce niveau</Opschrift>
+										</Kop>
+										<Gereserveerd/>
+									</Divisietekst>
+								</Divisie>
+							</Divisie>
+							<Divisietekst eId="div_2__content_2" wId="pv28_1__div_2__content_2">
+								<Inhoud>
+									<Al>en dan nu weer een zonder kop</Al>
+								</Inhoud>
+							</Divisietekst>
+						</Divisie>
+					</Lichaam>
+					<Bijlage eId="cmp_2" wId="pv28_1__cmp_2">
+						<Kop>
+							<Label>Bijlage</Label>
+							<Nummer>II</Nummer>
+							<Opschrift>Overzicht Informatieobjecten</Opschrift>
+						</Kop>
+						<Divisietekst eId="cmp_2__content_o_1" wId="pv28_1__cmp_2__content_o_1">
+							<Inhoud>
+								<Begrippenlijst eId="cmp_2__content_o_1__list_o_1" wId="pv28_1__cmp_2__content_o_1__list_o_1">
+									<Begrip eId="cmp_2__content_o_1__list_o_1__item_o_1" wId="pv28_1__cmp_2__content_o_1__list_o_1__item_o_1">
+										<Term>delta (visie)</Term>
+										<Definitie>
+											<Al>
+												<ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_1__ref_o_1" wId="pv28_1__cmp_2__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/pv28/2021/gio201/nld@2021-11-17;1">/join/id/regdata/pv28/2021/gio201/nld@2021-11-17;1</ExtIoRef>
+											</Al>
+										</Definitie>
+									</Begrip>
+									<Begrip eId="cmp_2__content_o_1__list_o_1__item_o_2" wId="pv28_1__cmp_2__content_o_1__list_o_1__item_o_2">
+										<Term>metropool</Term>
+										<Definitie>
+											<Al>
+												<ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_2__ref_o_1" wId="pv28_1__cmp_2__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/pv28/2021/gio207/nld@2021-11-17;1">/join/id/regdata/pv28/2021/gio207/nld@2021-11-17;1</ExtIoRef>
+											</Al>
+										</Definitie>
+									</Begrip>
+								</Begrippenlijst>
+							</Inhoud>
+						</Divisietekst>
+					</Bijlage>
+				</RegelingVrijetekst>
+			</WijzigBijlage>
+		</BesluitCompact>
+	</BesluitVersie>
+	<RegelingVersieInformatie>
+		<ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.1.0">
+			<FRBRWork>/akn/nl/act/pv28/2021/1_7</FRBRWork>
+			<FRBRExpression>/akn/nl/act/pv28/2021/1_7/nld@2021-11-17;v1</FRBRExpression>
+			<soortWork>/join/id/stop/work_019</soortWork>
+		</ExpressionIdentificatie>
+		<RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.1.0">
+			<versienummer>v1</versienummer>
+		</RegelingVersieMetadata>
+		<RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.1.0">
+			<eindverantwoordelijke>/tooi/id/provincie/pv28</eindverantwoordelijke>
+			<maker>/tooi/id/provincie/pv28</maker>
+			<soortBestuursorgaan>/tooi/def/thes/kern/c_411b4e4a</soortBestuursorgaan>
+			<heeftCiteertitelInformatie>
+				<CiteertitelInformatie>
+					<citeertitel>Ambitienotitie</citeertitel>
+					<isOfficieel>true</isOfficieel>
+				</CiteertitelInformatie>
+			</heeftCiteertitelInformatie>
+			<officieleTitel>Ambitienotitie</officieleTitel>
+			<onderwerpen>
+				<onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
+			</onderwerpen>
+			<rechtsgebieden>
+				<rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+			</rechtsgebieden>
+			<soortRegeling>/join/id/stop/regelingtype_006</soortRegeling>
+		</RegelingMetadata>
+	</RegelingVersieInformatie>
+</AanleveringBesluit>

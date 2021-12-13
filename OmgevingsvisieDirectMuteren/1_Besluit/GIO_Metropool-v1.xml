@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.1.0">
+	<InformatieObjectVersie>
+		<ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.1.0">
+			<FRBRWork>/join/id/regdata/pv28/2021/gio207</FRBRWork>
+			<FRBRExpression>/join/id/regdata/pv28/2021/gio207/nld@2021-11-17;1</FRBRExpression>
+			<soortWork>/join/id/stop/work_010</soortWork>
+		</ExpressionIdentificatie>
+		<InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.1.0">
+			<heeftGeboorteregeling>/akn/nl/act/pv28/2021/1_7</heeftGeboorteregeling>
+			<heeftBestanden>
+				<heeftBestand>
+					<Bestand>
+						<bestandsnaam>Metropool-v1.gml</bestandsnaam>
+						<hash>13fca05fb6d8401bfb88fb690fe59e78dc253abec458142a9ca0e1ab96e29b286545644f58e20efddec7f967b610e65dbcbfcb642322fc8b2c3115c37ebcc3ab</hash>
+					</Bestand>
+				</heeftBestand>
+			</heeftBestanden>
+		</InformatieObjectVersieMetadata>
+		<InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/" schemaversie="1.1.0">
+			<eindverantwoordelijke>/tooi/id/provincie/pv28</eindverantwoordelijke>
+			<maker>/tooi/id/provincie/pv28</maker>
+			<naamInformatieObject>metropool</naamInformatieObject>
+			<officieleTitel>/join/id/regdata/pv28/2021/gio207</officieleTitel>
+			<publicatieinstructie>TeConsolideren</publicatieinstructie>
+			<formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+		</InformatieObjectMetadata>
+	</InformatieObjectVersie>
+</AanleveringInformatieObject>
