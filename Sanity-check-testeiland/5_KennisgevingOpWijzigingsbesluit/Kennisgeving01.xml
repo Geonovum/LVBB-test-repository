@@ -21,7 +21,7 @@
     </KennisgevingMetadata>
     <Procedureverloopmutatie 
       xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <bekendOp>2021-08-12</bekendOp>
+      <bekendOp>2021-09-02</bekendOp>
       <voegStappenToe>
         <Procedurestap>
           <!-- stap_015 = eind bezwaartermijn -->
