@@ -107,7 +107,7 @@
                </RegelingOpschrift>
                <Lichaam eId="body_1" wId="body_1">
                   <!-- Hieronder staat een hoofdstuk -->
-                  <Hoofdstuk eId="chp_h_1" wId="gm9920_1__chp_h_1">
+                  <Hoofdstuk eId="chp_chp_1" wId="gm9920_1__chp_chp_1">
                      <!-- De inhoud van het hoofdstuk -->
                      <Kop>
                         <Label>Hoofdstuk</Label>
@@ -115,30 +115,30 @@
                         <Opschrift>Inleiding</Opschrift>
                      </Kop>
                      <!-- Hieronder staat een artikel -->
-                     <Artikel eId="h_1__art_1-1" wId="gm9920_1__h_1__art_1-1">
+                     <Artikel eId="chp_1__art_1.1" wId="gm9920_1__chp_1__art_1.1">
                         <!-- De inhoud van het artikel -->
                         <Kop>
                            <Label>Artikel</Label>
                            <Nummer>1.1</Nummer>
                            <Opschrift>Testoverzicht</Opschrift>
                         </Kop>
-                        <Lid wId="gm9920_1__h_1__art_1-1__para_1" eId="h_1__art_1-1__para_1">
+                        <Lid wId="gm9920_1__chp_1__art_1.1__para_1" eId="chp_1__art_1.1__para_1">
                            <LidNummer>1.</LidNummer>
                            <Inhoud>
                               <Al> in de volgende leden wordt een plaatje en een tabel toegevoegd. Deze zullen in een latere besluit mogelijk gewijzigd worden. </Al>
                            </Inhoud>
                         </Lid>
-                        <Lid wId="gm9920_1__h_1__art_1-1__para_2" eId="h_1__art_1-1__para_2">
+                        <Lid wId="gm9920_1__chp_1__art_1.1__para_2" eId="chp_1__art_1.1__para_2">
                            <LidNummer>2.</LidNummer>
                            <Inhoud>
                               <Al>Test Inhoud (en verwijzing naar Testeiland)</Al>
                            </Inhoud>
                         </Lid>
-                        <Lid wId="gm9920_1__h_1__art_1-1__para_3" eId="h_1__art_1-1__para_3">
+                        <Lid wId="gm9920_1__chp_1__art_1.1__para_3" eId="chp_1__art_1.1__para_3">
                            <LidNummer>3.</LidNummer>
                            <Inhoud>
                               <Tussenkop>Tabel met testresultaat</Tussenkop>
-                              <table wId="gm9920_1__h_1__art_1-1__para_3__table_1" eId="h_1__art_1-1__para_3__table_1"
+                              <table wId="gm9920_1__chp_1__art_1.1__para_3__table_1" eId="chp_1__art_1.1__para_3__table_1"
                                  frame="topbot"
                                  pgwide="0"
                                  tabstyle="xml2"

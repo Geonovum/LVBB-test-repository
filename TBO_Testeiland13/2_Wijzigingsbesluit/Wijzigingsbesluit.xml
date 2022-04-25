@@ -323,7 +323,7 @@
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <versienummer>1</versienummer>
+         <versienummer>2</versienummer>
       </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/gemeente/gm9920</eindverantwoordelijke>
