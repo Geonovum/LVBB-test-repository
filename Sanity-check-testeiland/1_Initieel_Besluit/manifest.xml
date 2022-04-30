@@ -27,6 +27,14 @@
     <contentType>application/xml</contentType>
   </bestand>
   <bestand>
+    <bestandsnaam>owActiviteiten.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+  </bestand>
+  <bestand>
+    <bestandsnaam>owRegeltekst.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+  </bestand>
+  <bestand>
     <bestandsnaam>Testeiland.xml</bestandsnaam>
     <contentType>application/xml</contentType>
   </bestand>

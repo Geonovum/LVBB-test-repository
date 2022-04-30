@@ -1,31 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ ../lvbb/lvbb-stop-aanlevering.xsd">
-  <InformatieObjectVersie>
-    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/gm9913/2021/Testeiland</FRBRWork>
-      <FRBRExpression>/join/id/regdata/gm9913/2021/Testeiland/nld@2021-08-25;1</FRBRExpression>
-      <soortWork>/join/id/stop/work_010</soortWork>
-    </ExpressionIdentificatie>
-    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <heeftBestanden>
-        <heeftBestand>
-          <Bestand>
-            <bestandsnaam>Testeiland.gml</bestandsnaam>
-            <hash>d7850ef33403f69f445e33cf12826ed027849b221ce9f18225a120d56e48a3442dfc4089d4517c4cc33c27dfe458fa07e80bd8fe34d161fa09aebf8531ad0f7b</hash>
-          </Bestand>
-        </heeftBestand>
-      </heeftBestanden>
-      <heeftGeboorteregeling>/akn/nl/act/gm9913/2021/TestReeksNummer1</heeftGeboorteregeling>
-    </InformatieObjectVersieMetadata>
-    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <eindverantwoordelijke>/tooi/id/gemeente/gm9913</eindverantwoordelijke>
-      <maker>/tooi/id/gemeente/gm9913</maker>
-      <alternatieveTitels>
-        <alternatieveTitel>Testeiland 20</alternatieveTitel>
-      </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/gm9913/2021/Testeiland</officieleTitel>
-      <naamInformatieObject>Testeiland 20 Testeiland</naamInformatieObject>
-      <publicatieinstructie>TeConsolideren</publicatieinstructie>
-      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-    </InformatieObjectMetadata>
-  </InformatieObjectVersie>
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/gm9913/2021/Testeiland</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm9913/2021/Testeiland/nld@2021-08-25;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Testeiland.gml</bestandsnaam>
+                  <hash>42d14405ad07af990d5ed0e669788f8cfab54185f200498d176f406a01bfb4a535ddf0055f411d446541fff9b3e26ed996697174c0484915c0c796a1c4445252</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+         <heeftGeboorteregeling>/akn/nl/act/gm9913/2021/TestReeksNummer1</heeftGeboorteregeling>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm9913</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm9913</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>Testeiland 20</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/gm9913/2021/Testeiland</officieleTitel>
+         <naamInformatieObject>Testeiland 20 Testeiland</naamInformatieObject>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
 </AanleveringInformatieObject>

@@ -15,5 +15,14 @@
          <naam>owLocatie.xml</naam>
          <objecttype>Gebied</objecttype>
       </Bestand>
+      <Bestand>
+         <naam>owRegeltekst.xml</naam>
+         <objecttype>Regeltekst</objecttype>
+         <objecttype>RegelVoorIedereen</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>owActiviteiten.xml</naam>
+         <objecttype>Activiteit</objecttype>
+      </Bestand>
    </Aanlevering>
 </Aanleveringen>
